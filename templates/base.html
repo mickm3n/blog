@@ -1,10 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
   <meta charset="utf-8">
-  <title>MyBlog</title>
-</head>
+  <head>
+    <title>
+      {% block title %}
+        {{ config.title }}
+      {% endblock title %}
+    </title>
+  </head>
 
   <body>
     <div id="container">
