@@ -7,31 +7,26 @@
 </head>
 
   <body>
-    <section id="root">
-        {% for t in config.taxonomies %}
-          <ul>
-              {% set taxonomy = get_taxonomy(kind=t.name) %}
-              <li>{{taxonomy.kind.name}} ({{ taxonomy.items | length }})</li>
-              <ul>
-              {% for item in taxonomy.items %}
-                  {% set url = get_taxonomy_url(kind=taxonomy.kind.name, name=item.name) %}
-                  <li><a href="{{url}}">{{ item.name }}</a> ({{ item.pages | length }})</li>
-                  <ul>
-                      {% for p in item.pages %}
-                          <li><a href="{{p.permalink}}">{{p.title}}</a></li>
-                      {% endfor %}
-                  </ul>
-              {% endfor %}
-              </ul>
-          </ul>
-        {% endfor %}
-    </section>
-    <section class="section">
-      <div class="container">
-        {% block content %}
-        {% endblock content %}
-      </div>
-    </section>
+    <div id="container">
+      <header>
+        <nav class="navbar-top">          
+          <div class="justify-between">
+            <a class="no-underline" href="/">Home</a>
+            <a class="no-underline" href="/blog/">Blog</a>
+          </div>
+        </nav>        
+      </header>
+      <main class="body-zone flex juistify-between flex-1">
+        <article>
+          {% block content %}
+          {% endblock content %}
+        </article>        
+      </main>
+      <aside class="sidebar px">
+      </aside>
+      <footer>
+      </footer>
+    </div>  
   </body>
 
 </html>
