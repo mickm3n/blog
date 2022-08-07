@@ -12,26 +12,57 @@
   </head>
 
   <body>
-    <div id="container">
-      <header>
-        <nav class="navbar-top">          
-          <div class="justify-between">
-            <a class="no-underline" href="/">Home</a>
-            <a class="no-underline" href="/blog/">Blog</a>
-          </div>
-        </nav>        
-      </header>
-      <main class="body-zone flex juistify-between flex-1">
-        <article>
+    <header>
+      <nav class="navbar-top">          
+        <div class="justify-between">
+          <a class="no-underline" href="/">Home</a>
+          <a class="no-underline" href="/blog/">Blog</a>
+        </div>
+      </nav>        
+    </header>
+    <main class="body-zone flex juistify-between flex-1">
+      <section class="main flex-1 py">
           {% block content %}
           {% endblock content %}
-        </article>        
-      </main>
+      </section>        
       <aside class="sidebar px">
+        <h2>By Category</h2>
+        <ul>
+          {% set categories_taxonomy = get_taxonomy(kind="categories") %}
+          {% for cat in categories_taxonomy.items %}
+            {% set url = get_taxonomy_url(kind="categories", name=cat.name) %}
+              <li>
+                <a class="no-underline" href="{{ url }}">{{ cat.name }} ({{ cat.pages | length }})</a>
+              </li>
+          {% endfor %}
+        </ul>
+        <h2>By Tag</h2>
+        <ul>
+          {% set tags_taxonomy = get_taxonomy(kind="tags") %}
+          {% for cat in tags_taxonomy.items %}
+            {% set url = get_taxonomy_url(kind="tags", name=cat.name) %}
+              <li>
+                <a class="no-underline" href="{{ url }}">{{ cat.name }} ({{ cat.pages | length }})</a>
+              </li>
+          {% endfor %}
+        </ul>
+        <h2>Lastest Articles</h2>
+        <ul>
+          {% set blog_section = get_section(path="blog/_index.md") -%}
+          {% for page in blog_section.pages | slice(begin=0,end=5)  %} 
+          <li>
+            <a class="no-underline">
+              <a class="no-underline" href="{{ page.permalink | safe }}">{{ page.title }}</a>
+            </a>
+          </li>
+          {% endfor %} 
+        </ul>
+        {% block sidebar %}
+        {% endblock sidebar %}      
       </aside>
-      <footer>
-      </footer>
-    </div>  
+    </main>      
+    <footer>
+    </footer>
   </body>
 
 </html>
