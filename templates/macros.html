@@ -1,0 +1,32 @@
+{% macro post_max(page) %}
+    <article>
+        <h1 style="font-size:2rem;"><a class="no-underline " href="{{ page.permalink }}">{{ page.title }}</a></h1>
+        <section class="muted">            
+            發表時間：<time pubdate>{{ page.date | date(format="%Y-%m-%d") }}</time>            
+            {% if page.taxonomies.categories %}
+                <span>｜&emsp;分類：</span>
+                <a class="no-underline" href="{{ get_taxonomy_url(kind="categories", name=page.taxonomies.categories[0]) }}">
+                    {{ page.taxonomies.categories[0] }}
+                </a> 
+            {% endif %}
+        </section>
+        {% if page.summary -%}
+            <section>{{ page.summary | safe }}</section>
+        {% elif page.description -%}
+            <p>{{ page.description }}</p>
+        {% endif -%}
+        <section class="muted">
+            <a class="text text-color" href="{{ page.permalink }}#continue-reading">繼續閱讀全文 ➞</a>
+        </section>  
+        {% if page.taxonomies.tags %}
+            <p>
+                {% for tag in page.taxonomies.tags %}
+                    <a class="muted text-sm no-underline" href="{{ get_taxonomy_url(kind="tags", name=tag) }}">#{{ tag }}</a>
+                    {% if page.taxonomies.tags | length > 1 %}
+                        {% if loop.index != page.taxonomies.tags | length %}&nbsp;{% endif %}
+                    {% endif %}
+                {% endfor %}
+            </p>
+        {% endif %}
+    </article>
+{% endmacro post_max %}

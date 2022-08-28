@@ -1,10 +1,13 @@
 {% extends "base.html" %}
 
 {% block content %}
-{% for page in section.pages %}  
-  <article>
-    <h2><a href="{{ page.permalink | safe }}">{{ page.title }}</a></h2>
-    {{ page.content | safe }}
-  </article>
-{% endfor %}
+  {% if paginator %}
+    {% for page in paginator.pages %} 
+      {{macro::post_max(page=page) }}
+    {% endfor %} 
+  {% else %}
+    {% for page in section.pages %}  
+      {{macro::post_max(page=page) }}
+    {% endfor %}
+  {% endif %}
 {% endblock content %}
