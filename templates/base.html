@@ -26,6 +26,8 @@
         {% endblock content %}
       </section>        
       <aside class="sidebar px">
+        {% block additional_aside %}
+        {% endblock additional_aside %}
         <h2>By Category</h2>
         <ul>
           {% set categories_taxonomy = get_taxonomy(kind="categories") %}
@@ -57,8 +59,6 @@
           </li>
           {% endfor %} 
         </ul>
-        {% block sidebar %}
-        {% endblock sidebar %}      
       </aside>
     </main>      
     <footer>
