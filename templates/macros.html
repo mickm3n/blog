@@ -33,3 +33,12 @@
         {% endif %}
     </article>
 {% endmacro post_max %}
+
+{% macro post_link(page) %}
+    <a class="no-underline" href="{{ page.permalink }}">{{ page.title }}</a>
+    {% if page.update %}
+        <span class="muted text-sm">{{ page.updated }}</span>
+    {% else %}
+        <span class="muted text-sm">{{ page.date }}</span>
+    {% endif %}
+{% endmacro post_link %}
