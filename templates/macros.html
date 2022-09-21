@@ -2,7 +2,10 @@
     <article>
         <h1 style="font-size:2rem;"><a class="no-underline " href="{{ page.permalink }}">{{ page.title }}</a></h1>
         <section class="muted">            
-            發表時間：<time pubdate>{{ page.date | date(format="%Y-%m-%d") }}</time>            
+            發表時間：<time pubdate>{{ page.date | date(format="%Y-%m-%d") }}</time>
+            {% if page.updated %}
+                <span>｜ 最後更新時間：<time updatedate>{{ page.updated | date(format="%Y-%m-%d") }}</time></span>
+            {% endif %}
             {% if page.taxonomies.categories %}
                 <span>｜&emsp;分類：</span>
                 <a class="no-underline" href="{{ get_taxonomy_url(kind="categories", name=page.taxonomies.categories[0]) }}">
