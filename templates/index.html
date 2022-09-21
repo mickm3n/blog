@@ -1,14 +1,8 @@
 {% extends "base.html" %}
 
 {% block content %}
-{% set blog_section = get_section(path="blog/_index.md") %}
-{% for page in blog_section.pages %}  
-  <article>
-    <h2><a href="{{ page.permalink | safe }}">{{ page.title }}</a></h2>
-    {{ page.content | safe }}
-  </article>
-{% endfor %}
-<div class="flex-more">
-  <h3><a href="/blog/page/2">看更多文章</a></h3>
-</div>
+  {% set blog_section = get_section(path="blog/_index.md") %}
+    {% for page in blog_section.pages %}  
+      {{macro::post_max(page=page) }}
+    {% endfor %}
 {% endblock content %}
