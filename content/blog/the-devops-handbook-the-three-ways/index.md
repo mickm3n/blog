@@ -1,7 +1,7 @@
 +++
 title = "The Devops Handbook - 三步工作法"
 description = """
-Rating:5.0/5.0
+評分: 5.0/5.0
 很值得閱讀的軟體開發寶典！
 """
 date = "2020-03-08"
