@@ -24,8 +24,10 @@
     </header>  
     <main id="root" class="body-zone flex juistify-between flex-1">
       <section class="main flex-1 py">
-        {% block content %}
-        {% endblock content %}
+        <div class="main-inner">
+          {% block content %}
+          {% endblock content %}
+        </div>
       </section>        
       <aside class="sidebar px">
         {% block additional_aside %}
