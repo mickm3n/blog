@@ -52,7 +52,7 @@
               </li>
           {% endfor %}
         </ul>
-        <h2>Lastest Articles</h2>
+        <h2>Latest Articles</h2>
         <ul>
           {% set blog_section = get_section(path="blog/_index.md") -%}
           {% for page in blog_section.pages | slice(begin=0,end=5)  %} 
