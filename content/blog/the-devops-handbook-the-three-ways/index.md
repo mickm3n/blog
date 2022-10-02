@@ -7,8 +7,8 @@ Rating:5.0/5.0
 date = "2020-03-08"
 
 [taxonomies]
-categories = ["Reading Notes"]
-tags = ["Software Development"]
+categories = ["閱讀筆記"]
+tags = ["軟體開發"]
 +++
 
 # 評分
