@@ -1,5 +1,5 @@
 +++
-title = "How to Read A Book 讀書心得 – 四種閱讀層次"
+title = "How to Read A Book – 四種閱讀層次"
 description = """
 評分: 3.0/5.0
 閱讀起來有點艱澀的書，打算未來成熟點再來訪問他。
@@ -11,10 +11,10 @@ categories = ["閱讀筆記"]
 tags = ["閱讀"]
 +++
 
-# 評分
+# 書籍
+## 評分
 3.0/5.0
 
-# 書籍
 [![](how-to-read-a-book.jpeg)](https://www.goodreads.com/book/show/567610.How_to_Read_a_Book)
 
 # 前言

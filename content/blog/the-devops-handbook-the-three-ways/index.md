@@ -11,10 +11,10 @@ categories = ["閱讀筆記"]
 tags = ["軟體開發"]
 +++
 
-# 評分
+# 書籍
+## 評分
 5.0/5.0
 
-# 書籍
 [![](the-devops-handbook.jpeg)](https://www.goodreads.com/book/show/26083308-the-devops-handbook)
 
 # 摘要
