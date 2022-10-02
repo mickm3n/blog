@@ -145,17 +145,6 @@ h2 {
 h3 {
   font-size: 1.3rem;
 }
-article {
-  padding-left: 4rem;
-  padding-right: 4rem;
-  background-color: #fff;
-  padding-top: 2.4rem;
-  padding-bottom: 1.4rem;
-  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; 
-  max-width: 52rem;
-  min-width: 52rem;
-  margin: 0 auto;
-}
 pre {
   color: rgb(57, 58, 52);
   background-color: rgb(246, 248, 250);
