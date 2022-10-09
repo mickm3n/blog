@@ -16,9 +16,14 @@
 
   <body>
     <header>
-      <nav class="navbar-top">          
-        <div class="justify-between">
-          <a class="no-underline" href="/">Home</a>
+      <nav class="navbar-top">       
+        <div>
+          <a class="navbar-a" href="{{ config.base_url }}" >
+            <img src="{{ get_url(path="images/logo.png", trailing_slash=false, cachebust=true) | safe}}" width = "48" height = "48" alt="Logo" >
+          </a>
+        </div>
+        <span>&nbsp;&nbsp;&nbsp;</span>   
+        <div class="justify-between">          
           <a class="no-underline" href="/blog/">Blog</a>
         </div>
       </nav>        
