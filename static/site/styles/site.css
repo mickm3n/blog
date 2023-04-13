@@ -262,7 +262,7 @@ a:hover {
 
 .muted {
   padding-bottom: 1.5rem;
-  color: #b3b3b1;
+  color: var(--colors-muted);
 }
 
 .footnote-muted {
@@ -421,11 +421,10 @@ a.muted,
   white-space: nowrap;
 }
 
-.navbar-a {
+.navbar-a:link {
   display: flex;
   align-items: center;
   color: var(--colors-text-light);
-  ;
   text-decoration: none;
   padding-left: 12px;
 }
