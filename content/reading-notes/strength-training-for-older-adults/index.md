@@ -9,6 +9,9 @@ date = "2021-03-11"
 [taxonomies]
 categories = ["閱讀筆記"]
 tags = ["重量訓練"]
+
+[extra]
+rating = 4.5
 +++
 
 # 前言

@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <table id="reading-notes-table">
+        <thead>
+            <tr>
+                <th>書名</th>
+                <th>心得發布日期</th>
+                <th>評分</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for book in section.pages %}
+                <tr>
+                    <td><a class="no-underline" href="{{ book.permalink }}">{{ book.title }}</a></td>
+                    <td>{{ book.date | date(format="%Y-%m-%d") }}</td>
+                    <td>{{ book.extra.rating }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>    
+{% endblock content %}

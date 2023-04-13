@@ -487,6 +487,40 @@ li.inline {
   padding-right:1.4rem;
 }
 
+/* Table styles */
+table {
+  width: 90%;
+  margin: 0 auto;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+}
+
+th,
+td {
+  padding: 12px 8px;
+  text-align: left;
+  border-bottom: 1px solid #e9edf0;
+}
+
+th {
+  font-weight: 600;
+  background-color: #003c6d; /* 更深的顏色 */
+  color: #ffffff;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: rgba(187, 222, 214, 1);
+}
+
+tbody tr:nth-child(even) {
+  background-color: rgba(138, 198, 209, 1);
+}
+
+tbody tr:hover {
+  background-color: #e9edf0;
+  cursor: pointer;
+}
+
 @media (min-width: 52rem) {
   #root {
     display: flex;
@@ -535,5 +569,51 @@ li.inline {
     /* font-weight: 400; */
     padding-bottom: 1rem;
     border: none;
+  }
+}
+
+/* Responsive table */
+@media screen and (max-width: 767px) {
+  table {
+    display: block;
+  }
+
+  thead,
+  tbody {
+    display: block;
+    width: 100%;
+  }
+
+  tbody {
+    overflow-y: scroll;
+  }
+
+  th,
+  td {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  th + th,
+  td + td {
+    border-top: 1px solid #e9edf0;
+  }
+
+  tbody tr {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  tbody tr:nth-child(odd) {
+    background-color: rgba(187, 222, 214, 1);
+  }
+
+  tbody tr:nth-child(even) {
+    background-color: rgba(138, 198, 209, 1);
+  }
+
+  tbody tr:hover {
+    background-color: transparent;
   }
 }
