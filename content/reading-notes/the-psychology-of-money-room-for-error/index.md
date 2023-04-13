@@ -1,7 +1,7 @@
 +++
 title = "致富心態 The Psychology Of Money – 預留犯錯空間 (Room For Error)"
 description = """
-評分: 4.0/5.0
+評分：4.0/5.0
 
 """
 date = "2021-02-21"
@@ -21,7 +21,7 @@ rating = 4
 [![](the-psychology-of-money.jpg)](https://www.goodreads.com/book/show/41881472-the-psychology-of-money)
 
 # 前言
-因為本業是軟體工程師，在一開始看到預留犯錯空間聯想到的是在SLO的Error Budget，我們應該要了解自己的服務強度，設定合適的SLO，預留一些犯錯的空間能讓開發跟救火可以達到平衡。
+因為本業是軟體工程師，在一開始看到預留犯錯空間聯想到的是在 SLO 的 Error Budget，我們應該要了解自己的服務強度，設定合適的 SLO，預留一些犯錯的空間能讓開發跟救火可以達到平衡。
 
 # 摘要
 # 預留犯錯空間 (Room for Error)
