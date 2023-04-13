@@ -1,59 +1,59 @@
 {% extends "base.html" %}
 
 {% block content %}
-  <article class="main-inner">
-    <div>
-      <h1 style="font-size:2rem;">{{ page.title }}</h1>
-      <div class="muted">
-        發表時間：<time pubdate>{{ page.date | date(format="%Y-%m-%d") }}</time>
-        {% if page.updated %}
-            <span>｜ 最後更新時間：<time updatedate>{{ page.updated | date(format="%Y-%m-%d") }}</time></span>
-        {% endif %}
-        {% if page.taxonomies.categories %}
-            <span>｜&emsp;分類：</span>
-            <a class="no-underline" href="{{ get_taxonomy_url(kind="categories", name=page.taxonomies.categories[0]) }}">
-                {{ page.taxonomies.categories[0] }}
-            </a> 
-        {% endif %}
-      </div>
+<article class="main-inner">
+  <div>
+    <h1 style="font-size:2rem;">{{ page.title }}</h1>
+    <div class="muted">
+      發表時間：<time pubdate>{{ page.date | date(format="%Y-%m-%d") }}</time>
+      {% if page.updated %}
+      <span>｜ 最後更新時間：<time updatedate>{{ page.updated | date(format="%Y-%m-%d") }}</time></span>
+      {% endif %}
+      {% if page.taxonomies.categories %}
+      <span>｜&emsp;分類：</span>
+      <a class="no-underline" href="{{ get_taxonomy_url(kind="categories", name=page.taxonomies.categories[0]) }}">
+        {{ page.taxonomies.categories[0] }}
+      </a>
+      {% endif %}
     </div>
-    {{ page.content | safe }}
-    {% if page.taxonomies.tags %}
-      <p>
-        {% for tag in page.taxonomies.tags %}
-          <a class="muted text-sm no-underline" href="{{ get_taxonomy_url(kind="tags",lang=lang, name=tag) }}">#{{ tag }}</a>
-          {% if page.taxonomies.tags | length > 1 %}
-            {% if loop.index != page.taxonomies.tags | length %}
-              &nbsp;
-            {% endif %}
-          {% endif %}
-        {% endfor %}
-      </p>
+  </div>
+  {{ page.content | safe }}
+  {% if page.taxonomies.tags %}
+  <p>
+    {% for tag in page.taxonomies.tags %}
+    <a class="muted text-sm no-underline" href="{{ get_taxonomy_url(kind="tags",lang=lang, name=tag) }}">#{{ tag }}</a>
+    {% if page.taxonomies.tags | length > 1 %}
+    {% if loop.index != page.taxonomies.tags | length %}
+    &nbsp;
     {% endif %}
-    <br>    
-  </article>  
+    {% endif %}
+    {% endfor %}
+  </p>
+  {% endif %}
+  <br>
+</article>
 {% endblock content %}
 
 {% block additional_aside %}
-  {% if page.toc %}
-    <h2>大綱</h2>
-    <section class="sidebar-table-content">
+{% if page.toc %}
+<h2>大綱</h2>
+<section class="sidebar-table-content">
+  <ul>
+    {% for h1 in page.toc %}
+    <li>
+      <a href="{{ h1.permalink | safe }}">{{ h1.title }}</a>
+      {% if h1.children %}
       <ul>
-        {% for h1 in page.toc %}
-          <li>
-            <a href="{{ h1.permalink | safe }}">{{ h1.title }}</a>
-            {% if h1.children %}
-              <ul>
-                {% for h2 in h1.children %}
-                  <li>
-                    <a href="{{ h2.permalink | safe }}">{{ h2.title }}</a>
-                  </li>
-                {% endfor %}
-              </ul>
-            {% endif %}
-          </li>
-      {% endfor %}
+        {% for h2 in h1.children %}
+        <li>
+          <a href="{{ h2.permalink | safe }}">{{ h2.title }}</a>
+        </li>
+        {% endfor %}
       </ul>
-    </section>
-  {% endif %}
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
 {% endblock additional_aside %}

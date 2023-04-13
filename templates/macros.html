@@ -1,44 +1,44 @@
 {% macro post_max(page) %}
-    <article class="main-inner">
-        <h1 style="font-size:2rem;"><a class="no-underline " href="{{ page.permalink }}">{{ page.title }}</a></h1>
-        <section class="muted">            
-            發表時間：<time pubdate>{{ page.date | date(format="%Y-%m-%d") }}</time>
-            {% if page.updated %}
-                <span>｜ 最後更新時間：<time updatedate>{{ page.updated | date(format="%Y-%m-%d") }}</time></span>
-            {% endif %}
-            {% if page.taxonomies.categories %}
-                <span>｜&emsp;分類：</span>
-                <a class="no-underline" href="{{ get_taxonomy_url(kind="categories", name=page.taxonomies.categories[0]) }}">
-                    {{ page.taxonomies.categories[0] }}
-                </a> 
-            {% endif %}
-        </section>
-        {% if page.summary -%}
-            <section>{{ page.summary | safe }}</section>
-        {% elif page.description -%}
-            <p>{{ page.description }}</p>
-        {% endif -%}
-        <section class="muted">
-            <a class="text text-color" href="{{ page.permalink }}#continue-reading">繼續閱讀全文 ➞</a>
-        </section>  
-        {% if page.taxonomies.tags %}
-            <p>
-                {% for tag in page.taxonomies.tags %}
-                    <a class="muted text-sm no-underline" href="{{ get_taxonomy_url(kind="tags", name=tag) }}">#{{ tag }}</a>
-                    {% if page.taxonomies.tags | length > 1 %}
-                        {% if loop.index != page.taxonomies.tags | length %}&nbsp;{% endif %}
-                    {% endif %}
-                {% endfor %}
-            </p>
+<article class="main-inner">
+    <h1><a class="no-underline " href="{{ page.permalink }}">{{ page.title }}</a></h1>
+    <section class="muted">
+        發表時間：<time pubdate>{{ page.date | date(format="%Y-%m-%d") }}</time>
+        {% if page.updated %}
+        <span>｜ 最後更新時間：<time updatedate>{{ page.updated | date(format="%Y-%m-%d") }}</time></span>
         {% endif %}
-    </article>
+        {% if page.taxonomies.categories %}
+        <span>｜&emsp;分類：</span>
+        <a class="no-underline" href="{{ get_taxonomy_url(kind="categories", name=page.taxonomies.categories[0]) }}">
+            {{ page.taxonomies.categories[0] }}
+        </a>
+        {% endif %}
+    </section>
+    {% if page.summary -%}
+    <section>{{ page.summary | safe }}</section>
+    {% elif page.description -%}
+    <p>{{ page.description }}</p>
+    {% endif -%}
+    <section class="muted">
+        <a class="text text-color" href="{{ page.permalink }}#continue-reading">繼續閱讀全文 ➞</a>
+    </section>
+    {% if page.taxonomies.tags %}
+    <p>
+        {% for tag in page.taxonomies.tags %}
+        <a class="muted text-sm no-underline" href="{{ get_taxonomy_url(kind="tags", name=tag) }}">#{{ tag }}</a>
+        {% if page.taxonomies.tags | length > 1 %}
+        {% if loop.index != page.taxonomies.tags | length %}&nbsp;{% endif %}
+        {% endif %}
+        {% endfor %}
+    </p>
+    {% endif %}
+</article>
 {% endmacro post_max %}
 
 {% macro post_link(page) %}
-    <a class="no-underline" href="{{ page.permalink }}">{{ page.title }}</a>
-    {% if page.update %}
-        <span class="muted text-sm">{{ page.updated }}</span>
-    {% else %}
-        <span class="muted text-sm">{{ page.date }}</span>
-    {% endif %}
+<a class="no-underline" href="{{ page.permalink }}">{{ page.title }}</a>
+{% if page.update %}
+<span class="muted text-sm">{{ page.updated }}</span>
+{% else %}
+<span class="muted text-sm">{{ page.date }}</span>
+{% endif %}
 {% endmacro post_link %}

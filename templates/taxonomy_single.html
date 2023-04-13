@@ -1,18 +1,18 @@
 {% extends "base.html" %}
 
 {% block content %}
-    <div class="main-box-block">
-        <section>
-            <div class="page-header">
-                <h1> {{ term.name }} </h1>
-            </div>
-            <ul class="root-ul">
-                {% for page in term.pages %} 
-                    <li>
-                        {{ macro::post_link(page=page) }}
-                    </li>
-                {% endfor %} 
-            </ul>
-        </section>
-    </div>
+<div class="main-box-block">
+    <section>
+        <div class="page-header">
+            <h1> {{ term.name }} </h1>
+        </div>
+        <ul class="root-ul">
+            {% for page in term.pages %}
+            <li>
+                {{ macro::post_link(page=page) }}
+            </li>
+            {% endfor %}
+        </ul>
+    </section>
+</div>
 {% endblock content %}

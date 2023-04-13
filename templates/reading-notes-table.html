@@ -1,54 +1,54 @@
 {% extends "base.html" %}
 
 {% block content %}
-    <table id="reading-notes-table">
-        <thead>
-            <tr>
-                <th>書名</th>
-                <th>心得發布日期</th>
-                <th>評分</th>
-            </tr>
-        </thead>
-        <tbody>
-            {% for book in section.pages %}
-                <tr>
-                    <td><a class="no-underline" href="{{ book.permalink }}">{{ book.title }}</a></td>
-                    <td>{{ book.date | date(format="%Y-%m-%d") }}</td>
-                    <td>{{ book.extra.rating }}</td>
-                </tr>
-            {% endfor %}
-        </tbody>
-    </table>    
+<table id="reading-notes-table">
+  <thead>
+    <tr>
+      <th>書名</th>
+      <th>心得發布日期</th>
+      <th>評分</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for book in section.pages %}
+    <tr>
+      <td><a class="no-underline" href="{{ book.permalink }}">{{ book.title }}</a></td>
+      <td>{{ book.date | date(format="%Y-%m-%d") }}</td>
+      <td>{{ book.extra.rating }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
 {% endblock content %}
 {% block script %}
 <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      const table = document.getElementById('reading-notes-table');
-      const tableSort = new Tablesort(table);
-  
-      // 監聽 'aria-sort' 屬性的變化
-      const observer = new MutationObserver(function (mutations) {
-        mutations.forEach(function (mutation) {
-          if (mutation.type === 'attributes' && mutation.attributeName === 'aria-sort') {
-            const ths = table.getElementsByTagName('th');
-            for (let i = 0; i < ths.length; i++) {
-              ths[i].classList.remove('sort-asc', 'sort-desc');
-            }
-  
-            const sortOrder = mutation.target.getAttribute('aria-sort');
-            if (sortOrder === 'ascending') {
-              mutation.target.classList.add('sort-asc');
-            } else if (sortOrder === 'descending') {
-              mutation.target.classList.add('sort-desc');
-            }
+  document.addEventListener('DOMContentLoaded', function () {
+    const table = document.getElementById('reading-notes-table');
+    const tableSort = new Tablesort(table);
+
+    // 監聽 'aria-sort' 屬性的變化
+    const observer = new MutationObserver(function (mutations) {
+      mutations.forEach(function (mutation) {
+        if (mutation.type === 'attributes' && mutation.attributeName === 'aria-sort') {
+          const ths = table.getElementsByTagName('th');
+          for (let i = 0; i < ths.length; i++) {
+            ths[i].classList.remove('sort-asc', 'sort-desc');
           }
-        });
+
+          const sortOrder = mutation.target.getAttribute('aria-sort');
+          if (sortOrder === 'ascending') {
+            mutation.target.classList.add('sort-asc');
+          } else if (sortOrder === 'descending') {
+            mutation.target.classList.add('sort-desc');
+          }
+        }
       });
-  
-      const ths = table.getElementsByTagName('th');
-      for (let i = 0; i < ths.length; i++) {
-        observer.observe(ths[i], { attributes: true });
-      }
     });
-  </script>
+
+    const ths = table.getElementsByTagName('th');
+    for (let i = 0; i < ths.length; i++) {
+      observer.observe(ths[i], { attributes: true });
+    }
+  });
+</script>
 {% endblock script %}

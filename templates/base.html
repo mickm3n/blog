@@ -2,76 +2,78 @@
 <!DOCTYPE html>
 <html lang="zh-Hant" itemscope itemtype="http://schema.org/Blog">
 
-  <head> 
-    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1"/>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
     <script src="{{ get_url(path="js/tablesort.min.js", cachebust=true) }}"></script>
-    <link rel="icon" href="{{ get_url(path="images/favicon.ico", cachebust=true) }}" type="image/x-icon"/>
-    <link rel="stylesheet" href="{{ get_url(path="site/styles/site.css", trailing_slash=false, cachebust=true) | safe }}">
+    <link rel="icon" href="{{ get_url(path="images/favicon.ico", cachebust=true) }}" type="image/x-icon" />
+    <link rel="stylesheet"
+      href="{{ get_url(path="site/styles/site.css", trailing_slash=false, cachebust=true) | safe }}">
     <title>
       {% block title %}
-        {{ config.title }}
+      {{ config.title }}
       {% endblock title %}
     </title>
   </head>
 
   <body>
     <header>
-      <nav class="navbar-top">       
+      <nav class="navbar-top">
         <div>
-          <a class="navbar-a" href="{{ config.base_url }}" >
-            <img src="{{ get_url(path="images/logo.png", trailing_slash=false, cachebust=true) | safe}}" width = "48" height = "48" alt="Logo" >
+          <a class="navbar-a" href="{{ config.base_url }}">
+            <img src="{{ get_url(path="images/logo.png", trailing_slash=false, cachebust=true) | safe}}" width="48"
+              height="48" alt="Logo">
             <span class="navbar-name">針織拙見</span>
           </a>
         </div>
-        <span>&nbsp;&nbsp;&nbsp;</span>   
-        <div class="justify-between">          
+        <span>&nbsp;&nbsp;&nbsp;</span>
+        <div class="justify-between">
           <a class="no-underline" href="/reading-notes/">閱讀筆記</a>
         </div>
-      </nav>        
-    </header>  
+      </nav>
+    </header>
     <main id="root" class="body-zone flex juistify-between flex-1">
       <section class="main flex-1 py">
         {% block content %}
         {% endblock content %}
-      </section>        
+      </section>
       <aside class="sidebar px">
         {% block additional_aside %}
         {% endblock additional_aside %}
         <h2>近期文章</h2>
         <ul>
           {% set blog_section = get_section(path="reading-notes/_index.md") -%}
-          {% for page in blog_section.pages | slice(begin=0,end=5)  %} 
+          {% for page in blog_section.pages | slice(begin=0,end=5)  %}
           <li>
             <a class="no-underline">
               <a class="no-underline" href="{{ page.permalink | safe }}">{{ page.title }}</a>
               <span class="muted text-sm">{{ page.date }}</span>
             </a>
           </li>
-          {% endfor %} 
+          {% endfor %}
         </ul>
         <h2>依分類</h2>
         <ul>
           {% set categories_taxonomy = get_taxonomy(kind="categories") %}
           {% for cat in categories_taxonomy.items %}
-            {% set url = get_taxonomy_url(kind="categories", name=cat.name) %}
-              <li>
-                <a class="no-underline" href="{{ url }}">{{ cat.name }} ({{ cat.pages | length }})</a>
-              </li>
+          {% set url = get_taxonomy_url(kind="categories", name=cat.name) %}
+          <li>
+            <a class="no-underline" href="{{ url }}">{{ cat.name }} ({{ cat.pages | length }})</a>
+          </li>
           {% endfor %}
         </ul>
         <h2>依標籤</h2>
         <ul>
           {% set tags_taxonomy = get_taxonomy(kind="tags") %}
           {% for cat in tags_taxonomy.items %}
-            {% set url = get_taxonomy_url(kind="tags", name=cat.name) %}
-              <li>
-                <a class="no-underline" href="{{ url }}">{{ cat.name }} ({{ cat.pages | length }})</a>
-              </li>
+          {% set url = get_taxonomy_url(kind="tags", name=cat.name) %}
+          <li>
+            <a class="no-underline" href="{{ url }}">{{ cat.name }} ({{ cat.pages | length }})</a>
+          </li>
           {% endfor %}
-        </ul>        
+        </ul>
       </aside>
-    </main>      
+    </main>
     <footer>
     </footer>
     {% block script %}

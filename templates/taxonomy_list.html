@@ -1,23 +1,24 @@
 {% extends "base.html" %}
 
 {% block content %}
-    <div class="main-box-block">
-        <section>
-            <div class="page-header">
-                <h1>All {{ taxonomy.name }}</h1>
-            </div>
-            <ul class="root-ul">
-                {% for category in terms %}
-                    <li>
-                        <a class="no-underline" href="{{ category.permalink }}">{{ category.name }}</a> ({{category.pages | length }})
-                        <ul>
-                            {% for page in category.pages %}
-                                <li>{{ macro::post_link(page=page) }}</li>
-                            {% endfor %}
-                        </ul>
-                    </li>
-                {% endfor %}
-            </ul>
-        </section>
-    </div>
+<div class="main-box-block">
+    <section>
+        <div class="page-header">
+            <h1>All {{ taxonomy.name }}</h1>
+        </div>
+        <ul class="root-ul">
+            {% for category in terms %}
+            <li>
+                <a class="no-underline" href="{{ category.permalink }}">{{ category.name }}</a>
+                ({{category.pages | length }})
+                <ul>
+                    {% for page in category.pages %}
+                    <li>{{ macro::post_link(page=page) }}</li>
+                    {% endfor %}
+                </ul>
+            </li>
+            {% endfor %}
+        </ul>
+    </section>
+</div>
 {% endblock content %}
