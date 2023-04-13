@@ -1,4 +1,7 @@
 @charset "UTF-8";
+
+/* #region reset */
+
 html,
 body,
 p,
@@ -70,7 +73,8 @@ td,
 th {
   padding: 0;
 }
-/* --reset end -- */
+
+/* #endregion */
 
 html {
   font-size: 15px;
