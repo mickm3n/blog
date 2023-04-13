@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 
 {% block content %}
-  {% set blog_section = get_section(path="blog/_index.md") %}
+  {% set blog_section = get_section(path="reading-notes/_index.md") %}
     {% for page in blog_section.pages %}  
       {{macro::post_max(page=page) }}
     {% endfor %}

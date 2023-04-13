@@ -24,7 +24,7 @@
         </div>
         <span>&nbsp;&nbsp;&nbsp;</span>   
         <div class="justify-between">          
-          <a class="no-underline" href="/blog/">Blog</a>
+          <a class="no-underline" href="/reading-notes/">讀書心得筆記</a>
         </div>
       </nav>        
     </header>  
@@ -38,7 +38,7 @@
         {% endblock additional_aside %}
         <h2>近期文章</h2>
         <ul>
-          {% set blog_section = get_section(path="blog/_index.md") -%}
+          {% set blog_section = get_section(path="reading-notes/_index.md") -%}
           {% for page in blog_section.pages | slice(begin=0,end=5)  %} 
           <li>
             <a class="no-underline">
