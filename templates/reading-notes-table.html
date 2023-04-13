@@ -20,3 +20,35 @@
         </tbody>
     </table>    
 {% endblock content %}
+{% block script %}
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+      const table = document.getElementById('reading-notes-table');
+      const tableSort = new Tablesort(table);
+  
+      // 監聽 'aria-sort' 屬性的變化
+      const observer = new MutationObserver(function (mutations) {
+        mutations.forEach(function (mutation) {
+          if (mutation.type === 'attributes' && mutation.attributeName === 'aria-sort') {
+            const ths = table.getElementsByTagName('th');
+            for (let i = 0; i < ths.length; i++) {
+              ths[i].classList.remove('sort-asc', 'sort-desc');
+            }
+  
+            const sortOrder = mutation.target.getAttribute('aria-sort');
+            if (sortOrder === 'ascending') {
+              mutation.target.classList.add('sort-asc');
+            } else if (sortOrder === 'descending') {
+              mutation.target.classList.add('sort-desc');
+            }
+          }
+        });
+      });
+  
+      const ths = table.getElementsByTagName('th');
+      for (let i = 0; i < ths.length; i++) {
+        observer.observe(ths[i], { attributes: true });
+      }
+    });
+  </script>
+{% endblock script %}

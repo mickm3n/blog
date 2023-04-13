@@ -5,8 +5,9 @@
   <head> 
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1"/>
+    <script src="{{ get_url(path="js/tablesort.min.js", cachebust=true) }}"></script>
     <link rel="icon" href="{{ get_url(path="images/favicon.ico", cachebust=true) }}" type="image/x-icon"/>
-    <link rel="stylesheet" href="{{ get_url(path="site/styles/site.css", trailing_slash=false,cachebust=true) | safe }}">
+    <link rel="stylesheet" href="{{ get_url(path="site/styles/site.css", trailing_slash=false, cachebust=true) | safe }}">
     <title>
       {% block title %}
         {{ config.title }}
@@ -73,6 +74,8 @@
     </main>      
     <footer>
     </footer>
+    {% block script %}
+    {% endblock script %}
   </body>
 
 </html>
