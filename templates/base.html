@@ -41,38 +41,42 @@
       <aside class="sidebar px">
         {% block additional_aside %}
         {% endblock additional_aside %}
-        <h2>近期文章</h2>
-        <ul>
-          {% set blog_section = get_section(path="reading-notes/_index.md") -%}
-          {% for page in blog_section.pages | slice(begin=0,end=5)  %}
-          <li>
-            <a class="no-underline">
-              <a class="no-underline" href="{{ page.permalink | safe }}">{{ page.title }}</a>
-              <span class="muted text-sm">{{ page.date }}</span>
-            </a>
-          </li>
-          {% endfor %}
-        </ul>
-        <h2>依分類</h2>
-        <ul>
-          {% set categories_taxonomy = get_taxonomy(kind="categories") %}
-          {% for cat in categories_taxonomy.items %}
-          {% set url = get_taxonomy_url(kind="categories", name=cat.name) %}
-          <li>
-            <a class="no-underline" href="{{ url }}">{{ cat.name }} ({{ cat.pages | length }})</a>
-          </li>
-          {% endfor %}
-        </ul>
-        <h2>依標籤</h2>
-        <ul>
-          {% set tags_taxonomy = get_taxonomy(kind="tags") %}
-          {% for cat in tags_taxonomy.items %}
-          {% set url = get_taxonomy_url(kind="tags", name=cat.name) %}
-          <li>
-            <a class="no-underline" href="{{ url }}">{{ cat.name }} ({{ cat.pages | length }})</a>
-          </li>
-          {% endfor %}
-        </ul>
+        <div class="sidebar-element">
+          <h2>近期文章</h2>
+          <ul>
+            {% set blog_section = get_section(path="reading-notes/_index.md") -%}
+            {% for page in blog_section.pages | slice(begin=0,end=5)  %}
+            <li>
+              <a class="no-underline">
+                <a class="no-underline" href="{{ page.permalink | safe }}">{{ page.title }}</a>
+                <span class="muted text-sm">{{ page.date }}</span>
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="sidebar-element">
+          <h2>依分類</h2>
+          <ul>
+            {% set categories_taxonomy = get_taxonomy(kind="categories") %}
+            {% for cat in categories_taxonomy.items %}
+            {% set url = get_taxonomy_url(kind="categories", name=cat.name) %}
+            <li>
+              <a class="no-underline" href="{{ url }}">{{ cat.name }} ({{ cat.pages | length }})</a>
+            </li>
+            {% endfor %}
+          </ul>
+          <h2>依標籤</h2>
+          <ul>
+            {% set tags_taxonomy = get_taxonomy(kind="tags") %}
+            {% for cat in tags_taxonomy.items %}
+            {% set url = get_taxonomy_url(kind="tags", name=cat.name) %}
+            <li>
+              <a class="no-underline" href="{{ url }}">{{ cat.name }} ({{ cat.pages | length }})</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
       </aside>
     </main>
     <footer>

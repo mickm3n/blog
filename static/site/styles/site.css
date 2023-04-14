@@ -584,6 +584,21 @@ tbody tr:hover {
   margin-left: 5px;
 }
 
+.sidebar-element {
+  width: 60%;
+  background-color: var(--colors-article);
+  padding-left: 1.5rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  max-width: 24rem;
+  min-width: 18rem;
+  margin-top: 1.4rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-bottom: 2rem;
+}
+
 @media (min-width: 52rem) {
   #root {
     display: flex;
@@ -620,7 +635,7 @@ tbody tr:hover {
     z-index: 1;
     height: 100vh;
     overflow-y: auto;
-    width: 22rem;
+    width: 25rem;
   }
 
   .sidebar ul {
