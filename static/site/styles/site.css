@@ -665,6 +665,19 @@ tbody tr:hover {
     box-sizing: border-box;
   }
 
+  td {
+    width: 33%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  td:hover {
+    white-space: normal;
+    overflow: visible;
+    text-overflow: clip;
+  }
+
   th+th,
   td+td {
     border-top: 1px solid #e9edf0;
