@@ -1,5 +1,5 @@
 +++
-title = "蛤蟆先生去看心理師 COUNSELLING FOR TOADS – 尋求改變之前要認識自己"
+title = "蛤蟆先生去看心理師 Counselling For Toads – 尋求改變之前要認識自己"
 date = "2023-01-24"
 
 [taxonomies]
