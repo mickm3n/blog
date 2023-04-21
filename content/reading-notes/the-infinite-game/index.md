@@ -12,11 +12,11 @@ rating = 4
 
 # 書籍
 
-![](the-infinite-game.jpg)
+[![](the-infinite-game.jpg)](https://www.goodreads.com/book/show/38390751-the-infinite-game)
 
 # 前言
 
-在 Together is Better 語錄書才真正第一次遇到 Simon Sinek，之後就想著什麼時候一定要來讀一下他的書。這次直接挑了他的比較新的著作來看——無限賽局。
+在 Together Is Better 語錄書才真正第一次遇到 Simon Sinek，之後就想著什麼時候一定要來讀一下他的書。這次直接挑了他的比較新的著作來看——無限賽局。
 
 # 摘錄觀點
 
