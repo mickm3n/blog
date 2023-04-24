@@ -1,5 +1,7 @@
 base_url = "https://blog.mickzh.com"
 
+# Feeds
+generate_feed = true
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
