@@ -5,6 +5,11 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    {% if page.extra.image %}
+    {% set sns_image = get_url(path=page.extra.image) %}
+    <meta property="og:image" content="{{ sns_image }}" />
+    <meta name="twitter:image" content="{{ sns_image }}" />
+    {% endif %}
     <script src="{{ get_url(path="js/tablesort.min.js", cachebust=true) }}"></script>
     <link rel="icon" href="{{ get_url(path="images/favicon.ico", cachebust=true) }}" type="image/x-icon" />
     <link rel="stylesheet"

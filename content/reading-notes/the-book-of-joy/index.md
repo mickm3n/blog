@@ -8,6 +8,7 @@ tags = ["快樂", "哲學"]
 
 [extra]
 rating = 5
+image = "the-book-of-joy.jpg"
 +++
 
 # 一二三言以蔽之
