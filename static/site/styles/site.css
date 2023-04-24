@@ -539,6 +539,12 @@ li.inline {
   background-color: var(--colors-article);
 }
 
+.image-caption {
+  text-align: center;
+  font-size: 0.8rem;
+  color: #777;
+}
+
 /* Table styles */
 table {
   width: 90%;
