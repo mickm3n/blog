@@ -8,6 +8,7 @@ tags = ["溝通"]
 
 [extra]
 rating = 3
+image = "how-to-win-friends-and-influence-people.webp"
 +++
 
 # 一二三言以蔽之

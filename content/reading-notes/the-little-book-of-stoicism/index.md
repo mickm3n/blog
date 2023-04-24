@@ -8,6 +8,7 @@ tags = ["哲學"]
 
 [extra]
 rating = 4.5
+image = "the-little-book-of-stoicism-timeless-wisdom-to-gain-resilience-confidence-and-calmness.webp"
 +++
 
 # 一二三言以蔽之

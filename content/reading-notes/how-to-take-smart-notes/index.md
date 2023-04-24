@@ -12,6 +12,7 @@ tags = ["筆記"]
 
 [extra]
 rating = 4.5
+image = "how-to-take-smart-notes.jpg"
 +++
 
 # 書籍

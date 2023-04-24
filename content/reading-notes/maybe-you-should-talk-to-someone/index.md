@@ -12,6 +12,7 @@ tags = ["心理治療"]
 
 [extra]
 rating = 5
+image = "maybe-you-should-talk-to-someone.jpeg"
 +++
 
 # 書籍

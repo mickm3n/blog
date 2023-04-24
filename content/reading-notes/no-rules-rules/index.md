@@ -8,6 +8,7 @@ tags = []
 
 [extra]
 rating = 4
+image = "no-rules-rules.jpg"
 +++
 
 # 書籍

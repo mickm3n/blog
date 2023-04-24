@@ -5,6 +5,9 @@ date = "2021-08-11"
 [taxonomies]
 categories = ["生產力工具"]
 tags = ["Roam Research"]
+
+[extra]
+image = "roam-research.webp"
 +++
 
 # 前言

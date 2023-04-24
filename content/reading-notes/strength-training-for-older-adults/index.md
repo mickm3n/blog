@@ -12,6 +12,7 @@ tags = ["重量訓練"]
 
 [extra]
 rating = 4.5
+image = "strengh-training-for-older-adults.webp"
 +++
 
 # 書籍

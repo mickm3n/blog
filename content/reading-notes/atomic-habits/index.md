@@ -12,6 +12,7 @@ tags = ["習慣"]
 
 [extra]
 rating = 5
+image = "atomic-habits.jpeg"
 +++
 
 # 書籍

@@ -12,6 +12,7 @@ tags = ["軟體開發"]
 
 [extra]
 rating = 5
+image = "the-devops-handbook.jpeg"
 +++
 
 # 書籍

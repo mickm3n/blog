@@ -8,6 +8,7 @@ tags = ["自助", "生產力"]
 
 [extra]
 rating = 5
+image = "the-bullet-journal-method.webp"
 +++
 
 # 書籍

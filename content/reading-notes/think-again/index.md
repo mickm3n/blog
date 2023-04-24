@@ -8,6 +8,7 @@ tags = []
 
 [extra]
 rating = 5
+image = "think-again.webp"
 +++
 
 # 一二三言以蔽之

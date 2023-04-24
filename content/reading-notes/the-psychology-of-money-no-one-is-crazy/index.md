@@ -12,6 +12,7 @@ tags = ["金錢觀", "投資"]
 
 [extra]
 rating = 4
+image = "the-psychology-of-money.jpg"
 +++
 
 # 書籍

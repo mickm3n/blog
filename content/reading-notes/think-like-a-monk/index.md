@@ -8,6 +8,7 @@ tags = ["自我成長"]
 
 [extra]
 rating = 5
+imaeg = "think-like-a-monk.jpg"
 +++
 
 # 書籍

@@ -8,6 +8,7 @@ tags = ["商業", "領導力"]
 
 [extra]
 rating = 4
+image = "the-infinite-game.jpg"
 +++
 
 # 書籍

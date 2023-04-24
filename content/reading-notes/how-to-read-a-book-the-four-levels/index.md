@@ -12,6 +12,7 @@ tags = ["閱讀"]
 
 [extra]
 rating = 3
+image = "how-to-read-a-book.jpeg"
 +++
 
 # 書籍
