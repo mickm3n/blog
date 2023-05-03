@@ -2,7 +2,7 @@
 title = ""
 description = ""
 date = 2023-04-13
-updated = 2023-04-13
+updated = 2023-05-03
 authors = ["Mick Zhuang"]
 
 [taxonomies]
@@ -17,4 +17,5 @@ authors = ["Mick Zhuang"]
 # 網站的規劃
 
 目前的寫作大部分在於閱讀書籍之後的心得，所以特別留下了「閱讀筆記」這個選項在標題列。其餘的部分會歸類在於「雜記」，如果寫作上有什麼大幅度的改變再來做調整。
-
+* [閱讀筆記](reading-notes/)
+* [雜記](blog/)
