@@ -56,7 +56,7 @@ image = "counselling-for-toad.webp"
 
 > Until you make the unconscious conscious, it will direct your life and you will call it fate.
 >
-> ---- 榮格 Carl Gustav Jung
+> -- 榮格 Carl Gustav Jung
 
 ### 「我好，你不好」的劇本
 #### 我逮到你了，你這個壞蛋。

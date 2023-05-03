@@ -64,7 +64,7 @@ image = "the-bullet-journal-method.webp"
 
 > If you fail to plan, you are planning to fail.
 >
-> ---- Benjamin Franklin
+> -- Benjamin Franklin
 
 目標是生活最重要的指引方針，但你要找到真正屬於你自己的，而不是別人告訴你應該要做的。
 

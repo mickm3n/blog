@@ -72,7 +72,7 @@ TODO: Add Link
 
 > Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.
 >
-> ---- Viktor Emil Frankl
+> -- Viktor Emil Frankl
 
 在清楚自己想達成的美德與能辨識出我們能控制的事物之後，如何做出反應就完全在我們的自由的選擇之下。每個選擇的行為都如同我們對自己的價值觀投了一票。
 
