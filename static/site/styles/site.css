@@ -87,8 +87,8 @@ html {
   --colors-primary-light: #8ca0d4;
   --colors-code-background: rgba(0, 0, 0, 0.08);
   --colors-navbar: rgba(32, 73, 105, 1);
-  --colors-background: rgba(218, 218, 218, 1);
-  --colors-article: rgba(255, 247, 247, 1);
+  --colors-background: rgba(255, 255, 255, 1);
+  --colors-article: rgba(255, 255, 255, 1);
   --colors-special: rgba(8, 255, 200, 1);
 }
 
