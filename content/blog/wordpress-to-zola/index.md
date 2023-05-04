@@ -16,7 +16,7 @@ image = "zola.webp"
 
 # 我的第一個部落格：以購買驅動行為
 
-在 2020 年一時興起買了 bluehost 來架站，利用金錢的支出來逼迫自己經營[部落格](https://mickzh.com)、促使自己寫一些東西。但沒有太用心在網站的細節，只速速瀏覽了幾篇網誌教學後、買了很多人推薦的佈景主題 [Soledad](https://themeforest.net/item/soledad-multiconcept-blogmagazine-wp-theme/12945398)、根據需求裝了一些必要的 plugin，接著就是不定期寫一些閱讀心得放上去。
+在 2020 年一時興起買了 bluehost 來架站，利用金錢的支出來逼迫自己經營[部落格](https://mickzh.com)、促使自己寫一些東西。但沒有太用心在網站的細節，只速速瀏覽了幾篇網誌教學後，買了很多人推薦的佈景主題 [Soledad](https://themeforest.net/item/soledad-multiconcept-blogmagazine-wp-theme/12945398)、根據需求裝了一些必要的 plugin，接著就是不定期寫一些閱讀心得放上去。
 
 即使有覺得網站蠻多地方不符合自己的喜好，不過沒有動力深入了解 Soledad 的佈景主題，可以調的東西實在太多了，每次都看一看就作罷了。
 
