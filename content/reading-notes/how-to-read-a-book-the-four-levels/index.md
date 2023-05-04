@@ -1,5 +1,5 @@
 +++
-title = "How to Read A Book – 四種閱讀層次"
+title = "How to Read A Book：四種閱讀層次"
 description = """
 評分：3.0/5.0
 閱讀起來有點艱澀的書，打算未來成熟點再來訪問他。

@@ -1,5 +1,5 @@
 +++
-title = "最後一次相遇，我們只談喜悅 The Book of Joy - 成為漣漪"
+title = "最後一次相遇，我們只談喜悅 The Book of Joy：成為漣漪"
 date = "2023-04-24"
 
 [taxonomies]

@@ -1,5 +1,5 @@
 +++
-title = "子彈思考整理術 The Bullet Journal Method – 僧人心態的日記方法"
+title = "子彈思考整理術 The Bullet Journal Method：僧人心態的日記方法"
 date = "2021-09-04"
 
 [taxonomies]

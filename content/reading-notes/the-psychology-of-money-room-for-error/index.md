@@ -1,5 +1,5 @@
 +++
-title = "致富心態 The Psychology Of Money – 預留犯錯空間 (Room For Error)"
+title = "致富心態 The Psychology Of Money：預留犯錯空間 (Room For Error)"
 description = """
 評分：4.0/5.0
 

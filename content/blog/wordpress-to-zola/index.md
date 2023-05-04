@@ -1,5 +1,5 @@
 +++
-title = "我的拙作 - 把網站從 Bluehost (Wordpress) 遷移到 Zola"
+title = "尚未成功的搬遷：把網站從 Bluehost (Wordpress) 遷移到 Zola"
 date = "2023-05-03"
 
 [taxonomies]

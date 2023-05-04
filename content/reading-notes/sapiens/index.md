@@ -1,5 +1,5 @@
 +++
-title = "人類大歷史 Sapiens – 七萬年前就活在 Metaverse 裡"
+title = "人類大歷史 Sapiens：七萬年前就活在 Metaverse 裡"
 date = "2022-06-27"
 
 [taxonomies]

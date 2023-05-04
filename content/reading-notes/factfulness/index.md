@@ -1,5 +1,5 @@
 +++
-title = "真確 Factfulness – 資料並不等於事實"
+title = "真確 Factfulness：資料並不等於事實"
 date = "2021-11-17"
 
 [taxonomies]

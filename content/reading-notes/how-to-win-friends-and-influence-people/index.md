@@ -1,5 +1,5 @@
 +++
-title = "人性的弱點 How To Win Friends And Influence People – 以溝通共創雙贏"
+title = "人性的弱點 How To Win Friends And Influence People：以溝通共創雙贏"
 date = "2023-01-02"
 
 [taxonomies]
