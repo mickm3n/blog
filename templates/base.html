@@ -46,10 +46,24 @@
         {% block additional_aside %}
         {% endblock additional_aside %}
         <div class="sidebar-element">
-          <h2>近期文章</h2>
+          <h2>最新閱讀筆記</h2>
           <ul>
             {% set blog_section = get_section(path="reading-notes/_index.md") -%}
-            {% for page in blog_section.pages | slice(begin=0,end=5)  %}
+            {% for page in blog_section.pages | slice(begin=0,end=3)  %}
+            <li>
+              <a class="no-underline">
+                <a class="no-underline" href="{{ page.permalink | safe }}">{{ page.title }}</a>
+                <span class="muted text-sm">{{ page.date }}</span>
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="sidebar-element">
+          <h2>最新其他文章</h2>
+          <ul>
+            {% set blog_section = get_section(path="blog/_index.md") -%}
+            {% for page in blog_section.pages | slice(begin=0,end=3)  %}
             <li>
               <a class="no-underline">
                 <a class="no-underline" href="{{ page.permalink | safe }}">{{ page.title }}</a>

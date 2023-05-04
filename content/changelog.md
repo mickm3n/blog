@@ -23,4 +23,4 @@ tags = []
   * 將 [https://blog.mickzh.com](https://blog.mickzh.com) 導到 Netlify
 * 加入[閱讀筆記](../reading-notes)的 sortable table view 來輔助找到分數較高的書
 
-
+<!-- more -->
