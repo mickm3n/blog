@@ -1,6 +1,9 @@
 {% extends "base.html" %}
 
 {% block content %}
+<article class="main-inner">
+  {{ section.content | safe}}
+</article>
 <table id="reading-notes-table">
   <thead>
     <tr>
