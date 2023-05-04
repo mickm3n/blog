@@ -3,7 +3,7 @@ title = "正念減壓（Mindfulness-Based Stress Reduction）八週實體課程�
 date = "2023-04-10"
 
 [taxonomies]
-categories = ["雜記"]
+categories = ["心得"]
 tags = ["正念"]
 +++
 
