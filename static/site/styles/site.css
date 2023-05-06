@@ -122,6 +122,23 @@ h1 {
   line-height: 1.2;
 }
 
+article h1 {
+  position: relative;
+  padding-left: 30px;
+}
+
+article h1::before {
+  /* This is necessary for the pseudo-element to be generated */
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 1.6rem;
+  background-color: var(--colors-navbar);
+  top: 60%;
+  left: 0;
+  transform: translateY(-50%);
+}
+
 h2 {
   font-size: 1.5rem;
   font-weight: 400;
@@ -196,7 +213,7 @@ ul {
 }
 
 p {
-  margin: 0.5rem 0.5rem;
+  margin: 0.5rem 0.8rem;
   text-align: justify;
 }
 
