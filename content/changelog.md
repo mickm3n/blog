@@ -13,7 +13,13 @@ tags = []
 > * MINOR: 有小型更新時變動，例如增加了 sortable table view 或是搜尋功能。
 > * PATCH: 有小幅度修正時變動，例如改了 style 或文章的 properties。
 
-# [2023-05-03][1.0.0] Zola 網站正式上線
+# [2023-05-06][v1.0.1] h1 前的小方塊
+## Changed
+* h1 tag 的前面增加一個小方塊區別 h1 跟 h2，並且把段落文章再往右移一點點可以分出標題和段落文章。
+
+<!-- more -->
+
+# [2023-05-03][v1.0.0] Zola 網站正式上線
 ## What's new
 * 網站命名：[針織拙見](../about)
 * 亂產生了一個 Logo
@@ -22,5 +28,3 @@ tags = []
 * 加入部署 Netlify 的設定
   * 將 [https://blog.mickzh.com](https://blog.mickzh.com) 導到 Netlify
 * 加入[閱讀筆記](../reading-notes)的 sortable table view 來輔助找到分數較高的書
-
-<!-- more -->
