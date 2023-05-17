@@ -8,7 +8,7 @@ tags = ["Belief", "Decision Making"]
 
 [extra]
 rating = 4.0
-image = "thinking-in-bets.webp"
+image = "thinking-in-bets.og.webp"
 +++
 
 # 一二三言以蔽之
