@@ -76,7 +76,7 @@ image = "the-little-book-of-stoicism-timeless-wisdom-to-gain-resilience-confiden
 
 時常反思並改善自己的行為，打破自己不良的預設行為模式，讓自己更接近理想的自我，從而達到幸福。
 
-## 斯多葛的錦囊妙計
+## 斯多葛的錦囊妙計 {#mental-hints}
 
 本書提供了斯多葛主義的 55 個心法，讓我們在生活中可以加以運用。其中最說服我的概念是，將價值觀用自己的語言簡單寫下後，就更有機會在需要的時候可以從腦中提取回來。某種程度應該也類似 Ray Dalio 的[原則 Principles](../principles/)。
 
