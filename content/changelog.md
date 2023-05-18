@@ -13,9 +13,12 @@ tags = []
 > * MINOR: 有小型更新時變動，例如增加了 sortable table view 或是搜尋功能。
 > * PATCH: 有小幅度修正時變動，例如改了 style 或文章的 properties。
 
-# [2023-05-18][v1.0.2] 修正 internal link 的方式
+# [2023-05-18][v1.1.0] 增加了 Backlinks 功能
 ## Changed
 * 根據文件裡建議的 [internal links](https://www.getzola.org/documentation/content/linking/#internal-links) 方式重新修改既有的內部連結。
+
+## New
+* 幫文章加上了 Backlinks，如果有其他文章引用，會在文末產生 Linked References。
 
 <!-- more -->
 
@@ -24,7 +27,7 @@ tags = []
 * h1 tag 的前面增加一個小方塊區別 h1 跟 h2，並且把段落文章再往右移一點點可以分出標題和段落文章。
 
 # [2023-05-03][v1.0.0] Zola 網站正式上線
-## What's new
+## New
 * 網站命名：[針織拙見](@/about.md)
 * 亂產生了一個 Logo
 * 把[舊的部落格](https://mickzh.com)的文章全部搬到新的網站
