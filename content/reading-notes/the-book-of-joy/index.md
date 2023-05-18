@@ -151,7 +151,7 @@ image = "the-book-of-joy.jpg"
 ### 付出
 > 你用不著先擁有再付出。
 >
-> -- [僧人心態 Think Like A Monk](../think-like-a-monk/)
+> -- [僧人心態 Think Like A Monk](@/reading-notes/think-like-a-monk/index.md)
 
 世界有太多問題，可以從自己能做的開始就好。除了物質上，給予時間幫助他人也是一種方式，提供諮詢、安慰、甚至分享智慧、價值觀，幫助人更快樂、更能自給自足，產生正向的善意流。
 

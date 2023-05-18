@@ -21,10 +21,10 @@ tags = []
 
 # [2023-05-03][v1.0.0] Zola 網站正式上線
 ## What's new
-* 網站命名：[針織拙見](../about)
+* 網站命名：[針織拙見](@/about.md)
 * 亂產生了一個 Logo
 * 把[舊的部落格](https://mickzh.com)的文章全部搬到新的網站
 * 加入基本的 CSS 與 Template 設定
 * 加入部署 Netlify 的設定
   * 將 [https://blog.mickzh.com](https://blog.mickzh.com) 導到 Netlify
-* 加入[閱讀筆記](../reading-notes)的 sortable table view 來輔助找到分數較高的書
+* 加入[閱讀筆記](@/reading-notes/_index.md)的 sortable table view 來輔助找到分數較高的書

@@ -19,7 +19,7 @@ image = "the-bullet-journal-method.webp"
 
 記得 2018 還在用 Evernote 記筆記時，為了能更有效率做出有品質的筆記，當時從 [Esor Huang 的子彈筆記術](https://www.playpcesor.com/2018/01/evernote-bullet-journal-1.html) 學了很多筆記技巧，雖然沒有完整地套用，但對子彈這個快、狠、準的代名詞很有印象。
 
-時間轉眼到 2020，閱讀了 Sönke Ahrens 的 [How to Make Smart Notes](../how-to-take-smart-notes/)，讓筆記們彼此連結的想法衝擊了我的大腦，讓我直接轉戰到 Roam Research 上做筆記，重新打造我的第二大腦。在 Roam Research 上除了寫寫工作、讀書的筆記外，也開始把 6 分鐘日記的魔法的想法——早上晚上各抽出 3 分鐘的時間，為自己帶來感恩的想法與每天的自我反思——實際應用在 Roam Research 上。在 Roam Research 也用了將近一年的時間，除了從社群偶爾學習到一些新的應用，也想自己多閱讀關於筆記的技巧，這就是這次讀子彈思考整理術的契機。
+時間轉眼到 2020，閱讀了 Sönke Ahrens 的 [How to Make Smart Notes](@/reading-notes/how-to-take-smart-notes/index.md)，讓筆記們彼此連結的想法衝擊了我的大腦，讓我直接轉戰到 Roam Research 上做筆記，重新打造我的第二大腦。在 Roam Research 上除了寫寫工作、讀書的筆記外，也開始把 6 分鐘日記的魔法的想法——早上晚上各抽出 3 分鐘的時間，為自己帶來感恩的想法與每天的自我反思——實際應用在 Roam Research 上。在 Roam Research 也用了將近一年的時間，除了從社群偶爾學習到一些新的應用，也想自己多閱讀關於筆記的技巧，這就是這次讀子彈思考整理術的契機。
 
 因為對 Esor Huang 的子彈筆記術的印象很深，起初是抱著要強化筆記方法的心情打開了這本書。開始閱讀之後，反而覺得這本書帶給我的是僧人心態的日記應用版。
 

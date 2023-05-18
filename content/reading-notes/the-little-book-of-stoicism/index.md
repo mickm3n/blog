@@ -23,8 +23,8 @@ image = "the-little-book-of-stoicism-timeless-wisdom-to-gain-resilience-confiden
 在之前看過的許多書籍和網路文章中，經常提及斯多葛主義（Stoicism），但我卻一直沒有深入了解其細節。雖然知道最好的方法應該是去閱讀斯多葛主義哲學家們的著作，但還是先選擇這本整理過後的內容當作入門磚。
 
 看到提及斯多葛主義的書及內容摘錄：
-* [僧人心態 Think Like a Monk](../think-like-a-monk/)：以價值觀驅動你的人生摘錄斯多葛哲學家 Seneca 對於恐懼的看法，「我們的恐懼遠多於實際的危險，我們在想像中受的苦，也多於現實生活的苦。」
-* [反脆弱 Antifragile](../antifragile/)：凡殺不死我的必使我更強大提及現代的斯多葛主義可以將恐懼化為謹慎、痛苦化為資訊、錯誤化為啟示、渴望化為行動。斯多葛主義能幫助我們調適情緒。
+* [僧人心態 Think Like a Monk](@/reading-notes/think-like-a-monk/index.md)：以價值觀驅動你的人生摘錄斯多葛哲學家 Seneca 對於恐懼的看法，「我們的恐懼遠多於實際的危險，我們在想像中受的苦，也多於現實生活的苦。」
+* [反脆弱 Antifragile](@/reading-notes/antifragile/index.md)：凡殺不死我的必使我更強大提及現代的斯多葛主義可以將恐懼化為謹慎、痛苦化為資訊、錯誤化為啟示、渴望化為行動。斯多葛主義能幫助我們調適情緒。
 
 # 摘錄觀點
 
@@ -78,7 +78,7 @@ image = "the-little-book-of-stoicism-timeless-wisdom-to-gain-resilience-confiden
 
 ## 斯多葛的錦囊妙計 {#mental-hints}
 
-本書提供了斯多葛主義的 55 個心法，讓我們在生活中可以加以運用。其中最說服我的概念是，將價值觀用自己的語言簡單寫下後，就更有機會在需要的時候可以從腦中提取回來。某種程度應該也類似 Ray Dalio 的[原則 Principles](../principles/)。
+本書提供了斯多葛主義的 55 個心法，讓我們在生活中可以加以運用。其中最說服我的概念是，將價值觀用自己的語言簡單寫下後，就更有機會在需要的時候可以從腦中提取回來。某種程度應該也類似 Ray Dalio 的[原則 Principles](@/reading-notes/principles/index.md)。
 
 以下列出我消化此書之後整理出的心法，不會詳述其內容，純粹當作個人的價值觀記錄與重點提醒，不過如果有想要延伸的話題也歡迎跟我聊聊。也建議自己閱讀以挑選能說服你的價值觀。
 
