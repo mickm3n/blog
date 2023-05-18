@@ -32,10 +32,21 @@
     {% endfor %}
   </p>
   {% endif %}
+  {% if page.backlinks %}
+  <div>
+    <h1>{{ page.backlinks | length }} Linked References</h1>
+    <ul class="root-ul">
+      {% for backlink in page.backlinks %}
+      <li>
+        <a class="no-underline" href="{{ backlink.permalink }}">{{ backlink.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
   <br>
 </article>
 {% endblock content %}
-
 {% block additional_aside %}
 {% if page.toc %}
 <div class="sidebar-element">
