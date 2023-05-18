@@ -13,11 +13,15 @@ tags = []
 > * MINOR: 有小型更新時變動，例如增加了 sortable table view 或是搜尋功能。
 > * PATCH: 有小幅度修正時變動，例如改了 style 或文章的 properties。
 
-# [2023-05-06][v1.0.1] h1 前的小方塊
+# [2023-05-18][v1.0.2] 修正 internal link 的方式
 ## Changed
-* h1 tag 的前面增加一個小方塊區別 h1 跟 h2，並且把段落文章再往右移一點點可以分出標題和段落文章。
+* 根據文件裡建議的 [internal links](https://www.getzola.org/documentation/content/linking/#internal-links) 方式重新修改既有的內部連結。
 
 <!-- more -->
+
+# [2023-05-06][v1.0.1] 增加 h1 前的小方塊增進閱讀性
+## Changed
+* h1 tag 的前面增加一個小方塊區別 h1 跟 h2，並且把段落文章再往右移一點點可以分出標題和段落文章。
 
 # [2023-05-03][v1.0.0] Zola 網站正式上線
 ## What's new
