@@ -1,4 +1,5 @@
 {% import "macros.html" as macro -%}
+
 {% if page.extra.image %}
 {% set sns_image = get_url(path=page.colocated_path ~ page.extra.image) %}
 {% set twitter_card = "summary_large_image" %}
@@ -8,11 +9,13 @@
 {% set twitter_card = "summary" %}
 {% set image_width = 630 %}
 {% endif %}
+
 {% if page.title %}
 {% set title = config.title ~ " > " ~ page.title %}
 {% else %}
 {% set title = config.title %}
 {% endif %}
+
 {% if page.description %}
 {% set description = page.description %}
 {% else %}
