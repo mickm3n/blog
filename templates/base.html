@@ -13,6 +13,11 @@
 {% else %}
 {% set title = config.title %}
 {% endif %}
+{% if page.description %}
+{% set description = page.description %}
+{% else %}
+{% set description = "undefined" %}
+{% endif %}
 <!DOCTYPE html>
 <html lang="zh-Hant" itemscope itemtype="http://schema.org/Blog">
 
@@ -20,6 +25,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
     <meta property="og:title" content="{{ title }}" />
+    <meta property="og:description" content="description" />
     <meta property="og:type" content="website" />
     <meta property="og:image" content="{{ sns_image }}" />
     <meta property="og:image:width" content="1200" />
