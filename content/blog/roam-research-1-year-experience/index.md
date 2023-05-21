@@ -4,7 +4,7 @@ date = "2021-08-11"
 
 [taxonomies]
 categories = ["生產力工具"]
-tags = ["Roam Research"]
+tags = ["roam-research"]
 
 [extra]
 image = "roam-research.webp"

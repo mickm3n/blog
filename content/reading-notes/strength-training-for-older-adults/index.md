@@ -8,7 +8,7 @@ date = "2021-03-11"
 
 [taxonomies]
 categories = ["閱讀筆記"]
-tags = ["重量訓練"]
+tags = []
 
 [extra]
 rating = 4.5

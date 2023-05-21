@@ -4,7 +4,7 @@ date = "2023-05-18"
 
 [taxonomies]
 categories = ["雜記"]
-tags = ["Zola"]
+tags = ["zola"]
 
 [extra]
 image = "zola-backlinks.webp"

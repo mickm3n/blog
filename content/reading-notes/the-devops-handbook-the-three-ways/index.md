@@ -8,7 +8,7 @@ date = "2020-03-08"
 
 [taxonomies]
 categories = ["閱讀筆記"]
-tags = ["軟體開發"]
+tags = []
 
 [extra]
 rating = 5

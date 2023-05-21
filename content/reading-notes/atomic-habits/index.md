@@ -8,7 +8,7 @@ date = "2020-07-19"
 
 [taxonomies]
 categories = ["閱讀筆記"]
-tags = ["習慣"]
+tags = ["habit"]
 
 [extra]
 rating = 5

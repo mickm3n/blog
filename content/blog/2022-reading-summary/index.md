@@ -4,7 +4,7 @@ date = "2023-01-02"
 
 [taxonomies]
 categories = ["年度回顧"]
-tags = ["閱讀"]
+tags = []
 +++
 
 # 閱讀目標

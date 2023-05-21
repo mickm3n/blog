@@ -4,7 +4,7 @@ date = "2021-09-04"
 
 [taxonomies]
 categories = ["閱讀筆記"]
-tags = ["自助", "生產力"]
+tags = []
 
 [extra]
 rating = 5

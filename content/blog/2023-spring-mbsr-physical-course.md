@@ -5,7 +5,7 @@ description = "正念是 Mindfulness 的中文名稱。雖然有「正」字，�
 
 [taxonomies]
 categories = ["心得"]
-tags = ["正念"]
+tags = ["mindfulness", "meditation"]
 +++
 
 # 什麼是正念？

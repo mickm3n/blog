@@ -4,7 +4,7 @@ date = "2021-05-30"
 
 [taxonomies]
 categories = ["閱讀筆記"]
-tags = ["自我成長"]
+tags = []
 
 [extra]
 rating = 5

@@ -4,7 +4,7 @@ date = "2022-05-14"
 
 [taxonomies]
 categories = ["方法"]
-tags = ["習慣"]
+tags = ["habit"]
 
 [extra]
 image = "ps5-bundle.webp"

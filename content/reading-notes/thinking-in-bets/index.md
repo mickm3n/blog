@@ -4,7 +4,7 @@ date = "2023-05-17"
 
 [taxonomies]
 categories = ["閱讀筆記"]
-tags = ["Belief", "Decision Making"]
+tags = ["belief", "decision-making"]
 
 [extra]
 rating = 4.0

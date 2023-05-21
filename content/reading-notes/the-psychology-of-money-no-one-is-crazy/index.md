@@ -9,7 +9,7 @@ update = "2021-02-21"
 
 [taxonomies]
 categories = ["閱讀筆記"]
-tags = ["金錢觀", "投資"]
+tags = []
 
 [extra]
 rating = 4

@@ -4,7 +4,7 @@ date = "2021-12-28"
 
 [taxonomies]
 categories = ["年度回顧"]
-tags = ["閱讀"]
+tags = []
 +++
 
 # 前言

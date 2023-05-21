@@ -4,7 +4,7 @@ date = "2023-01-02"
 
 [taxonomies]
 categories = ["閱讀筆記"]
-tags = ["溝通"]
+tags = []
 
 [extra]
 rating = 3

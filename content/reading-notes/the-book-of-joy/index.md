@@ -4,7 +4,7 @@ date = "2023-04-24"
 
 [taxonomies]
 categories = ["閱讀筆記"]
-tags = ["快樂", "哲學"]
+tags = ["happiness", "philosophy"]
 
 [extra]
 rating = 5

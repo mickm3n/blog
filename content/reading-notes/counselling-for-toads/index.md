@@ -4,7 +4,7 @@ date = "2023-01-24"
 
 [taxonomies]
 categories = ["閱讀筆記"]
-tags = ["諮商"]
+tags = ["mental-health"]
 
 [extra]
 rating = 4

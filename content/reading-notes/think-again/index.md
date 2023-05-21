@@ -4,7 +4,7 @@ date = "2022-11-16"
 
 [taxonomies]
 categories = ["閱讀筆記"]
-tags = ["Belief"]
+tags = []
 
 [extra]
 rating = 5

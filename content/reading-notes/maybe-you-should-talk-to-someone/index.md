@@ -8,7 +8,7 @@ date = "2021-04-05"
 
 [taxonomies]
 categories = ["閱讀筆記"]
-tags = ["心理治療"]
+tags = ["mental-health"]
 
 [extra]
 rating = 5
