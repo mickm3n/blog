@@ -13,14 +13,21 @@ tags = []
 > * MINOR: 有小型更新時變動，例如增加了 sortable table view 或是搜尋功能。
 > * PATCH: 有小幅度修正時變動，例如改了 style 或文章的 properties。
 
+# [2023-05-21][v1.1.1] 修正了 Twitter Card 顯示的問題
+## Changed
+* 加上 `og:title` 和 `twitter:card` 來修正 Twitter Card 沒有生成的問題。
+* 根據 [Open Graph Protocol](https://ogp.me/) 補齊更多缺少的 meta。
+
+詳細過程在[修正 Twitter Card 沒有顯示的問題](@/blog/fix-open-graph-in-twitter-card/index.md)
+
+<!-- more -->
+
 # [2023-05-18][v1.1.0] 增加了 Backlinks 功能
 ## Changed
 * 根據文件裡建議的 [internal links](https://www.getzola.org/documentation/content/linking/#internal-links) 方式重新修改既有的內部連結。
 
 ## New
 * 幫文章加上了 Backlinks，如果有其他文章引用，會在文末產生 Linked References。
-
-<!-- more -->
 
 # [2023-05-06][v1.0.1] 增加 h1 前的小方塊增進閱讀性
 ## Changed
