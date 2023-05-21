@@ -1,6 +1,7 @@
 +++
 title = "正念減壓（Mindfulness-Based Stress Reduction）八週實體課程心得"
 date = "2023-04-10"
+description = "正念是 Mindfulness 的中文名稱。雖然有「正」字，但其實跟要「正向」面對事物無關。正念最核心的概念就是「活在當下」。活在當下的意思是你在當下從事任何活動時，要把心完全投入在當下，而不是流連在已逝的過去或擔心還未來到的未來。"
 
 [taxonomies]
 categories = ["心得"]
