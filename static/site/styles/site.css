@@ -461,6 +461,7 @@ tbody tr:hover {
   margin-left: 0rem;
   margin-right: 0rem;
   margin-bottom: 2rem;
+  display: none;
 }
 
 @media (min-width: 52rem) {
@@ -517,6 +518,10 @@ tbody tr:hover {
     /* font-weight: 400; */
     padding-bottom: 1rem;
     border: none;
+  }
+
+  .sidebar-element {
+    display: block;
   }
 }
 
