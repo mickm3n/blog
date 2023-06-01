@@ -151,20 +151,8 @@ h3 {
   line-height: 1.4;
 }
 
-.relative {
-  position: relative;
-}
-
 strong {
   font-weight: 600;
-}
-
-.mb-absolute {
-  margin-bottom: -0.8rem;
-}
-
-.no-border {
-  border: none;
 }
 
 pre {
@@ -286,10 +274,6 @@ a:hover {
   color: var(--colors-muted);
 }
 
-.footnote-muted {
-  font-size: 1.0rem;
-}
-
 a.muted,
 .muted:link,
 .muted:visited {
@@ -310,124 +294,17 @@ a.muted,
   display: flex;
 }
 
-.flex-3 {
-  flex: 3;
-}
-
 .flex-1 {
   flex: 1;
-}
-
-.flex-warp {
-  flex-wrap: wrap;
-}
-
-.flex-more {
-  margin: auto;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 2rem;
 }
 
 .justify-between {
   justify-content: space-between;
 }
 
-.justify-center {
-  justify-content: center;
-}
-
-.items-center {
-  align-items: center;
-}
-
-.list-none {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-.border-muted {
-  border: 1px solid var(--colors-muted);
-}
-
-.rounded-full {
-  border-radius: 999rem;
-}
-
-.rounded {
-  border-radius: 0.25rem;
-}
-
-.w-full {
-  width: 100%;
-}
-
-.p-sm {
-  padding: 0.25rem;
-}
-
-.inline-block {
-  display: inline-block;
-}
-
-.menu li:not(:last-child) {
-  margin-right: 1rem;
-}
-
-.m-l-2 {
-  margin-left: 0.5rem;
-}
-
 .py {
   padding-top: 1.4rem;
   padding-bottom: 1.4rem;
-}
-
-.py-sm {
-  padding-top: 0.5rem;
-  padding-right: 0.5rem;
-}
-
-.px {
-  padding-left: 1.4rem;
-  padding-right: 1.4rem;
-}
-
-.px-sm {
-  padding-top: 0.5rem;
-  padding-right: 0.5rem;
-}
-
-.my {
-  margin: 1.4rem 1.4rem;
-}
-
-.my-2 {
-  margin: 2.4rem 2.4rem;
-}
-
-.px-2xl {
-  padding-left: 5rem;
-  padding-right: 5rem;
-}
-
-.pr-sm {
-  padding-right: 0.5rem;
-}
-
-.pl-sm {
-  padding-left: 0.5rem;
-}
-
-.pt {
-  padding-top: 1rem;
-  padding-bottom: 2rem;
-}
-
-.pl {
-  padding-left: 1.4rem;
 }
 
 .navbar-name {
@@ -500,26 +377,6 @@ li.inline {
   font-size: 1rem;
 }
 
-.text-sm p {
-  font-size: 1rem;
-}
-
-.pb {
-  padding-bottom: 1.4rem;
-}
-
-.pb-sm {
-  padding-bottom: 0.5rem;
-}
-
-.p0 {
-  padding: 0;
-}
-
-.no-toc {
-  width: auto;
-}
-
 .sidebar ul {
   margin-top: 0;
   padding-left: 1rem;
@@ -530,29 +387,6 @@ li.inline {
   font-size: 1rem;
 }
 
-.display-none {
-  display: none;
-}
-
-.mb {
-  margin-bottom: 1.4rem;
-}
-
-.mb-li {
-  margin-bottom: 1rem;
-}
-
-.mb-lg {
-  margin-bottom: 2.4rem;
-}
-
-.mr {
-  margin-right: 1.4rem;
-}
-
-.mr-sm {
-  margin-right: 0.5rem;
-}
 
 .main-inner {
   padding-left: 1.4rem;
