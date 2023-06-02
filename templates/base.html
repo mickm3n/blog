@@ -11,7 +11,7 @@
 {% endif %}
 
 {% if page.title %}
-{% set title = config.title ~ " > " ~ page.title %}
+{% set title = page.title ~ " | " ~ config.title %}
 {% else %}
 {% set title = config.title %}
 {% endif %}
