@@ -1,5 +1,5 @@
 +++
-title = "誘惑綑綁 Temptation Bundling：PS5 大禮包習慣養成法"
+title = "誘惑綑綁 Temptation Bundling"
 date = "2022-05-14"
 
 [taxonomies]

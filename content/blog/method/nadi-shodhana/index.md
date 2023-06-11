@@ -3,7 +3,7 @@ title = "淨脈呼吸法 Nadi Shodhana"
 date = "2023-06-11"
 
 [taxonomies]
-categories = ["method"]
+categories = ["方法"]
 tags = ["breath"]
 
 [extra]
