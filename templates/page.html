@@ -1,49 +1,52 @@
 {% extends "base.html" %}
 
 {% block content %}
-<article class="main-inner">
-  <div>
-    <h1 style="font-size:2rem;">{{ page.title }}</h1>
-    <div class="muted">
-      發表時間：<time pubdate>{{ page.date | date(format="%Y-%m-%d") }}</time>
-      {% if page.updated %}
-      <span>｜ 最後更新時間：<time updatedate>{{ page.updated | date(format="%Y-%m-%d") }}</time></span>
-      {% endif %}
-      {% if page.taxonomies.categories %}
-      <span>｜&emsp;分類：</span>
-      <a class="no-underline" href="{{ get_taxonomy_url(kind="categories", name=page.taxonomies.categories[0]) }}">
-        {{ page.taxonomies.categories[0] }}
-      </a>
-      {% endif %}
+<div class="main-inner">
+  <article>
+    <div>
+      <h1 style="font-size:2rem;">{{ page.title }}</h1>
+      <div class="muted">
+        發表時間：<time pubdate>{{ page.date | date(format="%Y-%m-%d") }}</time>
+        {% if page.updated %}
+        <span>｜ 最後更新時間：<time updatedate>{{ page.updated | date(format="%Y-%m-%d") }}</time></span>
+        {% endif %}
+        {% if page.taxonomies.categories %}
+        <span>｜&emsp;分類：</span>
+        <a class="no-underline" href="{{ get_taxonomy_url(kind="categories", name=page.taxonomies.categories[0]) }}">
+          {{ page.taxonomies.categories[0] }}
+        </a>
+        {% endif %}
+      </div>
     </div>
-  </div>
-  {{ page.content | safe }}
-  {% if page.taxonomies.tags %}
-  <p>
-    {% for tag in page.taxonomies.tags %}
-    <a class="muted text-sm no-underline" href="{{ get_taxonomy_url(kind="tags",lang=lang, name=tag) }}">#{{ tag }}</a>
-    {% if page.taxonomies.tags | length > 1 %}
-    {% if loop.index != page.taxonomies.tags | length %}
-    &nbsp;
-    {% endif %}
-    {% endif %}
-    {% endfor %}
-  </p>
-  {% endif %}
-  {% if page.backlinks %}
-  <div>
-    <h1>{{ page.backlinks | length }} Linked References</h1>
-    <ul class="root-ul">
-      {% for backlink in page.backlinks %}
-      <li>
-        <a class="no-underline" href="{{ backlink.permalink }}">{{ backlink.title }}</a>
-      </li>
+    {{ page.content | safe }}
+    {% if page.taxonomies.tags %}
+    <p>
+      {% for tag in page.taxonomies.tags %}
+      <a class="muted text-sm no-underline"
+        href="{{ get_taxonomy_url(kind="tags",lang=lang, name=tag) }}">#{{ tag }}</a>
+      {% if page.taxonomies.tags | length > 1 %}
+      {% if loop.index != page.taxonomies.tags | length %}
+      &nbsp;
+      {% endif %}
+      {% endif %}
       {% endfor %}
-    </ul>
-  </div>
-  {% endif %}
-  <br>
-</article>
+    </p>
+    {% endif %}
+    {% if page.backlinks %}
+    <div>
+      <h1>{{ page.backlinks | length }} Linked References</h1>
+      <ul class="root-ul">
+        {% for backlink in page.backlinks %}
+        <li>
+          <a class="no-underline" href="{{ backlink.permalink }}">{{ backlink.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+    <br>
+  </article>
+</div>
 {% endblock content %}
 {% block additional_aside %}
 {% if page.toc %}
