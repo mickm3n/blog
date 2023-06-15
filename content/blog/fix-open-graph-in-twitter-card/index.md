@@ -82,7 +82,7 @@ Open Graph 當年是由 Facebook 提出，主要目的是讓網頁的擁有者�
 {% set twitter_card = "summary_large_image" %}
 {% set image_width = 1200 %}
 {% else %}
-{% set sns_image = get_url(path="images/logo_630.png") %}
+{% set sns_image = get_url(path="images/logo_630.webp") %}
 {% set twitter_card = "summary" %}
 {% set image_width = 630 %}
 {% endif %}
