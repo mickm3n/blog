@@ -50,6 +50,20 @@ image = ""
 
 ## 功能性
 
-最後是在嘗試完 Utteranc.es、IntenseDebate、Cactus、GraphCommento 後暫時先選了 [Utteranc.es](https://utteranc.es/)，雖然只能用 Github 登錄留言應該還蠻不使用者友善的😅。但是利用 Github 做為資料庫的方式我還蠻喜歡的，通知、巢狀留言也都可以直接利用現有的 Github 功能做到。在上線後用 [PageSpeed](https://pagespeed.web.dev/analysis/https-blog-mickzh-com-reading-notes-the-book-of-joy/5xw6sf5fbk?form_factor=mobile)測試的差異不大，javascript 也很簡單。
+### Cactus
+只能簡易用名稱留言、沒有留言通知、沒有巢狀留言
+
+### IntenseDebate
+預設支援用 IntenseDebate 和 Wordpress 的帳號，可以額外開啟 Twitter 和 Facebook 登入，但是 Twitter 開啟後發現有錯誤且無方法修正。支援 Email 留言通知、支援巢狀留言。
+
+### GraphCommento
+在設定上卡關無法嘗試。
+
+### Utteranc.es
+用 Github Issues 當作儲存留言的地方，只支援用 Github 帳號留言。新留言可以直接透過 Github 的通知。無法用巢狀回覆。
+
+# 最後選擇 Utteranc.es
+
+最後在嘗試完 Utteranc.es、IntenseDebate、Cactus、GraphCommento 後暫時先選了 [Utteranc.es](https://utteranc.es/)。在上線後用 [PageSpeed](https://pagespeed.web.dev/analysis/https-blog-mickzh-com-reading-notes-the-book-of-joy/5xw6sf5fbk?form_factor=mobile)測試的差異不大，javascript 也很簡單。
 
 目前留言功能就會用 Utteranc.es 的樣貌先上線，或許我應該要做個簡易的按鈕讓使用者可以回報討厭用 Github 登入來收集反向的聲音。下一步可以考慮一下這件事要怎麼達成。歡迎大家可以利用留言功能與我互動。
