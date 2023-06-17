@@ -13,14 +13,25 @@ tags = []
 > * MINOR: 有小型更新時變動，例如增加了 sortable table view 或是搜尋功能。
 > * PATCH: 有小幅度修正時變動，例如改了 style 或文章的 properties。
 
+# [2023-06-16][v1.2.0] 增加留言功能
+## New
+* 導入 utteranc.es 作留言功能，實驗的過程記錄在[留言功能上線](@/blog/comment-system/index.md)。
+
+## Changed
+* 增加 `blog/method` 的 sub-section 把其他人提出的方法放在一起。
+* 調整網頁標題從 `website-name > article-name` 改為 `article-name | website-name`，來強調文章的標題。
+* 增加 meta description。
+* 調整 CSS，幫粗體加上深紅色、在手機模式下隱藏 sidebar、調整排版。
+
+
+<!-- more -->
+
 # [2023-05-21][v1.1.1] 修正了 Twitter Card 顯示的問題
 ## Changed
 * 加上 `og:title` 和 `twitter:card` 來修正 Twitter Card 沒有生成的問題。
 * 根據 [Open Graph Protocol](https://ogp.me/) 補齊更多缺少的 meta。
 
 詳細過程在[修正 Twitter Card 沒有顯示的問題](@/blog/fix-open-graph-in-twitter-card/index.md)
-
-<!-- more -->
 
 # [2023-05-18][v1.1.0] 增加了 Backlinks 功能
 ## Changed
