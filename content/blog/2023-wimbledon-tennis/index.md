@@ -29,7 +29,7 @@ image = "tennis.webp"
 
 對於現場票的排隊，官網上還有一個蠻詳盡的 [Queue Guide](https://www.wimbledon.com/pdf/290623_The_Championships_2023_Queue_Guide_Updated.pdf) 來講解排隊規則。
 
-![](the-queue.png)
+![](the-queue.webp)
 
 用這張圖來幫大家整理幾個出發前要知道的重點：
 * 現場排隊會是在主場地旁的 Wimbledon Park。不管什麼時候，排隊的起點都從圖中畫滿帳篷的區域開始。搭地鐵到 Southfields 站或是 Wimbledon Park 站的行走距離差不多，從 Wimbledon Park 站要記得直接走公園裡面會比較快。
