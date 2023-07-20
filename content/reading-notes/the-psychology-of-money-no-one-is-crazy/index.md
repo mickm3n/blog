@@ -5,7 +5,7 @@ description = """
 
 """
 date = "2021-02-10"
-update = "2021-02-21"
+updated = "2021-02-21"
 
 [taxonomies]
 categories = ["閱讀筆記"]
