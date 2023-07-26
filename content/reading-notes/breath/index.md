@@ -1,5 +1,5 @@
 +++
-title = "3.3 秒的呼吸奧秘 Breath - 透過呼吸掌控身體深奧系統"
+title = "3.3 秒的呼吸奧秘 Breath - 呼吸是唯一可控制的身體系統"
 date = 2023-07-26
 
 [taxonomies]
