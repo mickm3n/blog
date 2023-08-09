@@ -3,7 +3,7 @@ title = "留言功能上線"
 date = "2023-06-16"
 
 [taxonomies]
-categories = ["網站開發紀錄"]
+categories = ["網站開發記錄"]
 tags = ["SSG", "zola", "utteranc.es"]
 
 [extra]

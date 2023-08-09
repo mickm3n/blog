@@ -4,7 +4,7 @@ date = "2023-05-21"
 description = "一直都習慣把新寫的讀書筆記的連結轉發到 Facebook 跟 Twitter 上，發送前會用 OpenGraph 預覽一下。但他似乎無法偵測 Twitter 的問題，直到貼到 Twitter 才發現並沒有產生 Twitter Card。其實當下就有猜測到應該是 Open Graph 設定上的問題，前輩大大也給了是否沒設定到 Twitter Card 的 meta 的方向。"
 
 [taxonomies]
-categories = ["網站開發紀錄"]
+categories = ["網站開發記錄"]
 tags = ["zola", "twitter", "web"]
 +++
 

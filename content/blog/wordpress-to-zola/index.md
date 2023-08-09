@@ -3,7 +3,7 @@ title = "尚未成功的搬遷：把網站從 Bluehost (Wordpress) 遷移到 Zol
 date = "2023-05-03"
 
 [taxonomies]
-categories = ["網站開發紀錄"]
+categories = ["網站開發記錄"]
 tags = ["zola"]
 
 [extra]

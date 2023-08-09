@@ -3,7 +3,7 @@ title = "零規則 No Rules Rules：打造你心中的黃金陣容"
 date = "2021-07-03"
 
 [taxonomies]
-categories = []
+categories = ["閱讀筆記"]
 tags = []
 
 [extra]
