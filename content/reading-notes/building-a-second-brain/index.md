@@ -24,7 +24,7 @@ image = "building-a-second-brain.webp"
 
 自從閱讀 [How to Take Smart Notes](@/reading-notes/how-to-take-smart-notes/index.md) 之後，我就熱衷於筆記系統。離開了使用好幾年以資料夾架構為主的 Evernote，投入當時初探頭以連結為基礎的筆記軟體——Roam Research。使用 Roam Research 做筆記很自由也很快樂，透過增加連結，很容易找回以前的筆記。在跨領域的知識被連結起來的時候，產生滿足的多巴胺使我能不斷投入地於筆記系統。當時追蹤了好幾個在新型態的筆記軟體上開創筆記方法的人，Tiago Forte 就是其中一個。
 
-Tiago Forte 提出的 The CODE Method 和 The PARA Method 的概念其實以前都有看過。但過往的我好像著重在做筆記本身，滿腦子思考著「如何降低寫筆記的摩擦力」「如何讓我更容易找到過往的筆記」當時只把這兩個方法記錄在筆記系統裡，沒有實際思考是否能把方法整合進我的系統裡。
+Tiago Forte 提出的 The CODE Method 和 The PARA Method 的概念其實以前都有看過。但過往的我好像著重在做筆記本身，滿腦子思考著「如何降低寫筆記的摩擦力」、「如何讓我更容易找到過往的筆記」。當時只把這兩個方法記錄在筆記系統裡，沒有實際思考是否能把方法整合進我的系統裡。
 
 直到今年相繼讀了「[Ernest PKM 個人知識系統 工作流程](https://www.ernestchiang.com/zh/posts/2023/ernest-pkm-workflow/)」和吳秉儒的「[我的個人知識管理系統](https://pinchlime.com/blog/my-personal-knowledge-management-system-2023/)」，發現我相對缺乏的是目標；閱讀大量不同領域的書籍，把筆記輸入系統，但沒有實際上運用這些筆記達到什麼成果。
 
