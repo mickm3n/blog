@@ -46,6 +46,22 @@ Tiago Forte 的「打造第二大腦」一直在我的待讀清單中，剛好�
 
 CODE 方法是由四個步驟：Capture、Organize、Distill、Express 取首字母組成的方法，主要在描述資訊工作流，從收集、組織、萃取、到產出。
 
+* Capture：收集對你有意義、產生共鳴的資訊。
+
+*要有意識地選擇資訊，要專注就要忽略更多。*
+
+* Organize：組織資訊，讓資訊更容易使用。
+
+*以專案導向，搭配 The PARA Method 讓資訊透過適當的擺放方式創造更大的價值。*
+
+* Distill：萃取出知識的精髓，方便使用。
+
+*用自己的語言描述精髓，成為自己的知識。可參考書中提到的累進式摘要，一層一層的萃取出重要的部分。*
+
+* Express：利用你獨特的成長與學習歷程，分享你的獨到見解。
+
+*書中建議盡可能把時間和能量投注於創造，而不要將其耗用於消費資訊。*
+
 詳細可參考：[The 4 Levels of Personal Knowledge Management](https://fortelabs.com/blog/the-4-levels-of-personal-knowledge-management/) 或本書
 
 ## 十二道最愛的難題 Twelve Favorite Problems
