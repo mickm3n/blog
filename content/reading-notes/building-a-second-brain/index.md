@@ -26,7 +26,7 @@ image = "building-a-second-brain.webp"
 
 Tiago Forte 提出的 The CODE Method 和 The PARA Method 的概念其實以前都有看過。但過往的我好像著重在做筆記本身，滿腦子思考著「如何降低寫筆記的摩擦力」、「如何讓我更容易找到過往的筆記」。當時只把這兩個方法記錄在筆記系統裡，沒有實際思考是否能把方法整合進我的系統裡。
 
-直到今年相繼讀了「[Ernest PKM 個人知識系統 工作流程](https://www.ernestchiang.com/zh/posts/2023/ernest-pkm-workflow/)」和吳秉儒的「[我的個人知識管理系統](https://pinchlime.com/blog/my-personal-knowledge-management-system-2023/)」，發現我相對缺乏的是目標；閱讀大量不同領域的書籍，把筆記輸入系統，但沒有實際上運用這些筆記達到什麼成果。
+直到今年相繼讀了「[Ernest PKM 個人知識系統 工作流程](https://www.ernestchiang.com/zh/posts/2023/ernest-pkm-workflow/)」和吳秉儒的「[我的個人知識管理系統](https://pinchlime.com/blog/my-personal-knowledge-management-system-2023/)」，發現我相對缺乏的是目標；享受寫筆記的過程而沒有實際上運用這些筆記達到什麼成果。
 
 Tiago Forte 的「打造第二大腦」一直在我的待讀清單中，剛好就趁這個機會閱讀，希望能整理屬於我的第二大腦並使用它輔助解決生活中的難題以及達成生活中的目標。
 
