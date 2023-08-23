@@ -7,12 +7,10 @@ categories = ["經驗分享"]
 tags = ["English", "London"]
 
 [extra]
-image = "england.webp"
+image = "wimbledon-school-of-english.webp"
 +++
 
-![](england.webp)
-
-<p class="image-caption">Photo by <a href="https://unsplash.com/@waldemarbrandt67w?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Waldemar</a> on <a href="https://unsplash.com/photos/U3Ptj3jafX8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>
+![](wimbledon-school-of-english.webp)
 
 目的
 ================
@@ -40,6 +38,9 @@ Wimbledon School of English 的學生最主要是來自韓國、瑞士、沙烏�
 如果沒有額外加課的話，學校的課堂在一三五是從 9:15 上到 15:45，二四是從 9:15 上到 12:55。學校也會額外提供一些旅遊、運動、社交的活動可以參加。
 
 課程主要分成兩種課程。會有主要老師（First Teacher）根據教科書教學，每週是一個章節，會針對一個主題，例如電影、犯罪...等做相關單字的教學，也會搭配兩個文法句型，透過閱讀和對話練習來實際使用。每天的第二堂課是由輔助老師（Second Teacher）針對教學內容作補充，提供更多的練習，形式不限。如果自己有需要突破的地方，透過輔助老師的幫忙來加強是很好的選擇。在二四下午也可以額外加課來加強不同的部分。
+
+![](wse-school.webp)
+<p class="image-caption">學校不像想像中的校園，是兩棟房子聯合起來的空間，包含了教室、辦公室、交誼廳、甚至還有一個花園。</p>
 
 生活
 ================
