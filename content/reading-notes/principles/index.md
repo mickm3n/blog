@@ -1,5 +1,5 @@
 +++
-title = "原則 Principles：生活與工作的原則"
+title = "《原則 Principles》閱讀筆記：生活與工作的原則"
 date = "2022-01-31"
 updated = "2022-02-28"
 

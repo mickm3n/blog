@@ -1,9 +1,5 @@
 +++
-title = "原子習慣 Atomic Habits"
-description = """
-評分：5.0/5.0
-把複利概念套用在人生進步上。
-"""
+title = "《原子習慣 Atomic Habits》閱讀筆記：把複利概念套用在人生上"
 date = "2020-07-19"
 
 [taxonomies]

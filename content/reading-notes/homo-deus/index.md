@@ -1,5 +1,5 @@
 +++
-title = "人類大命運 Homo Deus：信仰指引著未來的方向"
+title = "《人類大命運 Homo Deus》閱讀筆記：信仰指引著未來的方向"
 date = "2022-07-31"
 
 [taxonomies]

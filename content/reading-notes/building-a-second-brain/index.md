@@ -1,7 +1,6 @@
 +++
-title = "打造第二大腦 Building A Second Brain - 各司其職"
+title = "《打造第二大腦 Building A Second Brain》閱讀筆記：第一第二大腦各司其職"
 date = "2023-08-11"
-description = "在資訊時代的今天，有半數以上的勞動者都可視為「知識工作者」。與其讓大腦忙碌於處理及記憶大量的資訊。架構數位第二大腦讓資訊外化，解放大腦回歸到思考與創造的核心角色。"
 
 [taxonomies]
 categories = ["閱讀筆記"]

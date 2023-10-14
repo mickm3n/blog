@@ -1,9 +1,5 @@
 +++
-title = "How To Take Smart Notes"
-description = """
-評分：4.5/5.0
-Link-Based Note Taking 關鍵心法
-"""
+title = "《How To Take Smart Notes》閱讀筆記"
 date = "2020-09-13"
 
 [taxonomies]

@@ -1,5 +1,5 @@
 +++
-title = "致富心態 The Psychology Of Money：沒人是瘋子"
+title = "《致富心態 The Psychology Of Money》閱讀筆記：沒人是瘋子"
 description = """
 評分：4.0/5.0
 

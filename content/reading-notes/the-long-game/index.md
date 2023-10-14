@@ -1,5 +1,5 @@
 +++
-title = "長線思維 The Long Game"
+title = "《長線思維 The Long Game》閱讀筆記：不要瞎忙好嗎"
 date = "2022-08-24"
 updated = "2022-09-20"
 

@@ -1,5 +1,5 @@
 +++
-title = "高勝算決策 Thinking in Bets：要不要下注？"
+title = "《高勝算決策 Thinking in Bets》閱讀筆記：要不要下注？"
 date = "2023-05-17"
 
 [taxonomies]

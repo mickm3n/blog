@@ -1,5 +1,5 @@
 +++
-title = "鋼鐵人馬斯克 Elon Musk：在火星用腦機介面奔馳電動車"
+title = "《鋼鐵人馬斯克 Elon Musk》閱讀筆記：在火星用腦機介面奔馳電動車"
 date = "2022-05-24"
 
 [taxonomies]

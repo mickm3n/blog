@@ -1,5 +1,5 @@
 +++
-title = "也許你該找人聊聊 Maybe You Should Talk To Someone：心理治療是外掛的覺察機"
+title = "《也許你該找人聊聊 Maybe You Should Talk To Someone》閱讀筆記：心理治療是外掛的覺察機"
 description = """
 評分：5.0/5.0
 當一個心理醫生去看心理醫生的精彩故事。
