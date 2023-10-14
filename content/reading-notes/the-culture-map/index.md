@@ -193,7 +193,7 @@ image = "culture-map-painting.webp"
 ![](what-is-water.webp)
 <p class="image-caption">出自 <a href="https://museumofpsychology.org/2019/07/09/the-what-is-water-fish-story/">The What is water? fish story</a></p>
 
-透過這本書的視角可以好好認知文化影響我們思維的部分，可以仔細思考文化是否帶給我們什麼樣的優勢和劣勢，能不能透過什麼方式改善自己的弱勢。
+透過這本書的視角可以好好認知文化影響我們思維的部分，可以仔細思考文化是否帶給我們什麼樣的優勢和劣勢，能不能透過什麼方式改善自己文化帶來的弱項。
 
 > 當你認知自己的病時，你已經好了一半。
 >
