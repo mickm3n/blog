@@ -8,7 +8,7 @@ tags = ["culture", "work"]
 
 [extra]
 rating = 4.5
-image = "the-culture-map.webp"
+image = "culture-map-painting.webp"
 +++
 
 一二三言以蔽之
