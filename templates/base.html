@@ -16,8 +16,8 @@
 {% set title = config.title %}
 {% endif %}
 
-{% if page.description %}
-{% set description = page.description %}
+{% if page.content %}
+{% set description = page.content %}
 {% else %}
 {% set description = "閱讀心得與想法，沒有特定的閱讀主題，心理學、投資、哲學、歷史、生物都是有機會涉獵的領域，意旨在培養能了解世界的思維模型。" %}
 {% endif %}
@@ -26,11 +26,12 @@
 
   <head>
     <title>{{ title }}</title>
-    <meta name="description" itemprop="about" content="{{ description }}" />
+    <meta name="description" itemprop="about"
+      content="{{ description | striptags | linebreaksbr | spaceless | safe }}" />
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta property="og:title" content="{{ title }}" />
-    <meta property="og:description" content="{{ description }}" />
+    <meta property="og:description" content="{{ description | striptags | linebreaksbr | spaceless | safe }}" />
     <meta property="og:type" content="website" />
     <meta property="og:image" content="{{ sns_image }}" />
     <meta property="og:image:width" content="1200" />
