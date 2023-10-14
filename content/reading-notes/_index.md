@@ -2,7 +2,7 @@
 title = "List of blog posts"
 sort_by = "date"
 template = "reading-notes-table.html"
-page_template = "page.html"
+page_template = "reading-note.html"
 generate_feed = true
 +++
 
