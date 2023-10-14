@@ -1,9 +1,5 @@
 +++
 title = "《致富心態 The Psychology Of Money》閱讀筆記：沒人是瘋子"
-description = """
-評分：4.0/5.0
-
-"""
 date = "2021-02-10"
 updated = "2021-02-21"
 

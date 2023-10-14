@@ -1,6 +1,5 @@
 +++
 title = ""
-description = ""
 date = 2023-04-13
 updated = 2023-05-03
 authors = ["Mick Zhuang"]
