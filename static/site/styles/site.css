@@ -419,59 +419,25 @@ li.inline {
 
 /* Table styles */
 table {
-  display: block;
-}
-
-thead,
-tbody {
-  display: block;
+  border-collapse: collapse;
   width: 100%;
 }
 
-tbody {
-  overflow-y: scroll;
-}
-
-th,
-td {
-  display: block;
-  width: 100%;
-  box-sizing: border-box;
+th {
+  background-color: var(--colors-header);
+  color: var(--colors-header-text);
+  font-weight: bold;
+  padding: 0.5rem;
+  text-align: left;
 }
 
 td {
-  width: 33%;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  border: 1px solid var(--colors-border);
+  padding: 0.5rem;
 }
 
-td:hover {
-  white-space: normal;
-  overflow: visible;
-  text-overflow: clip;
-}
-
-th+th,
-td+td {
-  border-top: 1px solid #e9edf0;
-}
-
-tbody tr {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-tbody tr:nth-child(odd) {
-  background-color: rgba(187, 222, 214, 1);
-}
-
-tbody tr:nth-child(even) {
-  background-color: rgba(138, 198, 209, 1);
-}
-
-tbody tr:hover {
-  background-color: transparent;
+tr:first-child th {
+  text-align: center;
 }
 
 .sort-asc::after {
@@ -500,6 +466,21 @@ tbody tr:hover {
   margin-right: 0rem;
   margin-bottom: 2rem;
   display: none;
+}
+
+.sort-buttons {
+  width: 95%;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 1rem;
+}
+
+.sort-buttons label {
+  margin-right: 0.5rem;
+}
+
+.sort-buttons select {
+  margin-right: 1rem;
 }
 
 
@@ -564,7 +545,7 @@ tbody tr:hover {
   }
 
   table {
-    width: 90%;
+    width: 85%;
     margin: 0 auto;
     border-collapse: collapse;
     margin-bottom: 2rem;

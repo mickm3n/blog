@@ -4,6 +4,13 @@
 <article class="main-inner">
   {{ section.content | safe}}
 </article>
+<div class="sort-buttons">
+  <label for="sort-select">排序根據：</label>
+  <select id="sort-select">
+    <option value="date" selected>日期</option>
+    <option value="rank">評分</option>
+  </select>
+</div>
 <table id="reading-notes-table">
   <thead>
     <tr>
@@ -27,31 +34,40 @@
 <script>
   document.addEventListener('DOMContentLoaded', function () {
     const table = document.getElementById('reading-notes-table');
-    const tableSort = new Tablesort(table);
+    const tbody = table.getElementsByTagName('tbody')[0];
+    const rows = tbody.getElementsByTagName('tr');
+    const sortSelect = document.getElementById('sort-select');
 
-    // 監聽 'aria-sort' 屬性的變化
-    const observer = new MutationObserver(function (mutations) {
-      mutations.forEach(function (mutation) {
-        if (mutation.type === 'attributes' && mutation.attributeName === 'aria-sort') {
-          const ths = table.getElementsByTagName('th');
-          for (let i = 0; i < ths.length; i++) {
-            ths[i].classList.remove('sort-asc', 'sort-desc');
-          }
-
-          const sortOrder = mutation.target.getAttribute('aria-sort');
-          if (sortOrder === 'ascending') {
-            mutation.target.classList.add('sort-asc');
-          } else if (sortOrder === 'descending') {
-            mutation.target.classList.add('sort-desc');
-          }
-        }
-      });
+    sortSelect.addEventListener('change', function () {
+      const selectedValue = sortSelect.value;
+      if (selectedValue === 'date') {
+        sortTableByColumn(rows, 1, 'date');
+      } else if (selectedValue === 'rank') {
+        sortTableByColumn(rows, 2, 'rank');
+      }
     });
 
-    const ths = table.getElementsByTagName('th');
-    for (let i = 0; i < ths.length; i++) {
-      observer.observe(ths[i], { attributes: true });
+    function sortTableByColumn(rows, column, type) {
+      const sortedRows = Array.from(rows);
+
+      sortedRows.sort(function (a, b) {
+        const aVal = a.getElementsByTagName('td')[column].textContent;
+        const bVal = b.getElementsByTagName('td')[column].textContent;
+
+        if (type === 'date') {
+          return new Date(bVal) - new Date(aVal);
+        } else if (type === 'rank') {
+          return parseFloat(bVal) - parseFloat(aVal);
+        }
+      });
+
+      for (let i = 0; i < sortedRows.length; i++) {
+        tbody.appendChild(sortedRows[i]);
+      }
     }
+
+    // Sort by date by default
+    sortTableByColumn(rows, 1, 'date');
   });
 </script>
 {% endblock script %}
