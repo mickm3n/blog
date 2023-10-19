@@ -13,6 +13,17 @@ tags = []
 > * MINOR: 有小型更新時變動，例如增加了 sortable table view 或是搜尋功能。
 > * PATCH: 有小幅度修正時變動，例如改了 style 或文章的 properties。
 
+# [2023-10-19][v1.2.1]
+## Changed
+* 從網頁名稱移除網站名稱，讓網頁名稱更簡潔。
+* 把所有文字內容都塞進 `og:description` 看有沒有幫助於 SEO。
+* 調整 CSS 讓文字大小更合適。
+* 分開網誌和閱讀筆記的頁面，可以呈現不同的資訊。
+* 修正閱讀筆記頁面的表格，更改排序操控位置從表格標題列移到表格上方。
+* 增加文章資訊：字數與閱讀時間。
+
+<!-- more -->
+
 # [2023-06-16][v1.2.0] 增加留言功能
 ## New
 * 導入 utteranc.es 作留言功能，實驗的過程記錄在[留言功能上線](@/blog/comment-system/index.md)。
@@ -22,9 +33,6 @@ tags = []
 * 調整網頁標題從 `website-name > article-name` 改為 `article-name | website-name`，來強調文章的標題。
 * 增加 meta description。
 * 調整 CSS，幫粗體加上深紅色、在手機模式下隱藏 sidebar、調整排版。
-
-
-<!-- more -->
 
 # [2023-05-21][v1.1.1] 修正了 Twitter Card 顯示的問題
 ## Changed
