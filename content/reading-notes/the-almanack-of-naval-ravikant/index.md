@@ -1,6 +1,7 @@
 +++
 title = "《快樂實現自主富有 The Almanack of Naval Ravikant》閱讀筆記：實踐個人槓桿"
 date = "2023-10-18"
+updated = "2023-10-31"
 
 [taxonomies]
 categories = ["閱讀筆記"]
@@ -59,23 +60,8 @@ image = "og-image.webp"
 
 這一切都會影響著我們的「判斷力」，而判斷力是槓桿能否成功的要素。
 
-Naval 列出了應該要學習的知識與心智模型：
--   演化論
--   反演法
--   複雜理論
--   經濟學
-    -   個體經濟
-    -   賽局理論
--   委託代理問題
--   複利
--   基礎數學
--   黑天鵝
--   微積分
--   可否證性
--   心理學
--   說服技巧
--   倫理學
--   電腦學
+
+[Naval 列出了應該要學習的知識與心智模型](@/wisdom/list/naval-ravikant-a-latticework-of-mental-models.md)
 
 勇於承擔風險與責任
 ---------

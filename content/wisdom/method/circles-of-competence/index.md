@@ -6,6 +6,8 @@ date = "2023-10-31"
 categories = ["方法"]
 tags = []
 
+[extra]
+image = "og-image.webp"
 +++
 
 
