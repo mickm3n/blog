@@ -1,6 +1,6 @@
 +++
 title = "2021 閱讀總回顧"
-date = "2021-12-28"
+date = 2021-12-28
 
 [taxonomies]
 categories = ["年度回顧"]

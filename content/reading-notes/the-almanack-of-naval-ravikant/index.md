@@ -1,7 +1,7 @@
 +++
 title = "《快樂實現自主富有 The Almanack of Naval Ravikant》閱讀筆記：實踐個人槓桿"
-date = "2023-10-18"
-updated = "2023-10-31"
+date = 2023-10-18
+updated = 2023-10-31
 
 [taxonomies]
 categories = ["閱讀筆記"]

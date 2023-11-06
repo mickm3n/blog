@@ -1,6 +1,6 @@
 +++
 title = "《打造第二大腦 Building A Second Brain》閱讀筆記：第一第二大腦各司其職"
-date = "2023-08-11"
+date = 2023-08-11
 
 [taxonomies]
 categories = ["閱讀筆記"]

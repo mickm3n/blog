@@ -1,6 +1,6 @@
 +++
 title = "Github Copilot 短期心得"
-date = "2023-10-31"
+date = 2023-10-31
 
 [taxonomies]
 categories = ["心得"]

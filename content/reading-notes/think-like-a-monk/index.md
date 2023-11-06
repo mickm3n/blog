@@ -1,6 +1,6 @@
 +++
 title = "《僧人心態 Think Like A Monk》閱讀筆記：以價值觀驅動你的人生"
-date = "2021-05-30"
+date = 2021-05-30
 
 [taxonomies]
 categories = ["閱讀筆記"]

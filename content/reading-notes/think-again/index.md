@@ -1,6 +1,6 @@
 +++
 title = "《逆思維 Think Again》閱讀筆記：當變化越快，你更要停下來，重新思考。"
-date = "2022-11-16"
+date = 2022-11-16
 
 [taxonomies]
 categories = ["閱讀筆記"]

@@ -1,6 +1,6 @@
 +++
 title = "《How to Read A Book》閱讀筆記：四種閱讀層次"
-date = "2020-03-15"
+date = 2020-03-15
 
 [taxonomies]
 categories = ["閱讀筆記"]

@@ -1,6 +1,6 @@
 +++
 title = "《蛤蟆先生去看心理師 Counselling For Toads》閱讀筆記：尋求改變之前，先認識自己"
-date = "2023-01-24"
+date = 2023-01-24
 
 [taxonomies]
 categories = ["閱讀筆記"]

@@ -1,6 +1,6 @@
 +++
 title = "誘惑綑綁 Temptation Bundling"
-date = "2022-05-14"
+date = 2022-05-14
 
 [taxonomies]
 categories = ["方法"]

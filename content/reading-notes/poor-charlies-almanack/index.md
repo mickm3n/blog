@@ -1,6 +1,6 @@
 +++
 title = "《窮查理的普遍常識 Poor Charlie’s Almanack》閱讀筆記：用多元思維模型認知世界"
-date = "2023-10-31"
+date = 2023-10-31
 
 [taxonomies]
 categories = ["閱讀筆記"]

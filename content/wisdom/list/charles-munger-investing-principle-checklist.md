@@ -1,6 +1,6 @@
 +++
 title = "查理蒙格 Charles T. Munger 的投資原則檢查清單"
-date = "2023-10-31"
+date = 2023-10-31
 
 [taxonomies]
 categories = ["清單"]

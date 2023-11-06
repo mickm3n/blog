@@ -1,6 +1,6 @@
 +++
 title = "《人性的弱點 How To Win Friends And Influence People》閱讀筆記：以溝通共創雙贏"
-date = "2023-01-02"
+date = 2023-01-02
 
 [taxonomies]
 categories = ["閱讀筆記"]

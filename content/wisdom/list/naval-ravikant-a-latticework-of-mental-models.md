@@ -1,6 +1,6 @@
 +++
 title = "Naval Ravikant 的多元思維模型清單"
-date = "2023-10-31"
+date = 2023-10-31
 
 [taxonomies]
 categories = ["清單"]

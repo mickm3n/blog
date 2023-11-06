@@ -1,6 +1,6 @@
 +++
 title = "《How To Take Smart Notes》閱讀筆記"
-date = "2020-09-13"
+date = 2020-09-13
 
 [taxonomies]
 categories = ["閱讀筆記"]

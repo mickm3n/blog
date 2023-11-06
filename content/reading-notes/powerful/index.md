@@ -1,6 +1,6 @@
 +++
 title = "《給力 Powerful》閱讀筆記：改變世界從改變工作環境開始"
-date = "2021-10-10"
+date = 2021-10-10
 
 [taxonomies]
 categories = ["閱讀筆記"]

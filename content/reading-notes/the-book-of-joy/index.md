@@ -1,6 +1,6 @@
 +++
 title = "《最後一次相遇，我們只談喜悅 The Book of Joy》閱讀筆記：成為善的漣漪"
-date = "2023-04-24"
+date = 2023-04-24
 
 [taxonomies]
 categories = ["閱讀筆記"]

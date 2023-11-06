@@ -1,6 +1,6 @@
 +++
 title = "《灰階思考》閱讀筆記：調配黃金比例才好喝"
-date = "2022-03-30"
+date = 2022-03-30
 
 [taxonomies]
 categories = ["閱讀筆記"]

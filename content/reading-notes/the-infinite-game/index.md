@@ -1,6 +1,6 @@
 +++
 title = "《無限賽局 The Infinite Game》閱讀筆記：無限之戰"
-date = "2021-06-16"
+date = 2021-06-16
 
 [taxonomies]
 categories = ["閱讀筆記"]

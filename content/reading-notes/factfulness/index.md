@@ -1,6 +1,6 @@
 +++
 title = "《真確 Factfulness》閱讀筆記：資料並不等於事實"
-date = "2021-11-17"
+date = 2021-11-17
 
 [taxonomies]
 categories = ["閱讀筆記"]

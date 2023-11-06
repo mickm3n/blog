@@ -1,6 +1,6 @@
 +++
 title = "淨脈呼吸法 Nadi Shodhana"
-date = "2023-06-11"
+date = 2023-06-11
 
 [taxonomies]
 categories = ["方法"]

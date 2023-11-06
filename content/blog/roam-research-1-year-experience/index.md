@@ -1,6 +1,6 @@
 +++
 title = "Roam Research 一年使用心得分享"
-date = "2021-08-11"
+date = 2021-08-11
 
 [taxonomies]
 categories = ["生產力工具"]

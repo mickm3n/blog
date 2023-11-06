@@ -1,6 +1,6 @@
 +++
 title = "共振呼吸法 Resonant Frequency Breathing"
-date = "2023-06-21"
+date = 2023-06-21
 
 [taxonomies]
 categories = ["方法"]

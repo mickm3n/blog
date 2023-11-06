@@ -1,6 +1,6 @@
 +++
 title = "能力圈 Circles of Competence"
-date = "2023-10-31"
+date = 2023-10-31
 
 [taxonomies]
 categories = ["方法"]

@@ -1,6 +1,6 @@
 +++
 title = "《也許你該找人聊聊 Maybe You Should Talk To Someone》閱讀筆記：心理治療是外掛的覺察機"
-date = "2021-04-05"
+date = 2021-04-05
 
 [taxonomies]
 categories = ["閱讀筆記"]

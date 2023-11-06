@@ -1,6 +1,6 @@
 +++
 title = "《為什麼要睡覺 Why We Sleep》閱讀筆記：多睡一點就對了"
-date = "2021-07-29"
+date = 2021-07-29
 
 [taxonomies]
 categories = ["閱讀筆記"]

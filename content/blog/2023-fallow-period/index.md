@@ -1,6 +1,6 @@
 +++
 title = "工作十年半後的休耕期"
-date = "2023-08-09"
+date = 2023-08-09
 
 [taxonomies]
 categories = ["經驗分享"]

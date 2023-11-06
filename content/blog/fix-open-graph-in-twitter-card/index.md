@@ -1,6 +1,6 @@
 +++
 title = "修正 Twitter Card 沒有顯示的問題"
-date = "2023-05-21"
+date = 2023-05-21
 
 [taxonomies]
 categories = ["網站開發記錄"]

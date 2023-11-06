@@ -1,6 +1,6 @@
 +++
 title = "《人類大歷史 Sapiens》閱讀筆記：七萬年前就活在 Metaverse 裡"
-date = "2022-06-27"
+date = 2022-06-27
 
 [taxonomies]
 categories = ["閱讀筆記"]

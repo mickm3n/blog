@@ -1,6 +1,6 @@
 +++
 title = "《The Devops Handbook》閱讀筆記：三步工作法"
-date = "2020-03-08"
+date = 2020-03-08
 
 [taxonomies]
 categories = ["閱讀筆記"]

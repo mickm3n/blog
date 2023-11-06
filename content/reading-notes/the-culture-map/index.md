@@ -1,6 +1,6 @@
 +++
 title = "《文化地圖 The Culture Map》閱讀筆記：跨國合作的八大維度"
-date = "2023-10-13"
+date = 2023-10-13
 
 [taxonomies]
 categories = ["閱讀筆記"]

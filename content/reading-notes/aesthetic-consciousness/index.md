@@ -1,6 +1,6 @@
 +++
 title = "《美意識》閱讀筆記：在邏輯理性極限之後"
-date = "2023-05-06"
+date = 2023-05-06
 
 [taxonomies]
 categories = ["閱讀筆記"]

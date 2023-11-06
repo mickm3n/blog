@@ -1,6 +1,6 @@
 +++
 title = "Tiago Forte 的專案啟動檢查表"
-date = "2023-08-11"
+date = 2023-08-11
 
 [taxonomies]
 categories = ["範本"]

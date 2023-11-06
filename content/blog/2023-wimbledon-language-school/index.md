@@ -1,6 +1,6 @@
 +++
 title = "三個月的英國倫敦語言學校經驗分享"
-date = "2023-08-23"
+date = 2023-08-23
 
 [taxonomies]
 categories = ["經驗分享"]

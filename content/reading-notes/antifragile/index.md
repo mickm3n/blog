@@ -1,6 +1,6 @@
 +++
 title = "《反脆弱 Antifragile》閱讀筆記：凡殺不死我的必使我更強大"
-date = "2022-05-08"
+date = 2022-05-08
 
 [taxonomies]
 categories = ["閱讀筆記"]

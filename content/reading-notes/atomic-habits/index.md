@@ -1,6 +1,6 @@
 +++
 title = "《原子習慣 Atomic Habits》閱讀筆記：把複利概念套用在人生上"
-date = "2020-07-19"
+date = 2020-07-19
 
 [taxonomies]
 categories = ["閱讀筆記"]

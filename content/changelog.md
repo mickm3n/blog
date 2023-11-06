@@ -1,6 +1,6 @@
 +++
 title = "Changelog"
-date = "2023-05-03"
+date = 2023-05-03
 
 [taxonomies]
 categories = ["網站開發記錄"]

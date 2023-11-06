@@ -1,6 +1,6 @@
 +++
 title = "《斯多葛生活哲學 55 個練習 The Little Book Of Stoicism》閱讀筆記：幸福之路"
-date = "2023-03-24"
+date = 2023-03-24
 
 [taxonomies]
 categories = ["閱讀筆記"]

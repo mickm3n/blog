@@ -1,6 +1,6 @@
 +++
 title = "Tiago Forte 的每月回顧範本"
-date = "2023-08-11"
+date = 2023-08-11
 
 [taxonomies]
 categories = ["範本"]
