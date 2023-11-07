@@ -13,6 +13,12 @@ tags = []
 > * MINOR: 有小型更新時變動，例如增加了 sortable table view 或是搜尋功能。
 > * PATCH: 有小幅度修正時變動，例如改了 style 或文章的 properties。
 
+# [2023-11-07][1.3.0]
+## New
+* 參照 [Shortcodes](https://www.getzola.org/documentation/content/shortcodes/) 增加 [Youtube shortcode](https://github.com/mickm3n/blog/commit/829e6252ce901e4a810b9734c2a31aca8bf35eb3)
+
+<!-- more -->
+
 # [2023-10-19][v1.2.1]
 ## Changed
 * 從網頁名稱移除網站名稱，讓網頁名稱更簡潔。
@@ -21,8 +27,6 @@ tags = []
 * 分開網誌和閱讀筆記的頁面，可以呈現不同的資訊。
 * 修正閱讀筆記頁面的表格，更改排序操控位置從表格標題列移到表格上方。
 * 增加文章資訊：字數與閱讀時間。
-
-<!-- more -->
 
 # [2023-06-16][v1.2.0] 增加留言功能
 ## New
