@@ -3,7 +3,7 @@ title = "《給予 Give and Take》閱讀筆記：施比受更有福"
 date = 2023-11-26
 
 [taxonomies]
-categories = []
+categories = ["閱讀筆記"]
 tags = []
 
 [extra]
