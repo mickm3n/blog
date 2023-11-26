@@ -18,7 +18,7 @@ image = "og-image.webp"
 
 書籍
 ==
-[![](book.png)](https://www.goodreads.com/book/show/16158498-give-and-take)
+[![](book.webp)](https://www.goodreads.com/book/show/16158498-give-and-take)
 
 
 為什麼我會讀這本書
