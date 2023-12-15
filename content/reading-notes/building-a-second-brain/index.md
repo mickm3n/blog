@@ -41,7 +41,7 @@ Tiago Forte 的「打造第二大腦」一直在我的待讀清單中，剛好�
 >
 > -- Ryder Carroll，《子彈思考整理術》
 
-## Tiago Forte 的 The CODE Method
+## Tiago Forte 的 The CODE Method {#the-code-method}
 
 CODE 方法是由四個步驟：Capture、Organize、Distill、Express 取首字母組成的方法，主要在描述資訊工作流，從收集、組織、萃取、到產出。
 
@@ -87,7 +87,7 @@ CODE 方法是由四個步驟：Capture、Organize、Distill、Express 取首字
 
 Tiago Forte 是利用他的 The PARA Method 來達到這個目的。
 
-## Tiago Forte 的 The PARA Method
+## Tiago Forte 的 The PARA Method {#the-para-method}
 
 PARA System 是由 Projects、Areas、Resources、Archives 等字的字首所組成。方法的核心是建立有彈性、有不同優先次序的檔案系統。
 * Projects：近期專注的專案
