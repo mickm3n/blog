@@ -13,7 +13,7 @@ image = "og-image"
 前言
 ==
 
-最近讀何雅瑄的 [2023 知識生產流程](https://medium.com/@yaxuanhe2020/2023-%E7%9F%A5%E8%AD%98%E7%94%9F%E7%94%A2%E6%B5%81%E7%A8%8B-96dc3fb271e7)，讓我想到約莫半年前，在讀完 [Ernest Chiang 的 Ernest PKM 個人知識系統 工作流程](https://www.ernestchiang.com/zh/posts/2023/ernest-pkm-workflow/)和[吳秉儒的我的個人知識管理系統](https://pinchlime.com/blog/my-personal-knowledge-management-system-2023/)後，也想著整理自己的分享一篇文章。不過因為自己的系統雜亂無章，內心一直抗拒分享這件事，甚至就沒去整理自己的方法，在心裡放了一陣子後便作罷。
+最近看了何雅瑄的 [2023 知識生產流程](https://medium.com/@yaxuanhe2020/2023-%E7%9F%A5%E8%AD%98%E7%94%9F%E7%94%A2%E6%B5%81%E7%A8%8B-96dc3fb271e7)，讓我想到約莫半年前，在讀完 [Ernest Chiang 的 Ernest PKM 個人知識系統 工作流程](https://www.ernestchiang.com/zh/posts/2023/ernest-pkm-workflow/)和[吳秉儒的我的個人知識管理系統](https://pinchlime.com/blog/my-personal-knowledge-management-system-2023/)後，也想著整理自己的分享一篇文章。不過因為自己的系統雜亂無章，內心一直抗拒分享這件事，甚至就沒去整理自己的方法，在心裡放了一陣子後便作罷。
 
 這次衝著年末想做一個我的個人知識管理系統在 2023 的快照，雖然很不完美，留個紀錄可以當作未來改變的對照。
 
