@@ -7,7 +7,7 @@ categories = ["生產力工具"]
 tags = []
 
 [extra]
-image = "og-image"
+image = "og-image.webp"
 +++
 
 前言
