@@ -1,7 +1,7 @@
 +++
 title = "2022 閱讀總回顧"
 date = 2023-01-02
-updated = 2022-12-20
+updated = 2023-12-29
 
 [taxonomies]
 categories = ["年度回顧"]
@@ -71,3 +71,4 @@ image = "books.webp"
 
 # 更多閱讀總回顧
 * [2021 閱讀總回顧](@/blog/2021-reading-summary/index.md)
+* [2023 閱讀總回顧](@/blog/2023-reading-summary/index.md)
