@@ -26,11 +26,11 @@ tags = ["mindfulness", "meditation"]
 
 > Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.
 >
-> -- Viktor Emil Frankl
+> —— Viktor Emil Frankl
 
 > Until you make the unconscious conscious, it will direct your life and you will call it fate.
 >
-> -- Carl Jung
+> —— Carl Jung
 
 當我們有選擇，我們才能真正自由地掌握自己的生命，**跳脫自動駕駛的模式**，根據自己的價值觀與信念作選擇且為我們的選擇負責。
 
@@ -52,7 +52,7 @@ tags = ["mindfulness", "meditation"]
 
 > I’m not the body, I am not even the mind.
 >
-> -- Sadhguru
+> —— Sadhguru
 
 
 ## 群體學習：突破個人的感知極限
@@ -66,7 +66,7 @@ tags = ["mindfulness", "meditation"]
 
 > 在對話中沒有最好的答案時，可以讓語句停頓，等待內心給你答案。
 >
-> -- 張振興
+> —— 張振興
 
 
 # 簡單的正念練習

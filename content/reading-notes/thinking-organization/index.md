@@ -78,7 +78,7 @@ image = "og-image.webp"
 
 > There is no such thing as a new idea. It is impossible. We simply take a lot of old ideas and put them into a sort of mental kaleidoscope.
 >
-> -- Mark Twin
+> —— Mark Twin
 
 擁有足夠的第二層知識後，我們甚至有機會從中去萃取第三層知識。我們可以透過書中提到的積讀法——短時間閱讀大量同領域的書籍，增加不同想法在腦袋碰撞的機會。甚至利用心智圖、白板等等思考工具輔助，讓視覺化輔助我們思考。適時的休息抽離也很重要，去放鬆或運動，讓在潛意識中執行的 Diffuse Mode 有機會做比較大範圍、偶然性的整合，就像偶爾在通勤、洗澡過程中偶然的靈光一閃。
 

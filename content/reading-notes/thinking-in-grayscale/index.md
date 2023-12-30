@@ -30,7 +30,7 @@ image = "thinking-in-grayscale.webp"
 
 > You’re what you eat.
 >
-> -- Jean-Anthelme Brillat-Savarin
+> —— Jean-Anthelme Brillat-Savarin
 
 想起以前看悶鍋郭子乾模仿投顧老師的名言，「好的老師帶你上天堂，不好的老師直接帶你住套房。」
 

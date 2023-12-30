@@ -24,7 +24,7 @@ image = "og-image.webp"
 
 > 指個人對知識的搜集、分類、存儲、索引等一系列過程。通過這個過程實現對個人行動更好的指引。
 >
-> -- Wikipedia《[個人知識管理](https://zh.wikipedia.org/zh-tw/%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86)》
+> —— Wikipedia《[個人知識管理](https://zh.wikipedia.org/zh-tw/%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86)》
 
 每個人學習的專業領域、生活的經歷都有所不同，如果在生活中，有個整理與你個人相關知識的方法能幫助到你的工作和生活，你就值得建立屬於你的個人知識管理系統。
 

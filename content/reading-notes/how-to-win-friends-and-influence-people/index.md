@@ -27,7 +27,7 @@ Dale Carnegie 傳授最精華的秘訣，就是在溝通上加入讚美與真誠
 
 > Teach me neither to proffer nor receive cheap praise.
 >
-> -- King George V
+> —— King George V
 
 ## 實現雙贏才是溝通的宗旨
 

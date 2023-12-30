@@ -197,4 +197,4 @@ image = "culture-map-painting.webp"
 
 > 當你認知自己的病時，你已經好了一半。
 >
-> -- Thomas Fuller
+> —— Thomas Fuller

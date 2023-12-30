@@ -94,7 +94,7 @@ image = "the-book-of-joy.jpg"
 
 > Everything can be taken from a man but one thing: the last of the human freedoms, to choose one's attitude in any given set of circumstances, to choose one's own way.
 >
-> -- Viktor Emil Frankl
+> —— Viktor Emil Frankl
 
 每個人都有選擇看法的自由，只要你選擇用不同的面相去看待同一件事，往往都能帶給你新的見解。最明顯的例子就是概觀效應 Overview Effect，當你有了更高層次的視角之後，就會發現很多雞毛蒜皮的事情不太重要。或是對他人的處境用同理心來看待，常常就能突破自己的觀點，對事物有額外的見解。
 
@@ -110,7 +110,7 @@ image = "the-book-of-joy.jpg"
 
 > Humor is tragedy plus time.
 >
-> -- Mark Twain
+> —— Mark Twain
 
 「笑」對於人有神奇的力量，不管在多糟的情境下，如果我們能以幽默看待，就能慢慢適應，將力氣導向於正途上。而自嘲也是一種能誠實面對自己的方式。
 
@@ -118,7 +118,7 @@ image = "the-book-of-joy.jpg"
 
 > 既然可以改正，何必為之難過？假若無法改正，難過又有何用？
 >
-> -- 寂天大師
+> —— 寂天大師
 
 接納是一種處理事物的方式，透過充分感知事物的本質，發揮事物的正面價值，並做出適當的回應。
 
@@ -126,7 +126,7 @@ image = "the-book-of-joy.jpg"
 
 > 倘若不能原諒，我們就擺脫不了傷害我們的人，注定要被痛苦的鎖鏈束縛，動彈不得。除非原諒傷害我們的人，不然通往快樂的鑰匙將會握在他的手上，他反而成了監獄的看守者，囚禁著我們。選擇原諒才是奪回權力，掌控自己的命運與感受，當自己的救星。
 >
-> -- Desmond Tutu
+> —— Desmond Tutu
 
 原諒不代表遺忘，壞事有必要被記住，但是我們不能困在過去的怨恨裡。若是選擇原諒，就能打破復仇的循環，得以療傷、再生或放下這段關係。
 
@@ -149,7 +149,7 @@ image = "the-book-of-joy.jpg"
 ### 付出
 > 你用不著先擁有再付出。
 >
-> -- [僧人心態 Think Like A Monk](@/reading-notes/think-like-a-monk/index.md)
+> —— [僧人心態 Think Like A Monk](@/reading-notes/think-like-a-monk/index.md)
 
 世界有太多問題，可以從自己能做的開始就好。除了物質上，給予時間幫助他人也是一種方式，提供諮詢、安慰、甚至分享智慧、價值觀，幫助人更快樂、更能自給自足，產生正向的善意流。
 
@@ -172,7 +172,7 @@ image = "the-book-of-joy.jpg"
 最後分享也是在書中看到很喜歡的話：
 > 要當喜悅的泉源、祥和的綠洲、寧靜的深潭，輕輕蕩漾擴散到周圍所有的人。
 >
-> -- Desmond Tutu
+> —— Desmond Tutu
 
 # Reference & My Readwise Highlights
 * [The 50-40-10 Rule Of Happiness - What Is It?](https://www.trackinghappiness.com/50-40-10-rule-of-happiness/)

@@ -27,7 +27,7 @@ imaeg = "think-like-a-monk.jpg"
 
 > Your time is limited, so don't waste it living someone else's life.
 >
-> -- Steve Jobs
+> —— Steve Jobs
 
 如果你能建立對你重要的價值觀，就算是此時此刻的版本也好，你就能開始建立自己的身份認同，而不是別人期望下的鏡中自我。開始重新調配你的生活，你不能完全屏除掉與你價值觀不符的生活，但你可以重新分配他們佔有你生活的比例。找尋跟你價值觀相符的社群，共同成長。
 
@@ -44,7 +44,7 @@ imaeg = "think-like-a-monk.jpg"
 
 > 先善待自己，再讓你的善意擴散到整個世界。
 >
-> -- Pema Chdörön
+> —— Pema Chdörön
 
 如果你有點餘裕，你可以從知足模式切換成服務模式。
 

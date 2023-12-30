@@ -56,7 +56,7 @@ image = "the-little-book-of-stoicism-timeless-wisdom-to-gain-resilience-confiden
 
 > 神啊，賜予我寧靜，去接受我無法改變的；賜予我勇氣，去改變我能改變的；賜予我智慧，去分辨兩者之間的差異。
 >
-> ---— 寧靜禱文
+> ——-— 寧靜禱文
 
 世界是無常且變化多端的，若我們的喜悅綁在外在的事物上，難以得到理想的寧靜。斯多葛主義認為真正在我們掌控之中的事，只有我們對於事物的判斷，還有我們決定如何回應它們。事物會怎麼發展、結果是否如我們所願常常在我們的掌控之外。我們應該要聚焦在過程，而不是結果。
 
@@ -68,7 +68,7 @@ image = "the-little-book-of-stoicism-timeless-wisdom-to-gain-resilience-confiden
 
 > Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.
 >
-> -- Viktor Emil Frankl
+> —— Viktor Emil Frankl
 
 在清楚自己想達成的美德與能辨識出我們能控制的事物之後，如何做出反應就完全在我們的自由的選擇之下。每個選擇的行為都如同我們對自己的價值觀投了一票。
 

@@ -37,11 +37,11 @@ image = "og-image.webp"
 
 > Today we are learning the language of how God created life. We are again ever more in awe for the complexity and beauty and the wonder of God's divine and sacred gift. With this profound new knowledge mankind is on the verge of gaining immense new power to heal. Genome science will have a real impact on our lives and even more on the lives of our children.
 >
-> -- Bill Clinton
+> —— Bill Clinton
 
 > With the power of this discovery comes the responsibility to use it wisely. As wilth the greatest scientific achievements the ethical and moral questions raised by this astonishing breakthrough are profound. We all share a duty to ensure that the common prporty of the genome is used freely for the common good of the human race.
 >
-> -- Tony Blair
+> —— Tony Blair
 
 為了方便理解，作者將基因組比喻成一本書。
 

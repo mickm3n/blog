@@ -15,13 +15,13 @@ image = "og-image.webp"
 
 > "Know your circle of competence, and stick within it. The size of that circle is not very important; knowing its boundaries, however, is vital."
 >
-> -- 巴菲特 Warren Buffett
+> —— 巴菲特 Warren Buffett
 
 重點不在能力圈的大小，而是你知道你能力圈的範圍，在適合你的範圍內施展你的能力。
 
 > I think about things where I have an advantage over other people. I don't play in a game where the other people are wise and I'm stupid. I look for a place where I'm wise and they're stupid. You have to know the edge of your own competency. I'm very good at knowing when I can't handle something.
 >
-> -- 查理蒙格 Charles Thomas Munger
+> —— 查理蒙格 Charles Thomas Munger
 
 查理蒙格 Charles Thomas Munger 也提到自己只是比一般人更懂自己的能力圈，專注在自己的能力圈裡把握機會，不玩不擅長的遊戲。
 

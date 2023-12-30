@@ -42,7 +42,7 @@ image = "homodeus.webp"
 
 > 不自由，毋寧死。
 >
-> -- Patrick Henry
+> —— Patrick Henry
 
 在科學革命之後，宗教的超人類假設在科學上難以被接受，開始有一些人把關注從神的身上拉回到人類身上。
 
