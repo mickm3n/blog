@@ -21,6 +21,8 @@ image = "wheel-of-life.webp"
 >
 > —— Ray Dalio
 
+<!-- more -->
+
 我做年度回顧的方法
 =========
 
