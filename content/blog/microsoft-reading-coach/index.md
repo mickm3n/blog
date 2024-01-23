@@ -42,7 +42,7 @@ AI 在教育上展現了一些新的優勢，可以根據每個人現有的知�
 ![](analytics.webp)
 <p class="image-caption">截圖自 <a href="https://coach.microsoft.com/">Microsoft Reading Coach</a><p>
 
-# 特定領域學習導向：自行加入內容
+# 特定領域學習導向：加入自定義內容
 
 目前 AI 生成的故事和系統內建的故事都是兒童導向，對於年紀大一點的學生可能就沒有那麼合適。但在平台上也提供了可以加入故事的功能。
 
