@@ -11,7 +11,9 @@ image = "meaning-of-life.webp"
 +++
 
 # 重新訂閱了 ChatGPT Plus
-最近在思考「在 AI 時代下，人應該要如何因應這些變化？」以過去一年的趨勢看來，AI 相關技術的發展及運用，只會不斷地精進、往更好用更便宜的方向前進。既然是一個無法阻擋的趨勢，最佳因應的方式就是要更大力的擁抱它，讓自己成為一個被 AI 賦能的人。
+約莫半年前就退訂了 ChatGPT Plus，因為我大多的使用情境都在於英文學習，藉由 [Immersive Translate](https://immersivetranslate.com/) 或 Raycast 的 [ChatGPT extension](https://www.raycast.com/abielzulio/chatgpt) 比較適合我的需求，無法展現月費 20 鎂的價值。
+
+最近在思考「在 AI 時代下，人應該要如何因應這些變化？」，就又訂了一個月來試試。以過去一年的趨勢看來，AI 相關技術的發展及運用，只會不斷地精進、往更好用更便宜的方向前進。既然是一個無法阻擋的趨勢，最佳因應的方式就是要更大力的擁抱它，讓自己成為一個被 AI 賦能的人。
 
 之前就有聽說 GPTs 的功能，但後來沒訂閱就還沒嘗試。甚至最近也出了 [GPT Store](https://openai.com/blog/introducing-the-gpt-store)，可以找到別人製作的 GPT，OpenAI 也提及後續還會有盈利的模式。
 
