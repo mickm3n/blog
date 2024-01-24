@@ -27,7 +27,7 @@ image = "meaning-of-life.webp"
 
 這次做了簡單的實驗，上傳這個部落格所有的文章，壓成一個 zip 檔，讓 GPT 去解開、閱讀每一篇文章，參考風格去產生我所定義題目的草稿，沒有做太細節的調整。
 
-以下是 GPT 產生的文章，附帶一個文章的意象圖：
+以下是 GPT 產生的文章，附帶 DALL·E 根據文章生成的意象圖：
 
 # 生命的意義 - Exploring the Depths of Existence
 
