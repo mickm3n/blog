@@ -45,6 +45,10 @@ image = "meaning-of-life.webp"
 
 # 後記
 
-哈！很有趣！我的確喜歡可以引用到自己過去所學的內容，但 GPT 一口氣加了很多🤣。中間有試著要讓他自行產生 [Zola](https://www.getzola.org/) 定義的連結方式，但還沒有很成功，但感覺再稍微調整一下就有機會。
+哈！對我來說很有趣！我的確喜歡引用到自己過去所學的內容，但 GPT 一口氣加了很多🤣。
 
-不知道大家對於生成的文章有什麼想法呢？對於即將來臨的 AI 時代，你感到興奮還是害怕呢？歡迎留言告訴我你的想法！
+在 AI 越來越成熟之後，擁有更多個人的資訊也是朝向個人化重要的一步，很期待科技後續的發展。今天在研究是否要利用 Vector Database 嘗試看看做長期記憶的實現時，也發現 [ChatGPT 好像也在做長期記憶的 A/B Test](https://www.reddit.com/r/singularity/comments/192xyp9/gpt_has_long_term_memory_now/) 了，看來個人化的 AI 助理指日可待了！
+
+![](https://preview.redd.it/holy-crap-new-update-v0-e6lhzjuryibc1.jpeg?width=1080&crop=smart&auto=webp&s=9b48acd3dc240c3a37b8b527e44430b7c58ed30d)
+
+不知道大家對於生成的文章有什麼想法呢？對於即將來臨的 AI 時代，你感到興奮比較多還是害怕比較多呢？歡迎留言告訴我你的想法！
