@@ -50,5 +50,6 @@ image = "meaning-of-life.webp"
 在 AI 越來越成熟之後，擁有更多個人的資訊也是朝向個人化重要的一步，很期待科技後續的發展。今天在研究是否要利用 Vector Database 嘗試看看做長期記憶的實現時，也發現 [ChatGPT 好像也在做長期記憶的 A/B Test](https://www.reddit.com/r/singularity/comments/192xyp9/gpt_has_long_term_memory_now/) 了，看來個人化的 AI 助理指日可待了！
 
 ![](https://preview.redd.it/holy-crap-new-update-v0-e6lhzjuryibc1.jpeg?width=1080&crop=smart&auto=webp&s=9b48acd3dc240c3a37b8b527e44430b7c58ed30d)
+<p class="image-caption">from Reddit</p>
 
 不知道大家對於生成的文章有什麼想法呢？對於即將來臨的 AI 時代，你感到興奮比較多還是害怕比較多呢？歡迎留言告訴我你的想法！
