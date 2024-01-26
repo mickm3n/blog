@@ -3,8 +3,8 @@ title = "GPTs 初探索：在讀完所有的文章後，仿造風格寫作"
 date = 2024-01-24
 
 [taxonomies]
-categories = []
-tags = []
+categories = ["經驗分享"]
+tags = ["AI"]
 
 [extra]
 image = "meaning-of-life.webp"
