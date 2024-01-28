@@ -49,20 +49,27 @@
   <body>
     <header>
       <nav class="navbar-top">
-        <div>
+        <div class="flex juistify-between">
           <a class="navbar-a" href="{{ config.base_url }}">
             <img src="{{ get_url(path="images/logo_630.webp", trailing_slash=false, cachebust=true) | safe}}" width="48"
               height="48" alt="Logo">
-            <span class="navbar-name">針織拙見</span>
           </a>
+          <div class="horizontal-menu">
+            <a class="navbar-a" href="/reading-notes/">閱讀筆記</a>
+            <a class="navbar-a" href="/blog/">雜記</a>
+            <a class="navbar-a" href="/wisdom/">他人的智慧</a>
+            <a class="navbar-a" href="/about/">關於</a>
+          </div>
         </div>
-        <span>&nbsp;&nbsp;&nbsp;</span>
-        <div class="flex justify-between">
-          <a class="navbar-a" href="/reading-notes/">閱讀筆記</a>
-          <a class="navbar-a" href="/blog/">雜記</a>
-          <a class="navbar-a" href="/wisdom/">他人的智慧</a>
-          <a class="navbar-a" href="/about/">關於</a>
-        </div>
+        <nav class="menu">
+          <div class="menu-icon" onclick="toggleMenu()">☰</div>
+          <div class="menu-content">
+            <a class="navbar-menu" href="/reading-notes/">閱讀筆記</a>
+            <a class="navbar-menu" href="/blog/">雜記</a>
+            <a class="navbar-menu" href="/wisdom/">他人的智慧</a>
+            <a class="navbar-menu" href="/about/">關於</a>
+          </div>
+        </nav>
       </nav>
     </header>
     <main id="root" class="body-zone flex juistify-between flex-1">
@@ -129,6 +136,12 @@
     </footer>
     {% block script %}
     {% endblock script %}
+    <script>
+      function toggleMenu() {
+        var menu = document.querySelector('.menu-content');
+        menu.classList.toggle('show');
+      }
+    </script>
   </body>
 
 </html>

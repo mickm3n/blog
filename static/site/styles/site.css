@@ -326,7 +326,7 @@ a.muted,
   padding-bottom: 1.4rem;
 }
 
-.navbar-name {
+.navbar-menu {
   display: inline-block;
   font-size: 1.2rem;
   line-height: 1.4rem;
@@ -334,8 +334,10 @@ a.muted,
   position: relative;
   top: -1.5px;
   vertical-align: middle;
-  color: rgba(254, 218, 119, 1);
+  color: rgb(0, 0, 0);
   white-space: nowrap;
+  margin-top: 0.5rem;
+  margin-bottom: 1.0rem;
 }
 
 .navbar-a:link {
@@ -344,13 +346,14 @@ a.muted,
   color: var(--colors-text-light);
   text-decoration: none;
   padding-left: 12px;
+  font-size: 16px;
 }
 
 .navbar-top {
   font-size: 1.1rem;
   position: fixed;
   display: flex;
-  flex-direction: row;
+  justify-content: space-between;
   height: 8vh;
   width: 100%;
   padding: 1.1rem;
@@ -487,6 +490,38 @@ tr:first-child th {
   margin-right: 1rem;
 }
 
+.horizontal-menu {
+  display: none;
+  justify-content: space-between;
+}
+
+.menu-icon {
+  display: flex;
+  cursor: pointer;
+  justify-content: flex-end;
+  flex-direction: column;
+  font-size: 25px;
+}
+
+.menu-content {
+  display: none;
+  position: absolute;
+  top: 100%;
+  right: 10%;
+  width: 80%;
+  background: var(--colors-background);
+  flex-direction: column;
+  text-align: center;
+  color: #000000;
+}
+
+.menu-content.show {
+  display: flex;
+}
+
+.hidden {
+  display: none;
+}
 
 @media (min-width: 767px) {
   #root {
@@ -579,5 +614,13 @@ tr:first-child th {
   tbody tr:hover {
     background-color: #e9edf0;
     cursor: pointer;
+  }
+
+  .menu-icon {
+    display: none;
+  }
+
+  .horizontal-menu {
+    display: flex;
   }
 }
