@@ -13,11 +13,14 @@ tags = []
 > * MINOR: 有小型更新時變動，例如增加了 sortable table view 或是搜尋功能。
 > * PATCH: 有小幅度修正時變動，例如改了 style 或文章的 properties。
 
+# [2024-01-28][1.3.1]
+## Changed
+* 更改手機瀏覽時的選單成下拉式
+* 網站首頁移除 Changelog
+
 # [2023-11-07][1.3.0]
 ## New
 * 參照 [Shortcodes](https://www.getzola.org/documentation/content/shortcodes/) 增加 [Youtube shortcode](https://github.com/mickm3n/blog/commit/829e6252ce901e4a810b9734c2a31aca8bf35eb3)
-
-<!-- more -->
 
 # [2023-10-19][v1.2.1]
 ## Changed
