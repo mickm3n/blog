@@ -53,4 +53,3 @@ image = "breath.webp"
 # References
 - 從[呼吸對了身體就好了！這樣呼吸淨化氣脈、呼吸道](https://www.edh.tw/article/19715)可以看到真人演示圖片。
 - 從[圖解鼻孔交替呼吸法 讓你心靜還能睡好！](https://heho.com.tw/archives/60102)可以看可愛的流程示意圖。
-- 從[Nadi Shodhana 淨脈呼吸法與日月平衡](https://m.xuite.net/blog/koolee868664/wretch/117924967)參考日月呼吸法的細節。

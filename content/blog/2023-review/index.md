@@ -49,7 +49,7 @@ image = "wheel-of-life.webp"
 今年新增的項目
 -------
 
-在今年年末的時候，讀了 NESS LABS 的 [Year in Review](https://nesslahttps://nesslabs.com/year-in-reviewbs.com/year-in-review)，提供了一個供年度回顧的範本。基本上透過把生活切分成九個面向和三個問題，可以分開檢視自己「各個面向做得如何，是不是有某個面相特別缺乏」，像是[生命之輪 Wheel of Life](https://wheeloflife.noomii.com/) 的概念。
+在今年年末的時候，讀了 NESS LABS 的 [Year in Review](https://nesslabs.com/year-in-reviewbs.com/year-in-review)，提供了一個供年度回顧的範本。基本上透過把生活切分成九個面向和三個問題，可以分開檢視自己「各個面向做得如何，是不是有某個面相特別缺乏」，像是[生命之輪 Wheel of Life](https://wheeloflife.noomii.com/) 的概念。
 
 ![](wheel-of-life.webp)
 
