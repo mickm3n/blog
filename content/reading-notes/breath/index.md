@@ -51,7 +51,7 @@ image = "breath.webp"
 >
 > —- 最後一次相遇，我們只談喜悅
 
-鼻子也是連結交感神經系統與副交感神經系統的重要器官。透過控制呼吸，使我們有機會調節身體其他的複雜系統。[淨脈呼吸法](@/wisdom/method/nadi-shodhana/index.md)就是利用不同鼻孔的特性，來控制呼吸達到調節身體的方法。
+鼻子也是連結交感神經系統與副交感神經系統的重要器官。透過控制呼吸，使我們有機會調節身體其他的複雜系統。[淨脈呼吸法](@/wisdom/methods/nadi-shodhana/index.md)就是利用不同鼻孔的特性，來控制呼吸達到調節身體的方法。
 
 ## 減少呼吸次數
 
@@ -59,7 +59,7 @@ image = "breath.webp"
 
 最佳的呼吸方式其實是放慢呼吸。放慢呼吸使血液裡的二氧化碳濃度變高，有助於排出血紅素裡的氧氣，也可以增加我們的有氧耐力。
 
-可以透過[共振呼吸法](@/wisdom/method/resonant-frequency-breathing/index.md)來訓練減少自己的呼吸次數。
+可以透過[共振呼吸法](@/wisdom/methods/resonant-frequency-breathing/index.md)來訓練減少自己的呼吸次數。
 
 ## 增加咀嚼
 

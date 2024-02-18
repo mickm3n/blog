@@ -61,7 +61,7 @@ image = "og-image.webp"
 這一切都會影響著我們的「判斷力」，而判斷力是槓桿能否成功的要素。
 
 
-[Naval 列出了應該要學習的知識與心智模型](@/wisdom/list/naval-ravikant-a-latticework-of-mental-models.md)
+[Naval 列出了應該要學習的知識與心智模型](@/wisdom/lists/naval-ravikant-a-latticework-of-mental-models.md)
 
 勇於承擔風險與責任
 ---------

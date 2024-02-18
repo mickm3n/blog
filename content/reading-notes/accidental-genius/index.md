@@ -54,13 +54,13 @@ image = "og-image.webp"
 
 可以在自由書寫時，把這些提示放在容易取得的位置。
 
--   [輔助自由書寫的問題](@/wisdom/list/freewriting-questions.md)
+-   [輔助自由書寫的問題](@/wisdom/lists/freewriting-questions.md)
 
--   [輔助自由書寫的引導句](@/wisdom/list/freewriting-prompts.md)
+-   [輔助自由書寫的引導句](@/wisdom/lists/freewriting-prompts.md)
 
--   [輔助自由書寫的詞彙解析技巧](@/wisdom/method/freewriting-open-up-words.md)
+-   [輔助自由書寫的詞彙解析技巧](@/wisdom/methods/freewriting-open-up-words.md)
 
--   [輔助自由書寫的概念轉化技巧](@/wisdom/method/freewriting-perspective-shift.md)
+-   [輔助自由書寫的概念轉化技巧](@/wisdom/methods/freewriting-perspective-shift.md)
 
 讀後感
 ===
