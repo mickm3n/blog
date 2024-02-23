@@ -26,7 +26,7 @@ image = "og-image.webp"
 
 在閱讀查理蒙格的《[窮查理的普遍常識 Poor Charlie's Almanack](@/reading-notes/poor-charlies-almanack/index.md)》和 Naval Ravikant 的《[快樂實現自主富有 The Almanack of Naval Ravikant](@/reading-notes/the-almanack-of-naval-ravikant/index.md)》這兩本書，都提及了建構多元思維模型的重要性，也分別提出自己的清單（[查理蒙格 Charles T. Munger 的多元思維模型清單](@/wisdom/lists/charles-munger-a-latticework-of-mental-models.md)、[Naval Ravikant 的多元思維模型清單](@/wisdom/lists/naval-ravikant-a-latticework-of-mental-models.md)）。
 
-要建立多元思維模型，怎能不讀這本幫你整理一些最常用思維模型的書呢？
+要建立多元思維模型，怎能不讀這本幫你整理一些最常用思考類思維模型的書呢？
 
 摘錄觀點
 ====
@@ -56,7 +56,7 @@ image = "og-image.webp"
 >
 > --- 《思考的框架》
 
-書中提到的思維模型
+學習最常見的思考類思維模型
 ---------
 
 為了方便未來想法的發展，我把這些思維模型放在專屬的資料夾，想要整理這些思維模型的目的、使用情境和風險，未來也可以持續搜集其他地方看到的思維模型。額外在每個思維模型如果有不錯的細節可以補充，我也都會加在該頁面。
@@ -81,7 +81,7 @@ image = "og-image.webp"
 
 -   [奧坎剃刀 Ockham's Razor]((@/wisdom/mental-models/ockhams-razor/index.md))
 
-建立自己的多元思維模型
+開始建立多元思維模型
 -----------
 
 要有效地累積經驗形成智慧，建立多元思維模型是一個捷徑。我們可以透過閱讀學會理論、學會他人的思維模型，接著我們將這些思維模型組織成框架，導入經驗。透過消化經驗，我們可以更清楚使用個別思維模型的情境、時間點和目的。透過累積，我們可以篩選出對我們有用的模型，甚至創造我們自己的思維模型。
