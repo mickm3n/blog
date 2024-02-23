@@ -528,11 +528,11 @@ tr:first-child th {
   }
 
   .main-inner {
-    padding-left: 4rem;
-    padding-right: 4rem;
+    padding-left: 8rem;
+    padding-right: 8rem;
     background-color: var(--colors-article);
-    padding-top: 2.4rem;
-    padding-bottom: 1.4rem;
+    padding-top: 4.8rem;
+    padding-bottom: 2.8rem;
     max-width: 64rem;
     min-width: 52rem;
     margin: 0 auto;

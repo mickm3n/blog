@@ -1,5 +1,5 @@
 {% macro post_max(page) %}
-<article class="main-inner">
+<article>
     <h1><a class="no-underline " href="{{ page.permalink }}">{{ page.title }}</a></h1>
     <section class="muted">
         發表時間：<time pubdate>{{ page.date | date(format="%Y-%m-%d") }}</time>
