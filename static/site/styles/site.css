@@ -550,6 +550,10 @@ tr:first-child th {
     flex-direction: row;
   }
 
+  .py {
+    margin-right: 4rem;
+  }
+
   .sidebar {
     position: sticky;
     border-top: none;
