@@ -1,15 +1,25 @@
 +++
 title = "能力圈 Circle of Competence"
-date = 2023-10-31
+date = 2024-02-23
 
 [taxonomies]
-categories = ["方法"]
+categories = ["思維模型"]
 tags = []
 
 [extra]
-image = "og-image.webp"
+image = "circle-of-competence.webp"
 +++
 
+# 目的
+誠實面對自己，區分自己已知跟未知的部分；達到適才適用，朝正確的方向成長、選擇正確的戰場。
+
+# 使用情境
+在考慮個人職涯發展、投資決策與團隊的任務分配時，考慮個體與組織的核心優勢，做正確的配置。
+
+# 錯誤使用的風險
+對自我能力有僵固的想法，造成成長受限與新機會的探索。
+
+# 延伸細節
 
 能力圈這個詞最早出現在 1996 年波克夏「致股東信」由巴菲特 Warren Buffett 提出，意指在一個能力圈的範圍內，我們有能力去辨別一件事物的好壞，能夠利用判斷力在範圍內做出較有效的決策。
 
@@ -42,7 +52,6 @@ image = "og-image.webp"
 -   想辦法增加相關的經驗、找尋學習資源、尋求導師或教練的幫助。
 -   與人合作、諮詢、把任務外包，讓他人的能力圈為你所用。
 
-References
-----------
+# References
 * [How To Find Your Circle of Competence To Become More Knowledgeable](https://harshasr.medium.com/how-to-find-your-circle-of-competence-to-become-more-knowledgeable-40774d1b43d4)
 * [Circle of Competence](https://modelthinkers.com/mental-model/circle-of-competence)

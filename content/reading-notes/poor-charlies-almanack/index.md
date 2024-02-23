@@ -34,7 +34,7 @@ image = "og-image.webp"
 能力圈理論
 -----
 
-相較於全知全能，查理蒙格相信每個人都有自己的[能力圈 Circles of Competence](@/wisdom/methods/circle-of-competence/index.md)。要清楚知道自己的能力圈的範圍在哪裡，在自己能力圈的範圍內，把握機會、全力出擊。
+相較於全知全能，查理蒙格相信每個人都有自己的[能力圈 Circles of Competence](@/wisdom/mental-models/circle-of-competence/index.md)。要清楚知道自己的能力圈的範圍在哪裡，在自己能力圈的範圍內，把握機會、全力出擊。
 
 > 當你發現一記「好球」，卻無法用全部資金打擊出去，長期下來，結果也將和頻頻揮棒一樣糟糕。
 >
