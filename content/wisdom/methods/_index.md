@@ -1,5 +1,5 @@
 +++
-title = "List of methods"
+title = "方法列表"
 sort_by = "date"
 template = "blog.html"
 page_template = "page.html"

@@ -1,5 +1,5 @@
 +++
-title = "List of checklists"
+title = "清單列表"
 sort_by = "date"
 template = "blog.html"
 page_template = "page.html"

@@ -6,6 +6,7 @@
 {{ macro::post_link(page=page) }}
 {% endfor %}
 {% else %}
+<h1>{{ section.title }}</h1>
 {% for page in section.pages %}
 {{ macro::post_link(page=page) }}
 {% endfor %}
