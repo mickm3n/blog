@@ -3,11 +3,11 @@
 {% block content %}
 {% if paginator %}
 {% for page in paginator.pages %}
-{{ macro::post_max(page=page) }}
+{{ macro::post_link(page=page) }}
 {% endfor %}
 {% else %}
 {% for page in section.pages %}
-{{ macro::post_max(page=page) }}
+{{ macro::post_link(page=page) }}
 {% endfor %}
 {% endif %}
 {% endblock content %}
