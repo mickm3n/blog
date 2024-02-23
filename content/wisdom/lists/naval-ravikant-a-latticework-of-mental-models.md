@@ -8,7 +8,7 @@ tags = []
 +++
 
 -   演化論
--   反演法
+-   [反演法](@/wisdom/mental-models/inversion/index.md)
 -   複雜理論
 -   經濟學
     -   個體經濟
