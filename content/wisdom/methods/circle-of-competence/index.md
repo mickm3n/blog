@@ -1,5 +1,5 @@
 +++
-title = "能力圈 Circles of Competence"
+title = "能力圈 Circle of Competence"
 date = 2023-10-31
 
 [taxonomies]
