@@ -65,9 +65,9 @@ image = "og-image.webp"
 
 -   [反演法 Inversion](@/wisdom/mental-models/inversion/index.md)
 
--   [二階思考 Second-order Thinking]((@/wisdom/mental-models/second-order-thinking/index.md))
+-   [二階思考 Second-order Thinking](@/wisdom/mental-models/second-order-thinking/index.md)
 
--   [第一原理思考 First Principle Thinking]((@/wisdom/mental-models/first-principle-thinking/index.md))
+-   [第一原理思考 First Principle Thinking](@/wisdom/mental-models/first-principle-thinking/index.md)
 
 -   [機率思考 Probabilistic Thinking](@/wisdom/mental-models/probabilistic-thinking/index.md)
 
@@ -75,11 +75,11 @@ image = "og-image.webp"
 
 -   [能力圈 Circle of Competence](@/wisdom/mental-models/circle-of-competence/index.md)
 
--   [假想實驗 Thought Experiment]((@/wisdom/mental-models/thought-experiment/index.md))
+-   [假想實驗 Thought Experiment](@/wisdom/mental-models/thought-experiment/index.md)
 
--   [漢隆剃刀 Hanlon's Razor]((@/wisdom/mental-models/hanlons-razor/index.md))
+-   [漢隆剃刀 Hanlon's Razor](@/wisdom/mental-models/hanlons-razor/index.md)
 
--   [奧坎剃刀 Ockham's Razor]((@/wisdom/mental-models/ockhams-razor/index.md))
+-   [奧坎剃刀 Ockham's Razor](@/wisdom/mental-models/ockhams-razor/index.md)
 
 開始建立多元思維模型
 -----------
