@@ -1,10 +1,10 @@
 +++
 title = "第一原理思考 First Principle Thinking"
-date = 2024-02-23
+date = 2024-02-26
 
 [taxonomies]
 categories = ["思維模型"]
-tags = []
+tags = ["elon-musk"]
 
 [extra]
 image = "first-principle-thinking.webp"
@@ -31,3 +31,8 @@ image = "first-principle-thinking.webp"
 
 ### Elon Musk 用第一原理思考突破電池價格的限制
 {{ youtube(id="NV3sBlRgzTI") }}
+
+Elon Musk 曾經提到過應該把知識看成一棵樹，可以把知識解構成不同部分，例如樹幹、樹枝、葉子和果實。最重要的是在探索更多新資訊（葉子和果實）前確認你理解了最基本的知識（樹幹）。
+
+![](first-principle-of-learning.webp)
+<p class="image-caption">from safalniveshak.com</p>

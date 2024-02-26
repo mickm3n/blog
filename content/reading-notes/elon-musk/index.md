@@ -4,7 +4,7 @@ date = 2022-05-24
 
 [taxonomies]
 categories = ["閱讀筆記"]
-tags = []
+tags = ["elon-musk"]
 
 [extra]
 rating = 4
