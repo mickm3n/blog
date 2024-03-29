@@ -74,7 +74,7 @@ André Kostolany 定義投資者和投機者都是固執的投資者。並引用
 
 -   想法：對錯不重要，但每次都要三思而後行，要有想像力。~~投機也是想象的世界。~~
 
-![Imagination](og-image.webp)
+{{ image(path="og-image.webp", height=300)}}
 <p class="image-caption">取自《葬送的芙莉蓮》動畫第二十一話</p>
 
 -   耐心：要相信自己訂下的策略，堅持直到結束時反思。
