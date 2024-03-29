@@ -65,6 +65,11 @@ Kostolany 對投機的定義
 
 Kostolany 的投機理論
 -----
+* [成為固執的投資者](#成為固執的投資者)
+* [觀察證券市場](#觀察證券市場)
+* [科斯托蘭尼雞蛋理論 Kostolany's Egg](#kostolanys-egg)
+* [不要當空軍](#不要當空軍)
+* [不要尋求投資建議](#不要尋求投資建議)
 
 ### 成為固執的投資者
 
@@ -103,7 +108,7 @@ André Kostolany 定義投資者和投機者都是固執的投資者。並引用
 
 -   關注利率變化、國際情勢，選擇景氣好的時候投機。
 
-#### 科斯托蘭尼雞蛋理論 Kostolany's Egg
+#### 科斯托蘭尼雞蛋理論 Kostolany's Egg {#kostolanys-egg}
 
 ![Kostolany's Egg](kostolanys-egg.webp)
 <p class="image-caption">擷取自書中</p>
