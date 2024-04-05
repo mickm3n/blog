@@ -48,7 +48,7 @@ André Kostolany 是一位享譽盛名的股市投機大師，人生大部分時
 
 > 金錢像海水，喝得愈多，覺得愈渴。
 >
-> — 叔本華 Schopenhauer
+> —— 叔本華 Schopenhauer
 
 ### 投機對他的意義
 
@@ -90,7 +90,7 @@ André Kostolany 定義投資者和投機者都是固執的投資者。並引用
 
 > 一個懂得很多的笨蛋，比無知者還要加倍愚蠢。
 >
-> — Molière
+> —— Molière
 
 ### 觀察證券市場
 
@@ -147,7 +147,7 @@ André Kostolany 的第一個理由是，空軍賺的是痛苦錢，這種痛苦
 
 > 投機是種藝術，而不是科學。
 >
-> — André Kostolany
+> —— André Kostolany
 
 為什麼不要尋求投資建議？有兩個原因：
 
