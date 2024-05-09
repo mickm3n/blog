@@ -1,5 +1,5 @@
 +++
-title = "《Book：政客、權謀、小丑 Les ingénieurs du chaos》閱讀筆記：在量子世界茁壯的民粹主義"
+title = "《政客、權謀、小丑 Les ingénieurs du chaos》閱讀筆記：在量子世界茁壯的民粹主義"
 date = 2024-04-25
 
 [taxonomies]
