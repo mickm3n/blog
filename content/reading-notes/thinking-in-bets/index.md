@@ -7,7 +7,7 @@ categories = ["閱讀筆記"]
 tags = ["belief", "decision-making"]
 
 [extra]
-rating = 4.0
+rating = 8.0
 image = "thinking-in-bets.og.webp"
 +++
 

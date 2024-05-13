@@ -7,7 +7,7 @@ categories = ["閱讀筆記"]
 tags = ["happiness", "philosophy"]
 
 [extra]
-rating = 5
+rating = 10
 image = "the-book-of-joy.jpg"
 +++
 

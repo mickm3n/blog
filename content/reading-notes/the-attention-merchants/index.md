@@ -7,7 +7,7 @@ categories = ["閱讀筆記"]
 tags = ["attention"]
 
 [extra]
-rating = 5
+rating = 10
 image = "jules-cheret.webp"
 +++
 

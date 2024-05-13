@@ -7,7 +7,7 @@ categories = ["閱讀筆記"]
 tags = ["personal-knowledge-system"]
 
 [extra]
-rating = 4.5
+rating = 9
 image = "building-a-second-brain.webp"
 +++
 

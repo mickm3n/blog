@@ -7,7 +7,7 @@ categories = ["閱讀筆記"]
 tags = ["habit"]
 
 [extra]
-rating = 5
+rating = 10
 image = "atomic-habits.jpeg"
 +++
 

@@ -8,7 +8,7 @@ categories = ["閱讀筆記"]
 tags = []
 
 [extra]
-rating = 4
+rating = 8
 image = "the-psychology-of-money.jpg"
 +++
 

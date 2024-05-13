@@ -7,7 +7,7 @@ categories = ["閱讀筆記"]
 tags = ["culture", "work"]
 
 [extra]
-rating = 4.5
+rating = 9
 image = "culture-map-painting.webp"
 +++
 

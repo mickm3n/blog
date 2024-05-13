@@ -7,7 +7,7 @@ categories = ["閱讀筆記"]
 tags = []
 
 [extra]
-rating = 5
+rating = 10
 imaeg = "think-like-a-monk.jpg"
 +++
 

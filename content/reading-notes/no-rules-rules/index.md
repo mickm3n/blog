@@ -7,7 +7,7 @@ categories = ["閱讀筆記"]
 tags = []
 
 [extra]
-rating = 4
+rating = 8
 image = "no-rules-rules.jpg"
 +++
 

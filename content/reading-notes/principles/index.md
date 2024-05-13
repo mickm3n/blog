@@ -8,7 +8,7 @@ categories = ["閱讀筆記"]
 tags = []
 
 [extra]
-rating = 4.5
+rating = 9
 image = "principles.webp"
 +++
 
