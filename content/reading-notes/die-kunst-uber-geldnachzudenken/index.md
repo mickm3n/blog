@@ -7,7 +7,7 @@ categories = ["閱讀筆記"]
 tags = ["investment"]
 
 [extra]
-rating = 4.0
+rating = 8.0
 image = "og-image.webp"
 +++
 

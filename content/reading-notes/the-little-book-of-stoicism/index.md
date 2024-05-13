@@ -7,7 +7,7 @@ categories = ["閱讀筆記"]
 tags = ["philosophy"]
 
 [extra]
-rating = 4.5
+rating = 9
 image = "the-little-book-of-stoicism-timeless-wisdom-to-gain-resilience-confidence-and-calmness.webp"
 +++
 

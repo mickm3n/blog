@@ -7,7 +7,7 @@ categories = ["閱讀筆記"]
 tags = ["politics"]
 
 [extra]
-rating = 4
+rating = 8
 image = "og-image.webp"
 +++
 

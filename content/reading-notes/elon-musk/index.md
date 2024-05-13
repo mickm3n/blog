@@ -7,7 +7,7 @@ categories = ["閱讀筆記"]
 tags = ["elon-musk"]
 
 [extra]
-rating = 4
+rating = 8
 image = "elon-musk.webp"
 +++
 

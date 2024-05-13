@@ -7,7 +7,7 @@ categories = ["閱讀筆記"]
 tags = ["note-making"]
 
 [extra]
-rating = 4.5
+rating = 9
 image = "how-to-take-smart-notes.jpg"
 +++
 

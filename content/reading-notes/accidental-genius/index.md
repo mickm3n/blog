@@ -7,7 +7,7 @@ categories = ["閱讀筆記"]
 tags = ["writing"]
 
 [extra]
-rating = 5
+rating = 10
 image = "og-image.webp"
 +++
 

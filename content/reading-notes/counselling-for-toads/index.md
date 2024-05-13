@@ -7,7 +7,7 @@ categories = ["閱讀筆記"]
 tags = ["mental-health"]
 
 [extra]
-rating = 4
+rating = 8
 image = "counselling-for-toad.webp"
 +++
 

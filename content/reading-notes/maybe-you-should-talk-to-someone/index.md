@@ -7,7 +7,7 @@ categories = ["閱讀筆記"]
 tags = ["mental-health"]
 
 [extra]
-rating = 5
+rating = 10
 image = "maybe-you-should-talk-to-someone.jpeg"
 +++
 

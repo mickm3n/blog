@@ -7,7 +7,7 @@ categories = ["閱讀筆記"]
 tags = []
 
 [extra]
-rating = 3.5
+rating = 7
 image = "aesthetic-consciousness.og.webp"
 +++
 

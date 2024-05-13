@@ -7,7 +7,7 @@ categories = ["閱讀筆記"]
 tags = []
 
 [extra]
-rating = 3
+rating = 6
 image = "how-to-read-a-book.jpeg"
 +++
 
