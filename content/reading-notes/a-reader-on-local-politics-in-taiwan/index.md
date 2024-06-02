@@ -4,7 +4,7 @@ date = 2024-05-30
 
 [taxonomies]
 categories = ["閱讀筆記"]
-tags = ["Politics"]
+tags = ["politics"]
 
 [extra]
 rating = 7
