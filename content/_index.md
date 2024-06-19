@@ -11,10 +11,13 @@ authors = ["Mick Zhuang"]
 
 # 歡迎來到針織拙見
 
-這裡是我用 [zola](https://www.getzola.org/documentation/getting-started/overview/) 開發的網站，目的是想要有個框架更能控制想呈現的網站結構。
+這裡是用 Static Site Generator 的 Framework——[zola](https://www.getzola.org/documentation/getting-started/overview/) 開發的網站，從原本訂閱制的 [Bluehost](https://www.bluehost.com/) 的託管 Wordpress 服務搬遷到用 Netlify + Zola 的輕量型部落格。
 
 # 網站的規劃
 
-目前的寫作大部分在於閱讀書籍之後的心得，所以特別留下了「閱讀筆記」這個選項在標題列。其餘的部分會歸類在於「雜記」，如果寫作上有什麼大幅度的改變再來做調整。
-* [閱讀筆記](reading-notes/)
-* [雜記](blog/)
+大部分的寫作是閱讀書籍後的閱讀筆記，所以特別留下了「[閱讀筆記](reading-notes/)」的選項。
+
+其餘的主題寫作會放在「[文章](blog/)」這個類別。
+
+另外在閱讀到很喜歡的網路資源時，會做簡單的整理和心得作推薦，可以從「[眾人的智慧](wistom/)」查看我精選的網路資源。
+
