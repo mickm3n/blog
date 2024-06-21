@@ -13,6 +13,11 @@ tags = []
 > * MINOR: 有小型更新時變動，例如增加了 sortable table view 或是搜尋功能。
 > * PATCH: 有小幅度修正時變動，例如改了 style 或文章的 properties。
 
+# [2024-06-22][1.5.0]
+## New
+* 簡單做了藉由 Google 作搜尋的功能，沒想到跟 ChatGpt 一起協作，只問了一個問題就做完了🫨
+  * [Pull Request](https://github.com/mickm3n/blog/pull/4/files)
+
 # [2024-05-13][1.4.0]
 ## Changed
 * 把讀書心得的評分從五分制改為十分制，提供比較細的區分。

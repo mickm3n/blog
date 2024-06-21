@@ -21,3 +21,5 @@ authors = ["Mick Zhuang"]
 
 另外在閱讀到很喜歡的網路資源時，會做簡單的整理和心得作推薦，可以從「[眾人的智慧](wistom/)」查看我精選的網路資源。
 
+# 其他頁面
+* 網站功能的 [Changelog](@/changelog.md)
