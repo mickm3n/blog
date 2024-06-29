@@ -144,6 +144,15 @@ article section h1 {
   font-size: 1.4rem;
 }
 
+article div h1 {
+  font-size: 2rem;
+  padding-left: 0;
+}
+
+article div h1:before {
+  content: none;
+}
+
 h2 {
   font-size: 1.4rem;
   font-weight: 600;
@@ -256,17 +265,6 @@ a:visited {
   text-decoration: none;
   color: #013127;
   text-decoration-thickness: 0.1rem;
-}
-
-:target {
-  scroll-margin-top: 56px;
-}
-
-:target::before {
-  content: "";
-  display: block;
-  height: 56px;
-  margin-top: -56px;
 }
 
 .body-zone {
