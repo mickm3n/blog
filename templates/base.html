@@ -96,10 +96,8 @@
             {% set blog_section = get_section(path="reading-notes/_index.md") -%}
             {% for page in blog_section.pages | slice(begin=0,end=3)  %}
             <li>
-              <a class="no-underline">
-                <a class="no-underline" href="{{ page.permalink | safe }}">{{ page.title }}</a>
-                <span class="muted text-sm">{{ page.date }}</span>
-              </a>
+              <a class="no-underline" href="{{ page.permalink | safe }}">{{ page.title }}</a>
+              <span class="muted text-sm">{{ page.date }}</span>
             </li>
             {% endfor %}
           </ul>
@@ -110,10 +108,8 @@
             {% set blog_section = get_section(path="blog/_index.md") -%}
             {% for page in blog_section.pages | slice(begin=0,end=7)  %}
             <li>
-              <a class="no-underline">
-                <a class="no-underline" href="{{ page.permalink | safe }}">{{ page.title }}</a>
-                <span class="muted text-sm">{{ page.date }}</span>
-              </a>
+              <a class="no-underline" href="{{ page.permalink | safe }}">{{ page.title }}</a>
+              <span class="muted text-sm">{{ page.date }}</span>
             </li>
             {% endfor %}
           </ul>
