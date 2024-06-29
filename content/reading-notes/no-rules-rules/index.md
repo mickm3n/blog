@@ -1,6 +1,7 @@
 +++
 title = "《零規則 No Rules Rules》閱讀筆記：打造你心中的黃金陣容"
 date = 2021-07-03
+updated = 2024-06-30
 
 [taxonomies]
 categories = ["閱讀筆記"]
@@ -45,4 +46,14 @@ Netflix 從傳統的光碟出租，躍升到影片串流的強權，高人才密
 
 工作佔了人生中很大的比例，如何在這段時間過得開心，創造出意義，也是人生中重要的課題。
 
+# 更新
+## 2024 Netflix 公布最新的 Culture Memo（2024/06/30）
 
+[Sharing Our Latest Culture Memo](https://about.netflix.com/en/news/sharing-our-latest-culture-memo)
+
+* **The Dream Team**: We aim only to have the highest performers at Netflix, modeling ourselves on a professional sports team, not a family.
+* **People over Process**: Our goal is to inspire and empower more than manage because employees have more impact when they’re free to make decisions about their own work.
+* **Uncomfortably Exciting**: Netflix works best if you thrive on change because success in entertainment requires us to think differently, experiment and adapt (often quickly).
+* **Great and Always Better**: We often say we suck today by comparison to where we want to be in the future. So we focus on constant improvement, and the resilience needed to get there.
+
+重點差不多，根據能力打造明星隊、相信各專業角色的判斷力、快速改變適應不適、持續改善。
