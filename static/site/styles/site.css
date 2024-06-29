@@ -522,6 +522,25 @@ tr:first-child th {
   display: none;
 }
 
+.external-link {
+  position: relative;
+  text-decoration: underline;
+  color: #00f;
+}
+
+.external-link::after {
+  content: '';
+  background-image: url('/images/external-link.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-left: 1px;
+  margin-right: 1px;
+  vertical-align: middle;
+}
+
 @media (min-width: 767px) {
   #root {
     display: flex;
