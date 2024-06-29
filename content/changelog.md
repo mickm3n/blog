@@ -13,6 +13,13 @@ tags = []
 > * MINOR: 有小型更新時變動，例如增加了 sortable table view 或是搜尋功能。
 > * PATCH: 有小幅度修正時變動，例如改了 style 或文章的 properties。
 
+# [2024-06-29][1.5.1]
+## New
+* 對於外部的連結加上一個 Marker
+
+## Changes
+* 微調顏色與文字大小
+
 # [2024-06-22][1.5.0]
 ## New
 * 簡單做了藉由 Google 作搜尋的功能，沒想到跟 ChatGpt 一起協作，只問了一個問題就做完了🫨
