@@ -13,32 +13,32 @@ tags = []
 > * MINOR: 有小型更新時變動，例如增加了 sortable table view 或是搜尋功能。
 > * PATCH: 有小幅度修正時變動，例如改了 style 或文章的 properties。
 
-# [2024-06-29][1.5.1]
+# [2024-06-29][1.5.1] 對外部的連結加上 Marker
 ## New
-* 對於外部的連結加上一個 Marker
+* 對外部的連結加上 Marker
 
 ## Changes
 * 微調顏色與文字大小
 
-# [2024-06-22][1.5.0]
+# [2024-06-22][1.5.0] 增加搜尋功能
 ## New
 * 簡單做了藉由 Google 作搜尋的功能，沒想到跟 ChatGpt 一起協作，只問了一個問題就做完了🫨
   * [Pull Request](https://github.com/mickm3n/blog/pull/4/files)
 
-# [2024-05-13][1.4.0]
+# [2024-05-13][1.4.0] 更改評分制
 ## Changed
 * 把讀書心得的評分從五分制改為十分制，提供比較細的區分。
 
-# [2024-01-28][1.3.1]
+# [2024-01-28][1.3.1] 改善選單成下拉式
 ## Changed
 * 更改手機瀏覽時的選單成下拉式
 * 網站首頁移除 Changelog
 
-# [2023-11-07][1.3.0]
+# [2023-11-07][1.3.0] Youtube Shortcode
 ## New
 * 參照 [Shortcodes](https://www.getzola.org/documentation/content/shortcodes/) 增加 [Youtube shortcode](https://github.com/mickm3n/blog/commit/829e6252ce901e4a810b9734c2a31aca8bf35eb3)
 
-# [2023-10-19][v1.2.1]
+# [2023-10-19][v1.2.1] 調整網頁架構與呈現
 ## Changed
 * 從網頁名稱移除網站名稱，讓網頁名稱更簡潔。
 * 把所有文字內容都塞進 `og:description` 看有沒有幫助於 SEO。
