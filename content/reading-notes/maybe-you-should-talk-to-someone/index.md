@@ -12,8 +12,6 @@ image = "maybe-you-should-talk-to-someone.jpeg"
 +++
 
 # 書籍
-## 評分
-5.0/5.0
 
 [![](maybe-you-should-talk-to-someone.jpeg)](https://www.goodreads.com/book/show/37570546-maybe-you-should-talk-to-someone)
 

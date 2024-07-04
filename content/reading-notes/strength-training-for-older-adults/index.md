@@ -12,8 +12,6 @@ image = "strengh-training-for-older-adults.webp"
 +++
 
 # 書籍
-## 評分
-4.5/5.0
 
 [![](strengh-training-for-older-adults.webp)](https://www.goodreads.com/book/show/54660690)
 

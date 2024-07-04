@@ -12,8 +12,6 @@ image = "how-to-read-a-book.jpeg"
 +++
 
 # 書籍
-## 評分
-3.0/5.0
 
 [![](how-to-read-a-book.jpeg)](https://www.goodreads.com/book/show/567610.How_to_Read_a_Book)
 

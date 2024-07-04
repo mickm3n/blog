@@ -13,8 +13,6 @@ image = "the-psychology-of-money.jpg"
 +++
 
 # 書籍
-## 評分
-4.0/5.0
 
 [![](the-psychology-of-money.jpg)](https://www.goodreads.com/book/show/41881472-the-psychology-of-money)
 

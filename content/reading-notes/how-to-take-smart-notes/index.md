@@ -12,8 +12,6 @@ image = "how-to-take-smart-notes.jpg"
 +++
 
 # 書籍
-## 評分
-4.5/5.0
 
 [![](how-to-take-smart-notes.jpg)](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes)
 

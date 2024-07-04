@@ -12,8 +12,6 @@ image = "the-devops-handbook.jpeg"
 +++
 
 # 書籍
-## 評分
-5.0/5.0
 
 [![](the-devops-handbook.jpeg)](https://www.goodreads.com/book/show/26083308-the-devops-handbook)
 

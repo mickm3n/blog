@@ -12,8 +12,6 @@ image = "atomic-habits.jpeg"
 +++
 
 # 書籍
-## 評分
-5.0/5.0
 
 [![](atomic-habits.jpeg)](https://www.goodreads.com/book/show/40121378-atomic-habits)
 
