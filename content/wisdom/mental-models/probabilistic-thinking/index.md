@@ -35,7 +35,7 @@ image = "probabilistic-thinking.webp"
 * 均值回歸
 * 黑天鵝
 
-## 貝式思維
+## 貝式思維 {#bayes-theorem}
 貝式思維是條件機率的一種變型，在思考時不那麼直覺，容易受到誤導。
 
 最有名的就是傳染病要不要普篩的問題：
