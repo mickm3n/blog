@@ -7,6 +7,7 @@ from google.analytics.data_v1beta.types import (
 )
 import json
 import re
+import os
 
 PATH_FILTER_PATTERNS = [
     re.compile("/blog/.+"),
@@ -21,7 +22,12 @@ def get_view_count_dict(property_id="278031395"):
     """Runs a simple report on a Google Analytics 4 property."""
     # Using a default constructor instructs the client to use the credentials
     # specified in GOOGLE_APPLICATION_CREDENTIALS environment variable.
-    client = BetaAnalyticsDataClient()
+    # Load the service account info from the environment variable
+    service_account_info = json.loads(os.getenv("GOOGLE_APPLICATION_CREDENTIALS_JSON"))
+
+    # Create a client using the service account info
+    client = BetaAnalyticsDataClient.from_service_account_info(service_account_info)
+
     view_count_dict = dict()
 
     request = RunReportRequest(
