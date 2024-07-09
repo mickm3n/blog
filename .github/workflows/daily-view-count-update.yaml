@@ -25,7 +25,7 @@ jobs:
     - name: Run Google Analytics data retrieval script
       run: python scripts/fetch_google_analytics_view_counts.py
       env:
-        GOOGLE_APPLICATION_CREDENTIALS: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}
+        GOOGLE_APPLICATION_CREDENTIALS_JSON: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS_JSON }}
 
     - name: Run update top posts script
       run: python scripts/update_top_posts.py  # Replace with your actual script name
