@@ -1,0 +1,37 @@
+name: Daily Update Analytics and Top Posts
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # This runs at 12:00 AM UTC every day
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.10'  # Specify the Python version you're using
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r scripts/requirements.txt  # If you have a requirements.txt file
+
+    - name: Run Google Analytics data retrieval script
+      run: python scripts/fetch_google_analytics_view_counts.py
+      env:
+        GOOGLE_APPLICATION_CREDENTIALS: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}
+
+    - name: Run update top posts script
+      run: python scripts/update_top_posts.py  # Replace with your actual script name
+
+    - name: Commit and push if changed
+      run: |
+        git config --global user.email "github-actions@github.com"
+        git config --global user.name "GitHub Actions"
+        git add -A
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update analytics and top posts" && git push)

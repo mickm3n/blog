@@ -420,6 +420,11 @@ li.inline {
   color: #777;
 }
 
+.view-count {
+  font-size: 0.8rem;
+  color: #777;
+}
+
 /* Table styles */
 table {
   border-collapse: collapse;
