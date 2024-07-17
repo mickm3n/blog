@@ -2,7 +2,7 @@ import json
 import os
 import re
 
-SHOW_TOP_N_POSTS = 5
+SHOW_TOP_N_POSTS = 10
 TITLE_PATTERN = 'title = "(.*?)"'
 
 with open("static/data/view_counts.json", "r") as rf:
