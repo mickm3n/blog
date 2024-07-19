@@ -8,6 +8,7 @@ tags = ["programming"]
 +++
 
 創作者：朱雷
+
 文章：[入行 15 年，我還是覺得編程很難](https://mp.weixin.qq.com/s/B7Z0ROkiBqqxVKkLNR9BxQ)
 
 很喜歡這篇的文筆，很同意文中提到編程和寫作很相似，都需要閱讀他人的作品才能強化自己的能力。
