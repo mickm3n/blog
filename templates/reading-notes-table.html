@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 
 {% block content %}
+{% set view_counts = load_data(path="static/data/view_counts.json") %}
 <article class="main-inner">
   {{ section.content | safe}}
 </article>
@@ -22,7 +23,12 @@
   <tbody>
     {% for book in section.pages %}
     <tr>
-      <td><a class="no-underline" href="{{ book.permalink }}">{{ book.title }}</a></td>
+      <td>
+        <a class="no-underline" href="{{ book.permalink | safe }}">{{ book.title }}</a>
+        {% if view_counts[book.path] %}
+        <span class="view-count">({{ view_counts[book.path] }})</span>
+        {% endif %}
+      </td>
       <td>{{ book.date | date(format="%Y-%m-%d") }}</td>
       <td>{{ book.extra.rating }}</td>
     </tr>

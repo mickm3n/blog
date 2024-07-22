@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 
 {% block content %}
+{% set view_counts = load_data(path="static/data/view_counts.json") %}
 <section>
     <div class="page-header">
         <h1>All {{ taxonomy.name }}</h1>
@@ -12,7 +13,7 @@
             ({{category.pages | length }})
             <ul>
                 {% for page in category.pages %}
-                <li>{{ macro::post_link(page=page) }}</li>
+                <li>{{ macro::post_link(page=page, view_counts=view_counts) }}</li>
                 {% endfor %}
             </ul>
         </li>

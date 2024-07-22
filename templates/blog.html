@@ -3,8 +3,9 @@
 {% block content %}
 
 <h1>{{ section.title }}</h1>
+{% set view_counts = load_data(path="static/data/view_counts.json") %}
 {% for page in section.pages %}
-{{ macro::post_link(page=page) }}
+{{ macro::post_link(page=page, view_counts=view_counts) }}
 {% endfor %}
 
 {% endblock content %}

@@ -35,9 +35,12 @@
 </article>
 {% endmacro post_max %}
 
-{% macro post_link(page) %}
+{% macro post_link(page, view_counts) %}
 <p>
-    <a class="no-underline" href="{{ page.permalink }}">{{ page.title }}</a>
+    <a class="no-underline" href="{{ page.permalink | safe }}">{{ page.title }}</a>
+    {% if view_counts[page.path] %}
+    <span class="view-count">({{ view_counts[page.path] }})</span>
+    {% endif %}
     {% if page.update %}
     <span class="muted text-sm">{{ page.updated }}</span>
     {% else %}

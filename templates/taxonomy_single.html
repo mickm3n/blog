@@ -1,12 +1,13 @@
 {% extends "base.html" %}
 
 {% block content %}
+{% set view_counts = load_data(path="static/data/view_counts.json") %}
 <section>
     <div class="page-header">
         <h1> {{ term.name }} </h1>
     </div>
     {% for page in term.pages %}
-    {{ macro::post_link(page=page) }}
+    {{ macro::post_link(page=page, view_counts=view_counts) }}
     {% endfor %}
 </section>
 {% endblock content %}
