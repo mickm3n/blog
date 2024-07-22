@@ -13,6 +13,11 @@ tags = []
 > * MINOR: 有小型更新時變動，例如增加了 sortable table view 或是搜尋功能。
 > * PATCH: 有小幅度修正時變動，例如改了 style 或文章的 properties。
 
+# [2024-07-23][1.6.0] 加上每篇文章的 View Count
+## New
+* 從 Google Analytics 每日抓取各個 path 的 view count，存成 json 的 map 之後，在顯示每篇文章時去查詢 view count。
+* 在首頁呈現 Top-10 文章。
+
 # [2024-06-29][1.5.1] 對外部的連結加上 Marker
 ## New
 * 對外部的連結加上 Marker
