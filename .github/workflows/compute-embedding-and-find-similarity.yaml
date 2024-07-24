@@ -1,0 +1,39 @@
+name: Compute embedding and find similarity
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip' # caching pip dependencies
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Cache embeddings
+        uses: actions/cache@v4
+        with:
+          path: data/post_embedding_cache.pkl
+          key: embeddings-cache
+
+      - name: Compute embedding and find similarity
+        run: python scripts/find_similar_posts.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update embeddings" && git push)
