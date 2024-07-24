@@ -40,7 +40,7 @@
       {% for backlink in page.backlinks %}
       {% if backlink.permalink != page.permalink %}
       <li>
-        <a class="no-underline" href="{{ backlink.permalink }}">{{ backlink.title }}</a>
+        <a href="{{ backlink.permalink }}">{{ backlink.title }}</a>
       </li>
       {% endif %}
       {% endfor %}
