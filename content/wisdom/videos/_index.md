@@ -1,5 +1,5 @@
 +++
-title = "影片列表"
+title = "影片"
 sort_by = "date"
 template = "blog.html"
 page_template = "page.html"

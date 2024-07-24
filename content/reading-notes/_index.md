@@ -1,5 +1,5 @@
 +++
-title = "List of blog posts"
+title = "閱讀筆記"
 sort_by = "date"
 template = "reading-notes-table.html"
 page_template = "reading-note.html"
