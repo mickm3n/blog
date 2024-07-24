@@ -49,13 +49,13 @@
 </p>
 {% endmacro post_link %}
 
-{% macro card(page) %}
-{% if page.extra.image %}
-{% set image = config.base_url ~ page.path ~ page.extra.image %}
+{% macro card(nn_page) %}
+{% if nn_page.extra.image %}
+{% set image = config.base_url ~ nn_page.path ~ nn_page.extra.image %}
 {% else %}
 {% set image = get_url(path="images/default-og-image.webp") %}
 {% endif %}
-{% set ancestors = page.ancestors %}
+{% set ancestors = nn_page.ancestors %}
 {% set breadcrumb = "" %}
 {% for ancestor in ancestors %}
 {% set section = get_section(path=ancestor) %}

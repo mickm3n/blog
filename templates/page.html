@@ -54,8 +54,8 @@
   {% if top_3_nn[page.path] %}
   {% set top_3_nn_paths = top_3_nn[page.path] | split(pat=":") %}
   {% for path in top_3_nn_paths %}
-  {% set page = get_page(path=path) %}
-  {{ macro::card(page=page) }}
+  {% set nn_page = get_page(path=path) %}
+  {{ macro::card(nn_page=nn_page) }}
   {% endfor %}
   {% endif %}
 </div>
