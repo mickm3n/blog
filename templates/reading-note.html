@@ -35,7 +35,7 @@
   {% endif %}
   {% if page.backlinks %}
   <div>
-    <h1>{{ page.backlinks | length }} Linked References</h1>
+    <h2>提及本篇的文章</h2>
     <ul class="root-ul">
       {% for backlink in page.backlinks %}
       {% if backlink.permalink != page.permalink %}
