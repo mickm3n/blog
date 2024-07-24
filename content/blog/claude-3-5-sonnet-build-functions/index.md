@@ -1,10 +1,10 @@
 +++
-title = "與 Claude 3.5 Sonnet 協作一小時內完成開發並部署 RSS Filter 到 Netlify Functions 上"
+title = "與 Claude 3.5 Sonnet 協作完成開發並部署 RSS Filter 到 Netlify Functions 上"
 date = 2024-07-09
 
 [taxonomies]
 categories = ["經驗分享"]
-tags = ["ai", "netlify", "rss"]
+tags = ["generative-ai", "netlify", "rss"]
 +++
 
 [Anthropic 在 6/20 發表了 Claude 最新的版本 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)，並發表了 Artifacts 功能，多了一個側邊欄可以觀看程式碼或跑出來的結果。

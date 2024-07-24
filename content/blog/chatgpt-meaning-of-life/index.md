@@ -4,7 +4,7 @@ date = 2024-01-24
 
 [taxonomies]
 categories = ["經驗分享"]
-tags = ["AI"]
+tags = ["generative-ai"]
 
 [extra]
 image = "meaning-of-life.webp"

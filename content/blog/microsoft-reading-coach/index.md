@@ -4,7 +4,7 @@ date = 2024-01-23
 
 [taxonomies]
 categories = ["學習工具"]
-tags = ["English", "AI"]
+tags = ["english", "ai"]
 
 [extra]
 image = "reading-coach.webp"
