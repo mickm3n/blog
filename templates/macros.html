@@ -48,3 +48,35 @@
     {% endif %}
 </p>
 {% endmacro post_link %}
+
+{% macro card(page) %}
+{% if page.extra.image %}
+{% set image = config.base_url ~ page.path ~ page.extra.image %}
+{% else %}
+{% set image = get_url(path="images/default-og-image.webp") %}
+{% endif %}
+{% set ancestors = page.ancestors %}
+{% set breadcrumb = "" %}
+{% for ancestor in ancestors %}
+{% set section = get_section(path=ancestor) %}
+{% if loop.first %}
+{% set_global breadcrumb = '<a href="' ~ section.permalink ~ '">' ~ section.title ~ '</a>' %}
+{% else %}
+{% set_global breadcrumb = breadcrumb ~ ' > ' ~ '<a href="' ~ section.permalink ~ '">' ~ section.title ~ '</a>' %}
+{% endif %}
+{% endfor %}
+<div class="recommended-article">
+    <div class="article-image">
+        <img src="{{ image }}">
+    </div>
+    <div class="article-info">
+        <div class="article-meta">
+            <span class="article-category">{{ breadcrumb | safe }}</span>
+            <span class="article-date">{{ page.date }}</span>
+        </div>
+        <h3 class="article-title">
+            <a href="{{ page.permalink }}">{{ page.title }}</a>
+        </h3>
+    </div>
+</div>
+{% endmacro card %}

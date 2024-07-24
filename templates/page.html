@@ -48,6 +48,17 @@
   {% endif %}
   <br>
 </article>
+<h2>相關文章推薦</h2>
+<div class="cards-container">
+  {% set top_3_nn = load_data(path="static/data/top_3_nn.json") %}
+  {% if top_3_nn[page.path] %}
+  {% set top_3_nn_paths = top_3_nn[page.path] | split(pat=":") %}
+  {% for path in top_3_nn_paths %}
+  {% set page = get_page(path=path) %}
+  {{ macro::card(page=page) }}
+  {% endfor %}
+  {% endif %}
+</div>
 <script src="https://utteranc.es/client.js" repo="mickm3n/blog-comment" issue-term="pathname" theme="github-light"
   crossorigin="anonymous" async></script>
 {% endblock content %}
