@@ -15,7 +15,7 @@ tags = []
 
 # [2024-07-25][1.7.0] 新增相似文章推薦功能
 ## New
-* 詳請請見[與 Claude 3.5 Sonnet 協作開發「相似文章推薦」](@/blog/claude-3-5-sonnet-similar-posts.md)
+* 詳請請見[與 Claude 3.5 Sonnet 協作開發「相似文章推薦」](@/blog/claude-3-5-sonnet-similar-posts/index.md)
 
 # [2024-07-23][1.6.0] 加上每篇文章的 View Count
 ## New

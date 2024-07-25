@@ -5,6 +5,9 @@ date = 2024-07-25
 [taxonomies]
 categories = ["經驗分享"]
 tags = ["generative-ai"]
+
+[extra]
+image = "og-image.webp"
 +++
 
 # 動機
