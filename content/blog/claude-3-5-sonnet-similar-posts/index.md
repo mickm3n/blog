@@ -31,6 +31,8 @@ image = "og-image.webp"
 
 流程上甚至可以直接參考 OpenAI 提供的【[Recommendation using embeddings and nearest neighbor search](https://cookbook.openai.com/examples/recommendation_using_embeddings)】範例，很接近我們設定的目標，在這個範例還有提供對 Embeddings 做快取的步驟，減少 API 的使用量，減少計算成本。
 
+把現有大概 130 幾篇的文章都用 `Text-embedding-3-large` 計算語意向量，大概會用到 20 萬的 Token 數，大概花台幣 1 元，單純做這件事的話相當便宜。
+
 過程中有遇到處理 Zola 的 Markdown 的問題，需要額外處理 [Front matter](https://www.getzola.org/documentation/content/page/#front-matter)，不過只要進一步提供 AI 一個範例和你想取出的部分，就能快速生成堪用的程式碼。
 
 而第二步和第三步的交叉計算與取 [K Nearest Neighbor (KNN)](https://zh.wikipedia.org/zh-tw/K-%E8%BF%91%E9%82%BB%E7%AE%97%E6%B3%95) 的運算也都是很常見的程式，在遇到效能瓶頸之前生成的代碼基本上都沒問題。
