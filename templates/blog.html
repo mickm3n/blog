@@ -7,5 +7,12 @@
 {% for page in section.pages %}
 {{ macro::post_link(page=page, view_counts=view_counts) }}
 {% endfor %}
+{% for subsection_str in section.subsections %}
+{% set subsection = get_section(path=subsection_str) %}
+<h2>{{ subsection.title }}</h2>
+{% for page in subsection.pages %}
+{{ macro::post_link(page=page, view_counts=view_counts) }}
+{% endfor %}
+{% endfor %}
 
 {% endblock content %}
