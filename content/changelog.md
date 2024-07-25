@@ -13,6 +13,10 @@ tags = []
 > * MINOR: 有小型更新時變動，例如增加了 sortable table view 或是搜尋功能。
 > * PATCH: 有小幅度修正時變動，例如改了 style 或文章的 properties。
 
+# [2024-07-25][1.7.0] 新增相似文章推薦功能
+## New
+* 詳請請見[與 Claude 3.5 Sonnet 協作開發「相似文章推薦」](@/blog/claude-3-5-sonnet-similar-posts.md)
+
 # [2024-07-23][1.6.0] 加上每篇文章的 View Count
 ## New
 * 從 Google Analytics 每日抓取各個 path 的 view count，存成 json 的 map 之後，在顯示每篇文章時去查詢 view count。
