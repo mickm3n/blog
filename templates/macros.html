@@ -58,11 +58,11 @@
 {% set ancestors = nn_page.ancestors %}
 {% set breadcrumb = "" %}
 {% for ancestor in ancestors %}
-{% set section = get_section(path=ancestor) %}
+{% set nn_section = get_section(path=ancestor) %}
 {% if loop.first %}
-{% set_global breadcrumb = '<a href="' ~ section.permalink ~ '">' ~ section.title ~ '</a>' %}
+{% set_global breadcrumb = '<a href="' ~ nn_section.permalink ~ '">' ~ nn_section.title ~ '</a>' %}
 {% else %}
-{% set_global breadcrumb = breadcrumb ~ ' > ' ~ '<a href="' ~ section.permalink ~ '">' ~ section.title ~ '</a>' %}
+{% set_global breadcrumb = breadcrumb ~ ' > ' ~ '<a href="' ~ nn_section.permalink ~ '">' ~ nn_section.title ~ '</a>' %}
 {% endif %}
 {% endfor %}
 <div class="recommended-article">
@@ -72,10 +72,10 @@
     <div class="article-info">
         <div class="article-meta">
             <span class="article-category">{{ breadcrumb | safe }}</span>
-            <span class="article-date">{{ page.date }}</span>
+            <span class="article-date">{{ nn_page.date }}</span>
         </div>
         <h3 class="article-title">
-            <a href="{{ page.permalink }}">{{ page.title }}</a>
+            <a href="{{ nn_page.permalink }}">{{ nn_page.title }}</a>
         </h3>
     </div>
 </div>
