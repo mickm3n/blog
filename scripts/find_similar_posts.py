@@ -74,33 +74,6 @@ def extract_text_from_html(html):
     return "".join(soup.find_all(string=True))
 
 
-def compute_distances_from_embeddings(
-    embeddings: list[list[float]],
-    distance_metric="cosine",
-) -> list[list]:
-    distance_metrics = {
-        "cosine": spatial.distance.cosine,
-        "L1": spatial.distance.cityblock,
-        "L2": spatial.distance.euclidean,
-        "Linf": spatial.distance.chebyshev,
-    }
-    n = len(embeddings)
-    distances = np.zeros((n, n))
-
-    # compute the distance matrix
-    for i in range(n):
-        for j in range(i + 1, n):
-            distances[i, j] = distances[j, i] = distance_metrics[distance_metric](
-                embeddings[i], embeddings[j]
-            )
-
-    return distances
-
-
-def indices_of_nearest_neighbors_from_distances(distances) -> np.ndarray:
-    return np.argsort(distances, axis=1)
-
-
 def find_similar_pairs(similarities: np.ndarray, threshold: float = 0.6) -> list[tuple]:
     n = similarities.shape[0]
     pairs = []
@@ -178,20 +151,6 @@ if __name__ == "__main__":
         http_paths.append(http_path)
         embeddings.append(embedding)
 
-    distances = compute_distances_from_embeddings(embeddings)
-    # for each embedding, find its nearest neighbors
-    indices_of_nn = indices_of_nearest_neighbors_from_distances(distances)
-
-    # for each md file, find its TOP-3 nearest neighbor
-    top_3_nn = dict()
-    for i in range(len(md_filepaths)):
-        top_3_nn[http_paths[i]] = ":".join(
-            [md_filepaths[j] for j in indices_of_nn[i, 1:4]]
-        )
-
-    with open("static/data/top_3_nn.json", "w") as f:
-        json.dump(top_3_nn, f, sort_keys=True)
-
     similarities = compute_similarities_from_embeddings(embeddings)
     similar_pairs = find_similar_pairs(similarities)
 
@@ -202,7 +161,7 @@ if __name__ == "__main__":
 
     similar_post_with_similarity = dict()
     for k, v in similar_posts.items():
-        v.sort(key=lambda x: x[1], reverse=True)
+        v.sort(key=lambda x: (-x[1], x[0]))
         similar_post_with_similarity[k] = ":".join(f"{x[0]}|{x[1]*100:.0f}%" for x in v)
 
     with open("static/data/similar_posts.json", "w") as f:
