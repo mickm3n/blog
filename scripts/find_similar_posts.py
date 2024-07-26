@@ -1,3 +1,4 @@
+from collections import defaultdict
 from openai import OpenAI
 from bs4 import BeautifulSoup
 from scipy import spatial
@@ -100,6 +101,42 @@ def indices_of_nearest_neighbors_from_distances(distances) -> np.ndarray:
     return np.argsort(distances, axis=1)
 
 
+def find_similar_pairs(similarities: np.ndarray, threshold: float = 0.6) -> list[tuple]:
+    n = similarities.shape[0]
+    pairs = []
+    for i in range(n):
+        for j in range(i + 1, n):
+            if similarities[i, j] >= threshold:
+                pairs.append((i, j, similarities[i, j]))
+    return pairs
+
+
+def compute_similarities_from_embeddings(
+    embeddings: list[list[float]],
+    distance_metric="cosine",
+) -> list[list]:
+    distance_metrics = {
+        "cosine": spatial.distance.cosine,
+        "L1": spatial.distance.cityblock,
+        "L2": spatial.distance.euclidean,
+        "Linf": spatial.distance.chebyshev,
+    }
+    n = len(embeddings)
+    similarities = np.zeros((n, n))
+
+    # compute the distance matrix
+    for i in range(n):
+        for j in range(i + 1, n):
+            dist = distance_metrics[distance_metric](embeddings[i], embeddings[j])
+            if distance_metric == "cosine":
+                similarity = 1 - dist
+            else:
+                similarity = 1 / (1 + dist)
+            similarities[i, j] = similarities[j, i] = similarity
+
+    return similarities
+
+
 def find_md_files(root_dir):
     md_files = []
     for root, dirs, files in os.walk(root_dir):
@@ -154,3 +191,19 @@ if __name__ == "__main__":
 
     with open("static/data/top_3_nn.json", "w") as f:
         json.dump(top_3_nn, f, sort_keys=True)
+
+    similarities = compute_similarities_from_embeddings(embeddings)
+    similar_pairs = find_similar_pairs(similarities)
+
+    similar_posts = defaultdict(list)
+    for i, j, similarity in similar_pairs:
+        similar_posts[http_paths[i]].append((md_filepaths[j], similarity))
+        similar_posts[http_paths[j]].append((md_filepaths[i], similarity))
+
+    similar_post_with_similarity = dict()
+    for k, v in similar_posts.items():
+        v.sort(key=lambda x: x[1], reverse=True)
+        similar_post_with_similarity[k] = ":".join(f"{x[0]}|{x[1]*100:.0f}%" for x in v)
+
+    with open("static/data/similar_posts.json", "w") as f:
+        json.dump(similar_post_with_similarity, f, sort_keys=True)
