@@ -153,4 +153,4 @@ if __name__ == "__main__":
         )
 
     with open("static/data/top_3_nn.json", "w") as f:
-        json.dump(top_3_nn, f)
+        json.dump(top_3_nn, f, sort_keys=True)
