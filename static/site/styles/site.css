@@ -644,7 +644,6 @@ tr:first-child th {
 .article-meta {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 10px;
   font-size: 0.85rem;
 }
 
