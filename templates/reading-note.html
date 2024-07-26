@@ -56,7 +56,7 @@
   {% set top_3_nn_paths = top_3_nn[page.path] | split(pat=":") %}
   {% for path in top_3_nn_paths %}
   {% set nn_page = get_page(path=path) %}
-  {{ macro::card(nn_page=nn_page) }}
+  {{ macro::card(nn_page=nn_page, relevance="70%") }}
   {% endfor %}
   {% endif %}
 </div>

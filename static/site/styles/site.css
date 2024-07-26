@@ -654,6 +654,12 @@ tr:first-child th {
   text-transform: uppercase;
 }
 
+.article-relevance {
+  color: #e74c3c;
+  font-size: 0.85rem;
+  text-align: right;
+}
+
 .article-date {
   color: #7f8c8d;
 }
