@@ -50,12 +50,13 @@
 </article>
 <h2>相關文章推薦</h2>
 <div class="cards-container">
-  {% set top_3_nn = load_data(path="static/data/top_3_nn.json") %}
-  {% if top_3_nn[page.path] %}
-  {% set top_3_nn_paths = top_3_nn[page.path] | split(pat=":") %}
-  {% for path in top_3_nn_paths %}
-  {% set nn_page = get_page(path=path) %}
-  {{ macro::card(nn_page=nn_page, relevance="70%") }}
+  {% set similar_posts = load_data(path="static/data/similar_posts.json") %}
+  {% if similar_posts[page.path] %}
+  {% set similar_posts_with_relevance = similar_posts[page.path] | split(pat=":") %}
+  {% for similar_post_with_relevance in similar_posts_with_relevance %}
+  {% set parts = similar_post_with_relevance | split(pat="|") %}
+  {% set nn_page = get_page(path=parts[0]) %}
+  {{ macro::card(nn_page=nn_page, relevance=parts[1]) }}
   {% endfor %}
   {% endif %}
 </div>
