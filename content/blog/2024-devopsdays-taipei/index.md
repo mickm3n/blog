@@ -23,7 +23,7 @@ image = "devopsdays.webp"
 ![](gartner.webp)
 <p class="image-caption">取自 Gartner</p>
 
-# 分享這兩天最喜歡的三個議程
+# 分享我最喜歡的三個議程
 
 > 聽主辦方說之後會上傳錄影檔，不過剛剛搜尋 2023 的影片好像很少。如果沒有上傳的話大家就只好看投影片通靈一下。
 
