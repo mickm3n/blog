@@ -31,10 +31,12 @@ tags = []
 ## New
 * 從 Google Analytics 每日抓取各個 path 的 view count，存成 json 的 map 之後，在顯示每篇文章時去查詢 view count。
 * 在首頁呈現 Top-10 文章。
+![](view-count.webp)
 
 # [2024-06-29][v1.5.1] 對外部的連結加上 Marker
 ## New
 * 對外部的連結加上 Marker
+![](external-link.webp)
 
 ## Changed
 * 微調顏色與文字大小
@@ -43,6 +45,7 @@ tags = []
 ## New
 * 簡單做了藉由 Google 作搜尋的功能，沒想到跟 ChatGpt 一起協作，只問了一個問題就做完了🫨
   * [Pull Request](https://github.com/mickm3n/blog/pull/4/files)
+![](search.webp)
 
 # [2024-05-13][v1.4.0] 更改評分制
 ## Changed
