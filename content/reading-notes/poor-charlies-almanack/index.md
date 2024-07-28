@@ -48,13 +48,13 @@ image = "og-image.webp"
 查理蒙格強調要在腦中形成一個由各種思維模式構成的框架，然後將實際經驗和透過閱讀等得來的間接經驗，懸掛在這個強大的思維模式框架上。使用這種方法可以將各種知識融會貫通，加深對現實的認知，產生普世智慧。若我們能夠將多領域的觀點都帶入，就有可能產生「魯拉帕路薩效應 Lollapalooza Effect」，得到大量的回報。
 
 每個人需要的思維模型清單會根據你要解決的問題、情境和需求而不同。但我們可以藉由參照充滿智慧的巨人們的清單來建立自己需要的思維模型：
--   [查理蒙格的多元思維模型清單](@/wisdom/lists/charles-munger-a-latticework-of-mental-models.md)
--   [Naval Ravikant 的多元思維模型清單](@/wisdom/lists/naval-ravikant-a-latticework-of-mental-models.md)
+-   [查理蒙格的多元思維模型清單](@/wisdom/lists/charles-munger-a-latticework-of-mental-models/index.md)
+-   [Naval Ravikant 的多元思維模型清單](@/wisdom/lists/naval-ravikant-a-latticework-of-mental-models/index.md)
 
 檢查清單
 ----
 
-查理蒙格在本書也好幾次提及檢查清單的重要性。人們會有「不用就忘傾向 Use-It-or-Lost-It Tendency」，所以額外多花點心力幫重要的事情建立檢查清單，就可以在後續的使用上省下認知成本。查理蒙格也提供了他的[投資原則檢查清單](@/wisdom/lists/charles-munger-investing-principle-checklist.md)。
+查理蒙格在本書也好幾次提及檢查清單的重要性。人們會有「不用就忘傾向 Use-It-or-Lost-It Tendency」，所以額外多花點心力幫重要的事情建立檢查清單，就可以在後續的使用上省下認知成本。查理蒙格也提供了他的[投資原則檢查清單](@/wisdom/lists/charles-munger-investing-principle-checklist/index.md)。
 
 人類誤判心理學
 -------

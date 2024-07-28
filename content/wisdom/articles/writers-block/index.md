@@ -23,7 +23,7 @@ tags = ["writing"]
 * 慶祝完成寫作的小成就
 
 
-如果障礙來自於動機和分心，可以用[寫作前構思（Prewriting）](@/wisdom/articles/prewriting.md)和[自由寫作（Freewriting）](@/reading-notes/accidental-genius/index.md)解決。
+如果障礙來自於動機和分心，可以用[寫作前構思（Prewriting）](@/wisdom/articles/prewriting/index.md)和[自由寫作（Freewriting）](@/reading-notes/accidental-genius/index.md)解決。
 
 也很推薦這篇 [Symptoms and Cures for Writer's Block](https://owl.purdue.edu/owl/general_writing/the_writing_process/writers_block/index.html)，有根據各種情況給予建議。
 

@@ -35,4 +35,4 @@ updated = 2023-05-03
 
 # 其他頁面
 * [Feed](/atom.xml)
-* 網站功能的 [Changelog](@/changelog.md)
+* 網站功能的 [Changelog](@/changelog/index.md)

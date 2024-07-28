@@ -21,4 +21,4 @@ tags = ["reading"]
 * 視覺化
 * 對內容進行批判性思考
 
-另外在文中也提到 [Francis Robinson 的 SQ3R Method](@/wisdom/methods/sq3r.md)。
+另外在文中也提到 [Francis Robinson 的 SQ3R Method](@/wisdom/methods/sq3r/index.md)。

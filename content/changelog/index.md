@@ -90,7 +90,7 @@ tags = []
 
 # [2023-05-03][v1.0.0] Zola 網站正式上線
 ## New
-* 網站命名：[針織拙見](@/about.md)
+* 網站命名：[針織拙見](@/about/index.md)
 * 亂產生了一個 Logo
 * 把[舊的部落格](https://mickzh.com)的文章全部搬到新的網站
 * 加入基本的 CSS 與 Template 設定

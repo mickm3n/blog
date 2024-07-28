@@ -11,7 +11,7 @@ tags = ["language-acquisition"]
 
 文章：[淺談第二語言學習理論](https://medium.com/@durayray/%E6%B7%BA%E8%AB%87%E7%AC%AC%E4%BA%8C%E8%AA%9E%E8%A8%80%E5%AD%B8%E7%BF%92%E7%90%86%E8%AB%96-c58879d2936e)
 
-閱讀了阿滴好幾年前的淺談第二語言學習理論，內容包含之前提到的 [Comprehensible Input](@/wisdom/videos/comprehensive-input.md)。
+閱讀了阿滴好幾年前的淺談第二語言學習理論，內容包含之前提到的 [Comprehensible Input](@/wisdom/videos/comprehensive-input/index.md)。
 
 覺得的確如文章所說，作為一個學習者，知道更多理論是對自己有益的。
 

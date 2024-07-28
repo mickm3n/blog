@@ -114,10 +114,10 @@ The PARA Method 讓我們可以快速分類一個筆記的去向。當我們處�
 * 行動
 
 在「建立專案檢查表」和「定期檢討」上，書中都提供了蠻不錯的範本，可以從範本開始，漸漸修正為最適合你的樣子：
-* [專案啟動檢查表](@/wisdom/templates/tiago-forte-project-kickoff-checklist.md)
-* [專案完成檢查表](@/wisdom/templates/tiago-forte-project-completion-checklist.md)
-* [每週回顧的範本](@/wisdom/templates/tiago-forte-weekly-review-template.md)
-* [每月回顧的範本](@/wisdom/templates/tiago-forte-monthly-review-template.md)
+* [專案啟動檢查表](@/wisdom/templates/tiago-forte-project-kickoff-checklist/index.md)
+* [專案完成檢查表](@/wisdom/templates/tiago-forte-project-completion-checklist/index.md)
+* [每週回顧的範本](@/wisdom/templates/tiago-forte-weekly-review-template/index.md)
+* [每月回顧的範本](@/wisdom/templates/tiago-forte-monthly-review-template/index.md)
 
 與其一股腦地不斷衝刺，設定計畫與目標、檢視並檢討結果、定期回顧都是讓我們停下來覺察自己的狀態與更了解自我的重要時刻。
 

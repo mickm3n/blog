@@ -24,7 +24,7 @@ image = "og-image.webp"
 為什麼我會讀這本書
 =========
 
-在閱讀查理蒙格的《[窮查理的普遍常識 Poor Charlie's Almanack](@/reading-notes/poor-charlies-almanack/index.md)》和 Naval Ravikant 的《[快樂實現自主富有 The Almanack of Naval Ravikant](@/reading-notes/the-almanack-of-naval-ravikant/index.md)》這兩本書，都提及了建構多元思維模型的重要性，也分別提出自己的清單（[查理蒙格 Charles T. Munger 的多元思維模型清單](@/wisdom/lists/charles-munger-a-latticework-of-mental-models.md)、[Naval Ravikant 的多元思維模型清單](@/wisdom/lists/naval-ravikant-a-latticework-of-mental-models.md)）。
+在閱讀查理蒙格的《[窮查理的普遍常識 Poor Charlie's Almanack](@/reading-notes/poor-charlies-almanack/index.md)》和 Naval Ravikant 的《[快樂實現自主富有 The Almanack of Naval Ravikant](@/reading-notes/the-almanack-of-naval-ravikant/index.md)》這兩本書，都提及了建構多元思維模型的重要性，也分別提出自己的清單（[查理蒙格 Charles T. Munger 的多元思維模型清單](@/wisdom/lists/charles-munger-a-latticework-of-mental-models/index.md)、[Naval Ravikant 的多元思維模型清單](@/wisdom/lists/naval-ravikant-a-latticework-of-mental-models/index.md)）。
 
 要建立多元思維模型，怎能不讀這本幫你整理一些最常用思考類思維模型的書呢？
 
