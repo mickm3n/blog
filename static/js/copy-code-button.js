@@ -1,4 +1,3 @@
-// This script adds copy buttons to all pre > code elements
 document.addEventListener('DOMContentLoaded', (event) => {
     document.querySelectorAll('pre > code').forEach((codeBlock) => {
         const container = codeBlock.parentNode;
@@ -8,7 +7,17 @@ document.addEventListener('DOMContentLoaded', (event) => {
         copyButton.innerText = 'Copy';
 
         copyButton.addEventListener('click', () => {
-            navigator.clipboard.writeText(codeBlock.innerText).then(
+            // Get all the table rows
+            const rows = codeBlock.querySelectorAll('table tr');
+            // Extract only the text content from each row, ignoring the line numbers
+            const codeText = Array.from(rows)
+                .map(row => {
+                    const codePart = row.querySelector('td:nth-child(2)');
+                    return codePart ? codePart.textContent : '';
+                })
+                .join('');
+
+            navigator.clipboard.writeText(codeText).then(
                 () => {
                     copyButton.innerText = 'Copied!';
                     setTimeout(() => {
