@@ -27,3 +27,6 @@ external_links_no_referrer = true
 paths = "off"
 taxonomies = "on"
 anchors = "off"
+
+[extra]
+js_bundle_name = ["copy-code-button.js"]

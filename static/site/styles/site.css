@@ -176,12 +176,14 @@ strong {
 }
 
 pre {
+  position: relative;
   color: rgb(57, 58, 52);
   background-color: var(--colors-code-background);
   margin: 0 1rem;
   padding: 1rem;
   border-radius: 0.5rem;
   overflow: auto;
+  padding-top: 2.5em;
 }
 
 code {
@@ -204,6 +206,18 @@ pre>code {
 
 code td {
   padding-left: 1rem;
+}
+
+.copy-code-button {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  padding: 3px 8px;
+  font-size: 0.8em;
+  background-color: #f1f1f1;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
 }
 
 hr {
