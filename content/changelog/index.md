@@ -13,6 +13,11 @@ tags = []
 > * MINOR: 有小型更新時變動，例如增加了 sortable table view 或是搜尋功能。
 > * PATCH: 有小幅度修正時變動，例如改了 style 或文章的 properties。
 
+# [2024-07-28][v1.7.2] 增加 Code Block 複製按鈕
+## New
+* 由於 Code Block 是從 Markdown 產生的，用的方式是額外加 Javascript 動態增加。
+![](code-block-copy.webp)
+
 # [2024-07-26][v1.7.1] 更改推薦相關文章方法
 ## Changed
 * 推薦的方法從「挑選最相關的三篇」改為「相關度大於 60%」的文章，有可能 0 篇，也有可能很多篇。
