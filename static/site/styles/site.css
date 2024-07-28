@@ -198,6 +198,7 @@ pre>code {
   font-size: 1rem;
   line-height: 1.42;
   -webkit-text-size-adjust: 100%;
+  background-color: initial;
   /* Prevent adjustments of font size after orientation changes in iOS. See https://github.com/edwardtufte/tufte-css/issues/81#issuecomment-261953409 */
 }
 
@@ -210,6 +211,7 @@ hr {
   height: 1px;
   width: 100%;
   border: 0.5px solid var(--colors-divider);
+  margin: 20px 20px
 }
 
 article ol li {
