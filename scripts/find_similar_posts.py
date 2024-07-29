@@ -36,6 +36,7 @@ class EmbeddingRepository:
 
     def get_embedding(self, key, text: str, model: str = EMBEDDING_MODEL):
         if (key, model) not in self.embedding_cache.keys():
+            print(f"Generating embedding for {key} with model {model}")
             self.embedding_cache[(key, model)] = self.embedding_provider.get_embedding(
                 text, model
             )
