@@ -41,7 +41,11 @@ image = "google-calendar-event.webp"
 
 ## 加到其他行事曆 {#add-to-other-calendar}
 
-如果是用其他的日曆，大多也都會提供訂閱日曆的功能。以下用 Mac 的行事曆為例，點選 `File > New Calendar Subscription...`，就會出現以下畫面可以輸入網址：
+如果是用其他的日曆，大多也都會提供訂閱日曆的功能。
+
+### Macbook Calendar {#macbook-calendar}
+
+以下用 Mac 的行事曆為例，點選 `File > New Calendar Subscription...`，就會出現以下畫面可以輸入網址：
 
 ![](apple-subscribe.webp)
 
@@ -49,6 +53,17 @@ image = "google-calendar-event.webp"
 ```
 https://calendar.google.com/calendar/ical/5dd3d46977cef68e6c975595a9d1d0c0c310519455dd4ec2d6601cb7b8f6d779%40group.calendar.google.com/public/basic.ics
 ```
+
+### iPhone Calendar {#iphone-calendar}
+剛好遇到朋友不知道怎麼用手機訂閱，以下提供一個 iPhone 操作流程：
+1. 打開行事曆，選擇最下方的 **Calendars**。
+{{ image(path="iphone-calendar.webp", height=800) }}
+2. 點選 **Add Subscription Calendar**。
+{{ image(path="iphone-add-subscription-calendar.webp", height=360) }}
+3. 在[本頁 iCalendar 檔的程式碼區塊](#macbook-calendar)按下 **Copy**。
+{{ image(path="copy-ics.webp", height=600) }}
+4. 貼在 SUBSCRIPTION URL 點選 **Subscribe** 即完成訂閱！
+{{ image(path="iphone-subscribe.webp", height=480) }}
 
 ---
 
@@ -78,4 +93,5 @@ https://calendar.google.com/calendar/ical/5dd3d46977cef68e6c975595a9d1d0c0c31051
 
 目前已人為補上體操和游泳的賽程，其他項目會在賽前一天觀察一下資料，如果資料上有問題，會再人為補上。
 
-
+# 7/30 更新
+[增加 iPhone Calendar 的行事曆訂閱操作步驟](#iphone-calendar)
