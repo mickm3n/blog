@@ -67,7 +67,7 @@
 {% endfor %}
 <div class="recommended-article">
     <div class="article-image">
-        <a href="{{ nn_page.permalink }}"><img src="{{ image }}"></a>
+        <a href="{{ nn_page.permalink }}" class="recommended-article-a"><img src="{{ image }}"></a>
     </div>
     <div class="article-info">
         <div class="article-relevance">
@@ -78,7 +78,7 @@
             <span class="article-date">{{ nn_page.date }}</span>
         </div>
         <h3 class="article-title">
-            <a href="{{ nn_page.permalink }}">{{ nn_page.title }}</a>
+            <a href="{{ nn_page.permalink }}" class="recommended-article-a">{{ nn_page.title }}</a>
         </h3>
     </div>
 </div>
