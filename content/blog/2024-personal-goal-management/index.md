@@ -5,6 +5,9 @@ date = 2024-07-30
 [taxonomies]
 categories = ["經驗分享"]
 tags = []
+
+[extra]
+image = "yearning-octopus.webp"
 +++
 
 # 前言
