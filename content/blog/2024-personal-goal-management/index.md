@@ -1,6 +1,6 @@
 +++
 title = "2024 個人目標管理"
-date = 2024-07-30
+date = 2024-07-31
 
 [taxonomies]
 categories = ["經驗分享"]
