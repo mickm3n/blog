@@ -33,22 +33,22 @@
     {% endfor %}
   </p>
   {% endif %}
-  {% if page.backlinks %}
-  <div>
-    <h2>提及本篇的文章</h2>
-    <ul class="root-ul">
-      {% for backlink in page.backlinks %}
-      {% if backlink.permalink != page.permalink %}
-      <li>
-        <a href="{{ backlink.permalink }}">{{ backlink.title }}</a>
-      </li>
-      {% endif %}
-      {% endfor %}
-    </ul>
-  </div>
-  {% endif %}
-  <br>
 </article>
+{% if page.backlinks %}
+<h2>提及本篇的文章</h2>
+<div class="cards-container">
+  {% for backlink in page.backlinks %}
+  {% if backlink.permalink != page.permalink %}
+  {% set backlink_path = backlink.permalink | split(pat="/") | slice(start=3, end=-1) | join(sep="/") %}
+  {% if backlink_path != "" %}
+  {% set nn_page = get_page(path=backlink_path ~ "/index.md") %}
+  {{ macro::card(nn_page=nn_page, relevance="") }}
+  {% endif %}
+  {% endif %}
+  {% endfor %}
+</div>
+<br>
+{% endif %}
 <h2>相關文章推薦</h2>
 <div class="cards-container">
   {% set similar_posts = load_data(path="static/data/similar_posts.json") %}

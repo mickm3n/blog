@@ -13,6 +13,11 @@ tags = []
 > * MINOR: 有小型更新時變動，例如增加了 sortable table view 或是搜尋功能。
 > * PATCH: 有小幅度修正時變動，例如改了 style 或文章的 properties。
 
+# [2024-08-01][v1.7.3] 將「提及本篇的區塊」也改為 Card View
+## Changed
+* 將「提及本篇的文章」也改為 Card View
+![](backlink-card-view.webp)
+
 # [2024-07-28][v1.7.2] 增加 Code Block 複製按鈕
 ## New
 * 由於 Code Block 是從 Markdown 產生的，用的方式是額外加 Javascript 動態增加。
