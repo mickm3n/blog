@@ -29,12 +29,12 @@ image = "yearning-octopus.webp"
 
 # 目標探索的方法
 
-## The Yearning Octopus
-在去年九月的時候，有認真在 [Heptabase](@/blog/heptabase/index.md) 裡用《[How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html)》裡的 The Yearning Octopus 方法大範圍地盤點自己想做的事與現實的差距，排列出優先次序，建立出自己的 Yearning Hierarchy。
+## 嚮往的章魚（The Yearning Octopus）
+在去年九月的時候，有認真在 [Heptabase](@/blog/heptabase/index.md) 裡用《[How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html)》裡的 The Yearning Octopus 方法大範圍地盤點自己想做的事與現實的差距，排列出優先次序，建立出自己的嚮往階級（Yearning Hierarchy）。
 
 ![](yearning-octopus.webp)
 
-## Use Strategic Thinking to Create the Life You Want
+## 將策略思維（Strategic Thinking）運用在人生上
 在今年初時則是閱讀到《[Use Strategic Thinking to Create the Life You Want](https://hbr.org/2023/12/use-strategic-thinking-to-create-the-life-you-want/)》，提到公司都會運用策略思維來盤點現況、決定下一步的走向，何不把這個方法也運用在我們的人生上？
 
 ![](strategic-thinking.webp)
