@@ -56,7 +56,7 @@
   {% for similar_post_with_relevance in similar_posts_with_relevance %}
   {% set parts = similar_post_with_relevance | split(pat="|") %}
   {% set nn_page = get_page(path=parts[0]) %}
-  {{ macro::card(nn_page=nn_page, relevance=parts[1]) }}
+  {{ macro::card(nn_page=nn_page, relevance=parts[1] ~ " 相關") }}
   {% endfor %}
   {% endif %}
 </div>
