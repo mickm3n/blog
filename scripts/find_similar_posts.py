@@ -2,10 +2,10 @@ from collections import defaultdict
 from openai import OpenAI
 from bs4 import BeautifulSoup
 from scipy import spatial
+from utils import find_md_files
 
 import commonmark
 import re
-import os
 import pickle
 import pandas as pd
 import numpy as np
@@ -109,15 +109,6 @@ def compute_similarities_from_embeddings(
             similarities[i, j] = similarities[j, i] = similarity
 
     return similarities
-
-
-def find_md_files(root_dir):
-    md_files = []
-    for root, dirs, files in os.walk(root_dir):
-        for file in files:
-            if file.endswith(".md"):
-                md_files.append(os.path.join(root, file))
-    return md_files
 
 
 def get_http_path_from_file_path(file_path: str):
