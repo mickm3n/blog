@@ -1,14 +1,16 @@
 +++
 title = "《競爭已死 The Myth of Capitalism》閱讀筆記：資本主義失靈的真正主因？！"
 date = 2024-08-02
+description = "《競爭已死》揭示了資本主義的矛盾與失靈，呼籲政府打破寡頭壟斷並維護市場競爭。發現資本主義如何帶來貧富不均與環境危害，本文深入講解應對資本主義問題的具體建議。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 6
 image = "og-image.webp"
+
 +++
 
 # **一二三言以蔽之**
