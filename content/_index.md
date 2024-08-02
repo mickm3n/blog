@@ -23,14 +23,14 @@ updated = 2023-05-03
 # 熱門文章
 * [2023 溫布頓網球現場排票心得](/blog/2023-wimbledon-tennis/) <span class="view-count">(2119)</span>
 * [我的 2023 個人知識管理系統 Personal Knowledge Management (PKM)](/blog/2023-personal-knowledge-management/) <span class="view-count">(498)</span>
-* [《思考的框架 The Great Mental Models》閱讀筆記：建立多元思維模型](/reading-notes/the-great-mental-models/) <span class="view-count">(475)</span>
-* [《文化地圖 The Culture Map》閱讀筆記：跨國合作的八大維度](/reading-notes/the-culture-map/) <span class="view-count">(296)</span>
-* [2024 巴黎奧運台灣隊賽程 Google 行事曆](/blog/2024-olympics-taiwan-calendar/) <span class="view-count">(212)</span>
-* [在倫敦遇到扒手](/blog/london-pickpocketing/) <span class="view-count">(197)</span>
+* [《思考的框架 The Great Mental Models》閱讀筆記：建立多元思維模型](/reading-notes/the-great-mental-models/) <span class="view-count">(476)</span>
+* [《文化地圖 The Culture Map》閱讀筆記：跨國合作的八大維度](/reading-notes/the-culture-map/) <span class="view-count">(297)</span>
+* [2024 巴黎奧運台灣隊賽程 Google 行事曆](/blog/2024-olympics-taiwan-calendar/) <span class="view-count">(243)</span>
+* [在倫敦遇到扒手](/blog/london-pickpocketing/) <span class="view-count">(203)</span>
 * [《打造第二大腦 Building A Second Brain》閱讀筆記：第一第二大腦各司其職](/reading-notes/building-a-second-brain/) <span class="view-count">(190)</span>
-* [關於](/about/) <span class="view-count">(158)</span>
+* [關於](/about/) <span class="view-count">(162)</span>
 * [《快樂實現自主富有 The Almanack of Naval Ravikant》閱讀筆記：實踐個人槓桿](/reading-notes/the-almanack-of-naval-ravikant/) <span class="view-count">(158)</span>
-* [2023 年度回顧：裸辭、英國語言學校、自我對話](/blog/2023-review/) <span class="view-count">(132)</span>
+* [2023 年度回顧：裸辭、英國語言學校、自我對話](/blog/2023-review/) <span class="view-count">(134)</span>
 
 
 # 其他頁面
