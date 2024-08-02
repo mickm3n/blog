@@ -1,10 +1,12 @@
 +++
 title = "讓大腦升級"
 date = 2023-11-22
+description = "想讓大腦進化？立即停止這 7 種行為！專注 10 倍夢想、屏棄雜訊、優先重要事、充足休息、反思轉化、及定期運動，讓大腦全面升級。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
+
 +++
 
 創作者：[Benjamin Hardy](https://medium.com/@benjaminhardy/)
@@ -23,8 +25,3 @@ tags = []
 * 定期反思，轉化負面經驗成正面習慣
 
 * 有氧運動和重訓，強化身體與大腦
-
-
-
-
-

@@ -1,13 +1,15 @@
 +++
 title = "漢隆剃刀 Hanlon's Razor"
 date = 2024-02-23
+description = "透過漢隆剃刀避免誤判他人行為是惡意，理解無知或失誤通常是主要原因，這有助於減少情緒偏見對於認知的影響。"
 
 [taxonomies]
-categories = ["思維模型"]
+categories = [ "思維模型",]
 tags = []
 
 [extra]
 image = "hanlons-razor.webp"
+
 +++
 
 # 目的

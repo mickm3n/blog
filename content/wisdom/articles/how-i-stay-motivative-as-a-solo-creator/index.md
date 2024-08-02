@@ -1,10 +1,12 @@
 +++
 title = "自由工作者保持動力的方法"
 date = 2023-10-10
+description = "探索自由工作者 Herman 如何通過設定工作時間表、做吸引力事、有效利用閒暇時間及加入社群等方法保持動力，更自由地追尋夢想！"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
+
 +++
 
 創作者：[Herman Martinus](https://herman.bearblog.dev/)

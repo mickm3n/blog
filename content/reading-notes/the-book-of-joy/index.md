@@ -1,14 +1,16 @@
 +++
 title = "《最後一次相遇，我們只談喜悅 The Book of Joy》閱讀筆記：成為善的漣漪"
 date = 2023-04-24
+description = "《最後一次相遇，我們只談喜悅》筆記：透過達賴喇嘛與屠圖大主教的對話，探索喜悅與快樂的深層意涵。心靈對話，智慧分享，成為善的漣漪。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["happiness", "philosophy"]
+categories = [ "閱讀筆記",]
+tags = [ "happiness", "philosophy",]
 
 [extra]
 rating = 10
 image = "the-book-of-joy.jpg"
+
 +++
 
 # 一二三言以蔽之
@@ -84,7 +86,7 @@ image = "the-book-of-joy.jpg"
 * 轉念：改變與壓力源的關係與觀點
 * 逃避：逃避雖可恥但有用。但要認清，拖延型的逃避只是讓我們多了一些時間去反應，並沒有解決問題。能真正脫身的逃避才能真正遠離壓力。
 
-發現剛好對應到在[快樂實現自主富有](@/reading-notes/the-almanack-of-naval-ravikant/index.md)中提及的「*人生中不管碰到什麼狀況，你都有三種選擇：改變它、接納它，或是擺脫它。*」
+發現剛好對應到在 [快樂實現自主富有](@/reading-notes/the-almanack-of-naval-ravikant/index.md) 中提及的「*人生中不管碰到什麼狀況，你都有三種選擇：改變它、接納它，或是擺脫它。*」
 
 ## 喜悅的八大支柱 {#eight-pillars}
 

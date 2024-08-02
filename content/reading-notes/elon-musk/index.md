@@ -1,14 +1,16 @@
 +++
 title = "《鋼鐵人馬斯克 Elon Musk》閱讀筆記：在火星用腦機介面奔馳電動車"
 date = 2022-05-24
+description = "探索現代鋼鐵人 Elon Musk 的創新旅程，從 SpaceX 的火箭到 Tesla 的電動車，再到 Neuralink 的腦機介面，了解這位科技巨擘如何改變世界。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["elon-musk"]
+categories = [ "閱讀筆記",]
+tags = [ "elon-musk",]
 
 [extra]
 rating = 8
 image = "elon-musk.webp"
+
 +++
 
 # 書籍

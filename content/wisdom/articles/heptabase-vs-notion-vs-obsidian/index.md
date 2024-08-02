@@ -1,10 +1,12 @@
 +++
 title = "Heptabase vs Notion vs Obsidian"
 date = 2023-08-13
+description = "深入比較 Heptabase、Notion 和 Obsidian 的功能和實用性，解決筆記軟體選擇難題，了解不同工具在工作流中的最佳應用。點擊了解更多！"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["heptabase", "roam-research"]
+categories = [ "閱讀筆記",]
+tags = [ "heptabase", "roam-research",]
+
 +++
 
 創作者：[Yu An Chan](https://sheracaolity.ghost.io/author/alan/)

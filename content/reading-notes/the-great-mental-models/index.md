@@ -1,14 +1,16 @@
 +++
 title = "《思考的框架 The Great Mental Models》閱讀筆記：建立多元思維模型"
 date = 2024-02-23
+description = "《思考的框架 The Great Mental Models》介紹了多元思維模型的重要性，幫助讀者建立形成智慧的框架。點擊閱讀，探索如何利用這些模型提升認知與決策品質。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["mental-model"]
+categories = [ "閱讀筆記",]
+tags = [ "mental-model",]
 
 [extra]
 rating = 10
 image = "og-image.webp"
+
 +++
 
 一二三言以蔽之

@@ -1,10 +1,12 @@
 +++
 title = "Tiago Forte 的每週回顧範本"
 date = 2023-08-11
+description = "使用 Tiago Forte 的每週回顧範本，有效清理電子郵件、行事曆和桌面，挑選本週要務，提升工作效率。"
 
 [taxonomies]
-categories = ["範本"]
-tags = ["postmortem"]
+categories = [ "範本",]
+tags = [ "reflection",]
+
 +++
 
 # 步驟

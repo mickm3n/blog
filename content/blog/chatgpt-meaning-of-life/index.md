@@ -1,13 +1,15 @@
 +++
 title = "GPTs 初探索：在讀完所有的文章後，仿造風格寫作"
 date = 2024-01-24
+description = "探索 GPTs！上傳部落格文章，AI 解讀風格生成新內容，呈現 AI 時代人類應擁抱技術變遷的閃光點。立即點擊了解詳情！"
 
 [taxonomies]
-categories = ["經驗分享"]
-tags = ["generative-ai"]
+categories = [ "經驗分享",]
+tags = [ "generative-ai",]
 
 [extra]
 image = "meaning-of-life.webp"
+
 +++
 
 # 重新訂閱了 ChatGPT Plus

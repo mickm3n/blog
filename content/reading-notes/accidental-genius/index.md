@@ -1,14 +1,16 @@
 +++
 title = "《自由書寫術 Accidental Genius》閱讀筆記：我手寫我腦"
 date = 2023-12-05
+description = "閱讀《自由書寫術 Accidental Genius》，學習不斷快寫解放創意，擺脫自我審查，找到寫作靈感與方法論。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["writing"]
+categories = [ "閱讀筆記",]
+tags = [ "writing",]
 
 [extra]
 rating = 10
 image = "og-image.webp"
+
 +++
 
 一二三言以蔽之

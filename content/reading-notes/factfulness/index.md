@@ -1,14 +1,16 @@
 +++
 title = "《真確 Factfulness》閱讀筆記：資料並不等於事實"
 date = 2021-11-17
+description = "《真確 Factfulness》揭示我們對世界的錯誤認知，用十大直覺偏誤挑戰日常觀點，並提供實用心法。閱讀本書，重拾真相！"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 8
 image = "factfulness.webp"
+
 +++
 
 # 書籍

@@ -1,14 +1,16 @@
 +++
 title = "《思考整理學》閱讀筆記：用工具賦能思考"
 date = "2023-12-15"
+description = "《思考整理學》教你用工具提升獨立思考力，掌握三層知識：記憶、連結、萃取，成為能迎接 VUCA 時代挑戰的飛機人。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 7
 image = "og-image.webp"
+
 +++
 
 一二三言以蔽之
@@ -43,7 +45,7 @@ image = "og-image.webp"
 
 在思考時，我們會考慮我們已知的一切，像是相關的事實、理論、知識...等等，檢視其中的邏輯與解決衝突，來推論出我們想要的答案。
 
-小心！當我們試著提取腦中已知的事實時，可能會掉入[可得性偏誤（Availability Bias）](https://zh.wikipedia.org/zh-tw/%E5%8F%AF%E5%BE%97%E6%80%A7%E6%8D%B7%E6%80%9D%E6%B3%95)的陷阱。為了有效率的思考，我們會過度相信我們從腦中提取出的內容，但我們腦中會記憶什麼內容大量受到價值觀、意識形態所影響，那些我們不理解、不相信的資訊會自然地被遺忘，甚至被扭曲。
+小心！當我們試著提取腦中已知的事實時，可能會掉入 [可得性偏誤（Availability Bias）](https://zh.wikipedia.org/zh-tw/%E5%8F%AF%E5%BE%97%E6%80%A7%E6%8D%B7%E6%80%9D%E6%B3%95) 的陷阱。為了有效率的思考，我們會過度相信我們從腦中提取出的內容，但我們腦中會記憶什麼內容大量受到價值觀、意識形態所影響，那些我們不理解、不相信的資訊會自然地被遺忘，甚至被扭曲。
 
 當然我們可以蒐集更多的新資訊來使思考更準確，但我們通常受限於時間等經濟因素，沒辦法花這麼大的能量來思考，但至少我們應該找回過往曾經擁有的知識來幫助判讀。因此，建立一個能夠促進你思考的筆記系統相當重要，你有了可以外化的儲存空間，就少了遺忘的風險。切記，要確保你的筆記系統支援高效率的**搜尋功能**，讓我們可以隨時安心儲存及提取內容。
 
@@ -102,7 +104,7 @@ image = "og-image.webp"
 
 電腦擅長記憶，它其實還擅長運算，甚至在 2023 它也擅長講話和畫圖了，思考是目前人類還能守住的一塊瑰寶，學習批判性思考、培養表達能力，是新時代越來越重要的技能，有了這些技能之後，你就可以透過生成式 AI 大量探索、學習無限的知識。
 
-提到不同層級的知識，也很建議大家要建立自己的[第二大腦](@/reading-notes/building-a-second-brain/index.md)，參考 [The CODE Method](@/reading-notes/building-a-second-brain/index.md#the-code-method) 和 [The PARA Method](@/reading-notes/building-a-second-brain/index.md#the-para-method) 去建立自己工作流與筆記系統原則。
+提到不同層級的知識，也很建議大家要建立自己的 [第二大腦](@/reading-notes/building-a-second-brain/index.md)，參考 [The CODE Method](@/reading-notes/building-a-second-brain/index.md#the-code-method) 和 [The PARA Method](@/reading-notes/building-a-second-brain/index.md#the-para-method) 去建立自己工作流與筆記系統原則。
 
 讓第一層的知識可以很安心地被儲存與被提取，讓大腦更專注在思考的工作而不用害怕遺忘。甚至可以將第二層和第三層的知識脈絡儲存在 Heptabase 的白板上，可以用來還原當時思考的脈絡，也可以作為分享的工具。
 

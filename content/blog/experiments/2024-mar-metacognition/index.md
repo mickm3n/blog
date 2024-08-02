@@ -2,10 +2,12 @@
 title = "Mindframing：後設認知知識探索"
 date = 2024-03-25
 updated = 2024-04-21
+description = "探索後設認知與 Mindframing 的力量，學習如何通過 Pact、Act、React 和 Impact 來重塑學習過程，從而實現個人成長。"
 
 [taxonomies]
-categories = ["實驗"]
-tags = ["cognition"]
+categories = [ "實驗",]
+tags = [ "cognition",]
+
 +++
 
 # Questions
@@ -41,7 +43,7 @@ tags = ["cognition"]
 
 第一次嘗試 Mindframing，起初是因為自己的學習蠻零散的，隨著不斷變化的興趣閱讀不同領域的書和網路文章，雖然這些學習是快樂的，但似乎缺乏把這些知識實際應用的場景。
 
-一直都很喜歡 NESSLABS 的[電子報](https://nesslabs.com/)，認知科學一直也都是我感興趣的領域，將認知科學上的知識應用在真正的學習和思考上，就屬於後設認知的領域，也就是想探索了這個領域的原因。
+一直都很喜歡 NESSLABS 的 [電子報](https://nesslabs.com/)，認知科學一直也都是我感興趣的領域，將認知科學上的知識應用在真正的學習和思考上，就屬於後設認知的領域，也就是想探索了這個領域的原因。
 
 雖然每天都要分享蠻有壓力的，逼迫自己每天都要有思考和總結的整理。前期常常感到深度不太夠，但轉念到最主要是執行實驗的過程，中後期的寫作障礙就低了一些。
 

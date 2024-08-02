@@ -1,14 +1,16 @@
 +++
 title = "《高勝算決策 Thinking in Bets》閱讀筆記：要不要下注？"
 date = 2023-05-17
+description = "《高勝算決策 Thinking in Bets》教你用下注思維做決策，考慮機會成本與風險，保持開放心態，讓信念有彈性，做出更好的選擇。要不要下注？"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["belief", "decision-making"]
+categories = [ "閱讀筆記",]
+tags = [ "belief", "decision-making",]
 
 [extra]
 rating = 8.0
 image = "thinking-in-bets.og.webp"
+
 +++
 
 # 一二三言以蔽之
@@ -23,16 +25,16 @@ image = "thinking-in-bets.og.webp"
 
 ## 生活品質＝決策＋運氣
 
-還記得前一陣子老高的[真正的人生攻略，這一期也許你會看了又看](https://youtu.be/qzIfQ5_gYzc)引起了蠻多的討論。**「只要擁有能夠把握機會的才能，而成功得靠運氣。」**
+還記得前一陣子老高的 [真正的人生攻略，這一期也許你會看了又看](https://youtu.be/qzIfQ5_gYzc) 引起了蠻多的討論。**「只要擁有能夠把握機會的才能，而成功得靠運氣。」**
 
-除了強調才能與成功沒有絕對的相關性外，不管在老高的影片、[志祺七七的臉書貼文](https://www.facebook.com/ChihChyiChang/posts/pfbid02J9HqDfQWmk8Uf5hmxtp4dcJ6tFwMnXYGS9rRdcesxjsMUDb1mDGq6Gpp2s4U9aCSl)、或[Vicky Ho 的【2022 年搞笑諾貝爾經濟獎】比起才能，抓緊好運才是邁向成功的關鍵？](https://vickyho.com/the-role-of-luck-in-life-success/)，都提及了關於運氣重要的話題，像是：
+除了強調才能與成功沒有絕對的相關性外，不管在老高的影片、[志祺七七的臉書貼文](https://www.facebook.com/ChihChyiChang/posts/pfbid02J9HqDfQWmk8Uf5hmxtp4dcJ6tFwMnXYGS9rRdcesxjsMUDb1mDGq6Gpp2s4U9aCSl)、或 [Vicky Ho 的【2022 年搞笑諾貝爾經濟獎】比起才能，抓緊好運才是邁向成功的關鍵？](https://vickyho.com/the-role-of-luck-in-life-success/)，都提及了關於運氣重要的話題，像是：
 * 遠離不可控的風險：雖然無法完全規避，但在生活上可以透過選擇去除部分明顯的風險。
 * 提高自己的辨識能力：對事物的認知更加成熟，能夠對遭遇的事物做更好的判讀與回應。
 * 提高交流的機會：建立自己的品牌，分享自己的想法。除了增加機會外，也可以從他人的失敗學習，提升自己的辨識能力。
 
 ## 信念是有色眼鏡
 
-我們靠著吸收資訊與生活中的經驗來建立我們的信念。正如之前在逆思維提到過[有毒的信念](@/reading-notes/think-again/index.md#poisoned-belief)，錯誤的信念會讓我們對世界有錯誤解讀因而做出錯誤的決策。
+我們靠著吸收資訊與生活中的經驗來建立我們的信念。正如之前在逆思維提到過 [有毒的信念](@/reading-notes/think-again/index.md#poisoned-belief)，錯誤的信念會讓我們對世界有錯誤解讀因而做出錯誤的決策。
 
 ### 人是輕信的動物
 
@@ -48,7 +50,7 @@ image = "thinking-in-bets.og.webp"
 
 人們通常沒有時間去驗證所有的資訊，實際上我們的信念部分是由未經驗證的資訊所建立。
 
-從 [Daniel Gilbert 針對信念的實驗](https://explorable.com/understanding-and-belief)中甚至發現，一旦人們建立信念後，當被告知一個與信念相符但被標註為已知錯誤的資訊時，人們還是高程度傾向將其視為正確的消息。
+從 [Daniel Gilbert 針對信念的實驗](https://explorable.com/understanding-and-belief) 中甚至發現，一旦人們建立信念後，當被告知一個與信念相符但被標註為已知錯誤的資訊時，人們還是高程度傾向將其視為正確的消息。
 
 再加上易得性偏誤（Availability Bias）的影響，人們會傾向把比較有印象的資訊當作事實，也就造成如今假消息猖獗的現象。
 
@@ -91,7 +93,7 @@ image = "thinking-in-bets.og.webp"
 
 在當下設定有利於未來的規則。
 
-書中提到蠻棒的方法是失言罐。列下當符合某種條件的時候，要立刻停止行為來檢視自己當下的決策與想法。有點像是在[斯多葛生活哲學 55 個練習學到的錦囊妙計方法](@/reading-notes/the-little-book-of-stoicism/index.md#mental-hints)，讓自己在心裡永遠有一些容易記憶的原則，可以時時取出警惕自己。
+書中提到蠻棒的方法是失言罐。列下當符合某種條件的時候，要立刻停止行為來檢視自己當下的決策與想法。有點像是在 [斯多葛生活哲學 55 個練習學到的錦囊妙計方法](@/reading-notes/the-little-book-of-stoicism/index.md#mental-hints)，讓自己在心裡永遠有一些容易記憶的原則，可以時時取出警惕自己。
 
 提供一些作者為自己設下的失言罐範例：
 * 過度自信
@@ -111,4 +113,3 @@ image = "thinking-in-bets.og.webp"
 作者將在德州撲克的經驗轉化成生活上的應用還蠻有趣的，透過一句「你會為你的信念下注嗎？」立刻會讓人退一步思考自己的信心程度到底高不高，是一個蠻有效的方法。我也蠻喜歡他提到失言罐的方法，如果可以成功當作一個特殊狀態的提示，可以減少很多在自動駕駛模式下不注意所產生的錯誤。
 
 願大家都能從中獲得一些方法來調整信念、做出更好的決策，來等待好運降臨。
-

@@ -1,13 +1,15 @@
 +++
 title = "機率思考 Probabilistic Thinking"
 date = 2024-02-23
+description = "探索機率思考如何輔助更準確地決策，理解貝式思維、均值回歸及黑天鵝等關鍵點，以避免常見錯誤。提升風險管理和預測能力！"
 
 [taxonomies]
-categories = ["思維模型"]
+categories = [ "思維模型",]
 tags = []
 
 [extra]
 image = "probabilistic-thinking.webp"
+
 +++
 
 # 目的

@@ -1,14 +1,16 @@
 +++
 title = "《How to Read A Book》閱讀筆記：四種閱讀層次"
 date = 2020-03-15
+description = "探索《How to Read A Book》的四種閱讀層次：基礎閱讀、檢視閱讀、分析閱讀、主題閱讀，揭示書籍的深層價值。了解更多閱讀技巧，使閱讀成為更有系統的學習過程！"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 6
 image = "how-to-read-a-book.jpeg"
+
 +++
 
 # 書籍

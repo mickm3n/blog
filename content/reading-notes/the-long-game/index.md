@@ -2,14 +2,16 @@
 title = "《長線思維 The Long Game》閱讀筆記：不要瞎忙好嗎"
 date = 2022-08-24
 updated = 2022-09-20
+description = "《長線思維 The Long Game》提醒我們，忙碌不一定等於成功，學習說“不”，設定正確目標並靈活運用資源，以實現長期價值。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 8
 image = "the-long-game.webp"
+
 +++
 
 # 書籍
@@ -124,4 +126,3 @@ image = "the-long-game.webp"
 在進行長線策略時，在設定遠大的目標之餘，要記得設定定期檢查點來確認進度。透過設立檢查點，可以讓我們在無法準時完成事情時進行相對應的策略調整。
 * 利用減法策略做出選擇，拒絕低價值的事物來空出更多時間。
 * 研發新方法、優化流程，更有效率地完成想完成的事。
-

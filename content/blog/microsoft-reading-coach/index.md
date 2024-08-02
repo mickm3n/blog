@@ -1,13 +1,15 @@
 +++
 title = "免費的英語發音學習好幫手：Microsoft Reading Coach"
 date = 2024-01-23
+description = "免費的 AI 英語發音學習工具 Microsoft Reading Coach 發布預覽版，適合兒童及成人透過自定義內容提高英語能力，快來試試吧！"
 
 [taxonomies]
-categories = ["學習工具"]
-tags = ["english", "ai"]
+categories = [ "學習工具",]
+tags = [ "language-acquisition", "ai",]
 
 [extra]
 image = "reading-coach.webp"
+
 +++
 
 ![](reading-coach.webp)

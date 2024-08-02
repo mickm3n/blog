@@ -1,13 +1,15 @@
 +++
 title = "接受每個人的獨特，包括自己的"
 date = 2024-01-26
+description = "每個人都有獨特之處，探索自身與他人的獨特性，接受不同並促進多元合作，這是人類真正的價值所在。讀取更多，了解如何發現和接納每個人的獨特性。"
 
 [taxonomies]
-categories = ["想法"]
+categories = [ "想法",]
 tags = []
 
 [extra]
 image = "accept-peoples-uniqueness.webp"
+
 +++
 
 # 我們不一樣
@@ -22,9 +24,9 @@ image = "accept-peoples-uniqueness.webp"
 
 # 如何探究自己與他人的獨特性？
 
-坊間其實有很多人格特質之類的測驗，如[大家熟知的十六型人格 MBTI](https://www.16personalities.com/tw/%E6%80%A7%E6%A0%BC%E6%B8%AC%E8%A9%A6)，在[原則](@/reading-notes/principles/index.md)一書裡也有提到在工作場域上也有蠻多分析工具，像是 [Workplace Personality Inventory](https://alison.com/psychometric-test/personality) 和 [Team Dimensions Profile](https://internalchange.com/order-profiles-training-materials/non-disc-products/team-dimensions-profile/)。透過這些方式，我們可以粗略地對人格特質與傾向做簡單的分類，什麼類型的人適合做什麼樣的事，不同類型的人該如何合作與相處，可以當作人際交流的基礎考量。
+坊間其實有很多人格特質之類的測驗，如 [大家熟知的十六型人格 MBTI](https://www.16personalities.com/tw/%E6%80%A7%E6%A0%BC%E6%B8%AC%E8%A9%A6)，在 [原則](@/reading-notes/principles/index.md) 一書裡也有提到在工作場域上也有蠻多分析工具，像是 [Workplace Personality Inventory](https://alison.com/psychometric-test/personality) 和 [Team Dimensions Profile](https://internalchange.com/order-profiles-training-materials/non-disc-products/team-dimensions-profile/)。透過這些方式，我們可以粗略地對人格特質與傾向做簡單的分類，什麼類型的人適合做什麼樣的事，不同類型的人該如何合作與相處，可以當作人際交流的基礎考量。
 
-在個人探索上，我覺得透過日記寫作可以獲得更多。記錄日常的經歷、在過程中有哪些情緒和感覺，可以很有效地探索內在自我的訊息。想要獲得更多數據的話，甚至可以嘗試執行戰地筆記（Field Notes），在生活或工作活動結束的片刻，保留一點時間記錄這段時間做了什麼、心情的變化、以及下一段時間的計畫，搭配[番茄鐘](https://zh.wikipedia.org/zh-tw/%E7%95%AA%E8%8C%84%E5%B7%A5%E4%BD%9C%E6%B3%95)在休息的時間做這件事也很合適。
+在個人探索上，我覺得透過日記寫作可以獲得更多。記錄日常的經歷、在過程中有哪些情緒和感覺，可以很有效地探索內在自我的訊息。想要獲得更多數據的話，甚至可以嘗試執行戰地筆記（Field Notes），在生活或工作活動結束的片刻，保留一點時間記錄這段時間做了什麼、心情的變化、以及下一段時間的計畫，搭配 [番茄鐘](https://zh.wikipedia.org/zh-tw/%E7%95%AA%E8%8C%84%E5%B7%A5%E4%BD%9C%E6%B3%95) 在休息的時間做這件事也很合適。
 
 # 在理解每個人都有各自的獨特性之後
 

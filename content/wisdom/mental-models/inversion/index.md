@@ -1,13 +1,15 @@
 +++
 title = "反演法 Inversion"
 date = 2024-02-23
+description = "了解反演法的應用，從失敗中學習如何成功，包含 Kurt Lewin 和 Edward Bernays 的案例。不止向前進，也要避開錯誤，推動變革與避免災難。"
 
 [taxonomies]
-categories = ["思維模型"]
+categories = [ "思維模型",]
 tags = []
 
 [extra]
 image = "inversion.webp"
+
 +++
 
 # 目的
@@ -40,5 +42,3 @@ Edward Bernays 就是用反演法來行銷女性抽煙。在當時的環境，�
 從另外一個角度，我們也可以設想我們即將要進行的事最終會失敗，而造成失敗的原因可能有哪些，我們可以試著避免這些錯誤來達到成功。在專案執行上，我們也會用事前驗屍（Premortem）來做相似的推敲。
 
 而熱門的投資標的 ETF，指數股票型基金 Exchange Traded Fund，其創造者 John Bogle 當時創造 ETF 的核心概念也是「不是要追求財富，而是避免貧窮。」如今則成為能穩定創造獲利的基金。
-
-

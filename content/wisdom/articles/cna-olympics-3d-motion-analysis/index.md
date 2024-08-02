@@ -1,13 +1,15 @@
 +++
 title = "中央社奧運運動 3D 圖解"
 date = 2024-07-29
+description = "探索中央社最新 3D 圖解，揭示奧運單槓與霹靂舞項目奪金秘訣，帶您深入了解選手的精妙動作，讓奧運觀看更精彩。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 image = "breaking.webp"
+
 +++
 
 創作者：[中央社](https://www.cna.com.tw/)
@@ -21,6 +23,3 @@ image = "breaking.webp"
 ![](horizontal-bar.webp)
 
 ![](breaking.webp)
-
-
-

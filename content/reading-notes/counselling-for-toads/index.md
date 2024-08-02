@@ -1,14 +1,16 @@
 +++
 title = "《蛤蟆先生去看心理師 Counselling For Toads》閱讀筆記：尋求改變之前，先認識自己"
 date = 2023-01-24
+description = "《蛤蟆先生去看心理師》透過童話揭示心理諮商的過程與自我認識，探索人格的來源與劇本心態，適合心理學入門者。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["mental-health"]
+categories = [ "閱讀筆記",]
+tags = [ "mental-health",]
 
 [extra]
 rating = 8
 image = "counselling-for-toad.webp"
+
 +++
 
 # 一二三言以蔽之

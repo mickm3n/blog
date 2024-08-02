@@ -1,10 +1,12 @@
 +++
 title = "看電影"
 date = 2024-06-14
+description = "體會導演鋪陳，無預告觀影純享樂趣。從影評看更深入面向，讓觀影體驗更豐富。探索 IMDb 與 Letterboxd，電影評價新體驗！"
 
 [taxonomies]
-categories = ["想法"]
+categories = [ "想法",]
 tags = []
+
 +++
 
 我看電影的習慣是完全不會預先查詢與電影相關的內容，連預告片都不會看，只會查 [IMDb](https://www.imdb.com/) 的群眾評分，想要直接在觀影過程體驗導演的鋪陳與敘述來理解故事，除非很明顯有什麼先備的知識可以輔助觀影體驗。
@@ -13,4 +15,4 @@ tags = []
 
 這是在閱讀《[Paul Graham 的 The Best Essay](https://paulgraham.com/best.html)》後，觀看《[P. J. Wu 的讀後心得](https://world.hey.com/mimir/a-letter-from-pj-the-best-essay-ed2ab313)》時忽然想到的事。雖然是很簡單的道理，但對此刻的我特別深刻，特別記錄一下。
 
-與此有關又不太有關的是，最近從《[何雅瑄的 about 頁面](https://yaxuanhe.me/about/)》發覺 [Letterboxd](https://letterboxd.com/)，另一個電影評論的平台，界面設計呈現上比 IMDB 漂亮很多，考慮之後看完電影的非雷短感想都會放在[那裡](https://letterboxd.com/mickm3n/)！
+與此有關又不太有關的是，最近從《[何雅瑄的 about 頁面](https://yaxuanhe.me/about/)》發覺 [Letterboxd](https://letterboxd.com/)，另一個電影評論的平台，界面設計呈現上比 IMDB 漂亮很多，考慮之後看完電影的非雷短感想都會放在 [那裡](https://letterboxd.com/mickm3n/)！

@@ -1,14 +1,16 @@
 +++
 title = "《抗老化，你需要大重量訓練》閱讀筆記：除了財富自由，你應該也要考慮肌力自由"
 date = 2021-03-11
+description = "探索《抗老化，你需要大重量訓練》的精華，揭示提升最大肌力的重要性，助你在財富自由外，也能享受肌力自由，避免老年長照問題。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 9
 image = "strengh-training-for-older-adults.webp"
+
 +++
 
 # 書籍
@@ -32,4 +34,3 @@ image = "strengh-training-for-older-adults.webp"
 
 ## 典範轉移是一段長路
 「我老了不適合，還是散散步」、「練太重好像很累會受傷」，何立安提到大重量訓練雖然很重要、很值得投資，但或許還有一段難走的典範轉移之路。希望大家有興趣可以讀讀這本書，重新認識一下大重量訓練。我決定再買一本實體書放在宜蘭的家裡。
-

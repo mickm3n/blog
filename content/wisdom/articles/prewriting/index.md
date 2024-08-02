@@ -1,10 +1,12 @@
 +++
 title = "寫作前的構思"
 date = 2023-12-02
+description = "掌握寫作前的構思，從思考寫作目的開始，經過腦力激盪、與他人談論、視覺化想法及優化草稿，快速提升寫作效率！"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["writing"]
+categories = [ "閱讀筆記",]
+tags = [ "writing",]
+
 +++
 
 創作者：[Purdue Online Writing Lab](https://owl.purdue.edu/owl/index.html)

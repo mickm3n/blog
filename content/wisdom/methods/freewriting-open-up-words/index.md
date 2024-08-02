@@ -1,10 +1,11 @@
 +++
 title = "輔助自由書寫的詞彙解析技巧"
 date = 2023-12-05
+description = "探索詞彙解析技巧，讓你的自由書寫更順暢。從定義開始，到個人觀點，助你巧妙掌握詞彙。"
 
 [taxonomies]
-categories = ["方法"]
-tags = []
+categories = [ "方法",]
+tags = ["writing"]
 
 +++
 

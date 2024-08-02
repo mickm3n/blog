@@ -1,10 +1,12 @@
 +++
 title = "淺談第二語言學習理論"
 date = 2023-07-30
+description = "淺談第二語言學習理論，探討行為主義、先天主義、認知主義和社會主義等理論，分享提升語言學習的實用建議。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["language-acquisition"]
+categories = [ "閱讀筆記",]
+tags = [ "language-acquisition",]
+
 +++
 
 創作者：[都瑞瑞](https://medium.com/@durayray)

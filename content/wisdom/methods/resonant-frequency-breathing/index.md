@@ -1,12 +1,14 @@
 +++
 title = "共振呼吸法 Resonant Frequency Breathing"
 date = 2023-06-21
+description = "共振呼吸法藉由減緩呼吸頻率增加心跳變異率和迷走神經活動，進而提升情緒調節和專注力，並舒緩焦慮和抑鬱。立即了解其原理和步驟！"
 
 [taxonomies]
-categories = ["方法"]
-tags = ["breath"]
+categories = [ "方法",]
+tags = [ "breath",]
 
 [extra]
+
 +++
 
 共振呼吸法（Resonanat Frequency Breathing），又名諧振式呼吸法（Coherent Breathing）。

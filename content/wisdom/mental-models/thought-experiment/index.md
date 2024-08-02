@@ -1,13 +1,15 @@
 +++
 title = "假想實驗 Thought Experiment"
 date = 2024-02-23
+description = "探索無法實驗的領域，透過假想實驗突破限制、檢驗假設，並洞悉更多可能性，但需謹慎避免誤導。"
 
 [taxonomies]
-categories = ["思維模型"]
+categories = [ "思維模型",]
 tags = []
 
 [extra]
 image = "thought-experiment.webp"
+
 +++
 
 # 目的

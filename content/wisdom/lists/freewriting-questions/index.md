@@ -1,10 +1,11 @@
 +++
 title = "輔助自由書寫的問題"
 date = 2023-12-05
+description = "思緒卡住時，試著用問題引導自己持續書寫。本文提供各種引發靈感的問題清單，讓你突破瓶頸、提升寫作流暢度！"
 
 [taxonomies]
-categories = ["清單"]
-tags = []
+categories = [ "清單",]
+tags = ["writing"]
 
 +++
 

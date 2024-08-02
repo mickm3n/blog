@@ -2,13 +2,15 @@
 title = "在倫敦遇到扒手"
 date = 2023-06-21
 updated = 2023-06-22
+description = "在倫敦遇到扒手成為驚險旅程的一部分，本文分享如何在風險中保護個人財物。了解更多防盜技巧，確保你的旅行充滿樂趣！"
 
 [taxonomies]
-categories = ["經驗分享"]
-tags = ["London"]
+categories = [ "經驗分享",]
+tags = [ "London",]
 
 [extra]
 image = "theft.webp"
+
 +++
 
 ![](theft.webp)

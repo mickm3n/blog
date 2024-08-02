@@ -1,14 +1,16 @@
 +++
 title = "《政客、權謀、小丑 Les ingénieurs du chaos》閱讀筆記：在量子世界茁壯的民粹主義"
 date = 2024-04-25
+description = "《政客、權謀、小丑：量子時代的民粹主義》閱讀筆記探討量子政治如何引發歐洲民粹主義崛起與川普效應，揭示混亂工程師的驚人影響力。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["politics"]
+categories = [ "閱讀筆記",]
+tags = [ "politics",]
 
 [extra]
 rating = 8
 image = "og-image.webp"
+
 +++
 
 一二三言以蔽之
@@ -145,8 +147,8 @@ image = "og-image.webp"
 
 Facebook 原本為這三樣為廣告投放所設計的功能，搖身一變成為最強的政治宣傳工具。精準投放的結果形成了「狗哨政治（Dog-Whistle Politics）」，每個人接收到的資訊都不同，當主人吹口哨時，只有少數個體會察覺並明白這些招喚，而其餘的個體都不會發現。這樣子的宣傳手法不易被他人發現、不容易做事實查核，也很容易否認指使關係。
 
-可以在 Netflix 上觀看[《個資風暴
-：劍橋分析事件 The Great Hack》](https://www.netflix.com/browse?jbv=80117542)或是透過這個比較短的 TED 分享更了解這個事件。
+可以在 Netflix 上觀看 [《個資風暴
+：劍橋分析事件 The Great Hack》](https://www.netflix.com/browse?jbv=80117542) 或是透過這個比較短的 TED 分享更了解這個事件。
 
 {{ youtube(id="OQSMr-3GGvQ") }}
 

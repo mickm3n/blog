@@ -1,10 +1,12 @@
 +++
 title = "法律白話文專訪林飛帆"
 date = 2024-06-02
+description = "聽聽林飛帆分享太陽花學運背後的故事與挑戰，揭示群眾運動的複雜性及政治過程。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["politics"]
+categories = [ "閱讀筆記",]
+tags = [ "politics",]
+
 +++
 
 創作者：[法律白話文](plainlaw.me/)

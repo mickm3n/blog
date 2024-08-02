@@ -1,13 +1,15 @@
 +++
 title = "第一原理思考 First Principle Thinking"
 date = 2024-02-26
+description = "深入探討第一原理思考，打破常規回歸基本，助你解決創新難題。學習最重要的基礎知識，提升你的問題解決能力！"
 
 [taxonomies]
-categories = ["思維模型"]
-tags = ["elon-musk"]
+categories = [ "思維模型",]
+tags = [ "elon-musk",]
 
 [extra]
 image = "first-principle-thinking.webp"
+
 +++
 
 # 目的

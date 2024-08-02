@@ -1,10 +1,12 @@
 +++
 title = "透過模擬近視散焦（Myopic Defocus）來預防近視"
 date = 2024-03-04
+description = "透過模擬近視散焦來舒緩長時間近距離工作的眼睛壓力，有望預防近視。在 Chrome 和 Windows 上均可使用，詳情請見 refractify.io。"
 
 [taxonomies]
 categories = []
 tags = []
+
 +++
 
 蠻有趣的 Project，透過模擬產生眼睛觀看遠方會出現的近視散焦，舒緩無可避免的近距離工作（電腦、居家辦公）。目前這個方法有通過動物實驗可以預防近視，人類成效未知。

@@ -1,14 +1,16 @@
 +++
 title = "《子彈思考整理術 The Bullet Journal Method》閱讀筆記：僧人心態的日記方法"
 date = 2021-09-04
+description = "探索《子彈思考整理術》中僧人心態的日記方法，以手寫日記提升記憶與專注，從減法與反思中找到生活的指南針。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 10
 image = "the-bullet-journal-method.webp"
+
 +++
 
 # 書籍

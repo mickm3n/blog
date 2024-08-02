@@ -1,10 +1,12 @@
 +++
 title = "The Best Essay"
 date = 2024-06-17
+description = "Paul Graham 在『The Best Essay』中探討如何透過不斷重寫來產生好文章，強調永恆性與直覺的重要性。了解創作過程的每一步都是邁向好點子的基石。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["writing"]
+categories = [ "閱讀筆記",]
+tags = [ "writing",]
+
 +++
 
 創作者：[Paul Graham](https://paulgraham.com)

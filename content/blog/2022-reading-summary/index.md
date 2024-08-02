@@ -2,13 +2,15 @@
 title = "2022 閱讀總回顧"
 date = 2023-01-02
 updated = 2023-12-29
+description = "2022 閱讀回顧：反思年度閱讀目標，探索《人類大歷史》《鋼鐵人馬斯克》等啟發性書籍，迎接更充實的 2023！"
 
 [taxonomies]
-categories = ["年度回顧"]
+categories = [ "年度回顧",]
 tags = []
 
 [extra]
 image = "books.webp"
+
 +++
 
 ![](books.webp)

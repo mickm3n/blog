@@ -1,10 +1,11 @@
 +++
 title = "輔助自由書寫的概念轉換技巧"
 date = 2023-12-05
+description = "探索輔助自由書寫的概念轉換技巧，了解如何從過去的解決方案中汲取靈感，並應用於自己的問題解決中。"
 
 [taxonomies]
-categories = ["方法"]
-tags = []
+categories = [ "方法",]
+tags = ["writing"]
 
 +++
 

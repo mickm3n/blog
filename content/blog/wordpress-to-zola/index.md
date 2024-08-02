@@ -1,13 +1,15 @@
 +++
 title = "尚未成功的搬遷：把網站從 Bluehost (Wordpress) 遷移到 Zola"
 date = 2023-05-03
+description = "探索從 Bluehost 的 Wordpress 搬遷到 Zola 的挑戰與收穫，了解靜態網站生成器的吸引力和實際困難，並逐步透過 ChatGPT 協助實現新網站的轉型。"
 
 [taxonomies]
-categories = ["網站開發記錄"]
-tags = ["zola"]
+categories = [ "網站開發記錄",]
+tags = [ "zola",]
 
 [extra]
 image = "zola.webp"
+
 +++
 
 ![](zola.webp)
@@ -16,7 +18,7 @@ image = "zola.webp"
 
 # 我的第一個部落格：以購買驅動行為
 
-在 2020 年一時興起買了 bluehost 來架站，利用金錢的支出來逼迫自己經營[部落格](https://mickzh.com)、促使自己寫一些東西。但沒有太用心在網站的細節，只速速瀏覽了幾篇網誌教學後，買了很多人推薦的佈景主題 [Soledad](https://themeforest.net/item/soledad-multiconcept-blogmagazine-wp-theme/12945398)、根據需求裝了一些必要的 plugin，接著就是不定期寫一些閱讀心得放上去。
+在 2020 年一時興起買了 bluehost 來架站，利用金錢的支出來逼迫自己經營 [部落格](https://mickzh.com)、促使自己寫一些東西。但沒有太用心在網站的細節，只速速瀏覽了幾篇網誌教學後，買了很多人推薦的佈景主題 [Soledad](https://themeforest.net/item/soledad-multiconcept-blogmagazine-wp-theme/12945398)、根據需求裝了一些必要的 plugin，接著就是不定期寫一些閱讀心得放上去。
 
 即使有覺得網站蠻多地方不符合自己的喜好，不過沒有動力深入了解 Soledad 的佈景主題，可以調的東西實在太多了，每次都看一看就作罷了。
 
@@ -65,4 +67,3 @@ image = "zola.webp"
 - 因為控制性變高了，希望可以漸漸想清楚自己網站想呈現的樣貌，漸漸變成自己想要的樣子。
 - 產出的想法，要先對自己有益，再來思考要怎麼要對其他讀者有益處。
 - 新網站透過 Markdown 的形式，降低了輸出的難度，希望自己能增加輸出量，達到自己想做到 Learn In Public 的效果。
-

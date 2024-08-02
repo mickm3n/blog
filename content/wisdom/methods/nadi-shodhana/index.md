@@ -1,13 +1,15 @@
 +++
 title = "淨脈呼吸法 Nadi Shodhana"
 date = 2023-06-11
+description = "發現淨脈呼吸法（Nadi Shodhana）的奇妙功效，平衡身心、改善健康！學會鼻孔交替呼吸法及其步驟，增強內在活力。"
 
 [taxonomies]
-categories = ["方法"]
-tags = ["breath"]
+categories = [ "方法",]
+tags = [ "breath",]
 
 [extra]
 image = "breath.webp"
+
 +++
 
 ![](breath.webp)
@@ -51,5 +53,5 @@ image = "breath.webp"
 2. **左邊吸氣，右邊吐氣**。感覺冷卻的效果遍及全身系統。繼續平順、輕鬆地呼吸。
 
 # References
-- 從[呼吸對了身體就好了！這樣呼吸淨化氣脈、呼吸道](https://www.edh.tw/article/19715)可以看到真人演示圖片。
-- 從[圖解鼻孔交替呼吸法 讓你心靜還能睡好！](https://heho.com.tw/archives/60102)可以看可愛的流程示意圖。
+- 從 [呼吸對了身體就好了！這樣呼吸淨化氣脈、呼吸道](https://www.edh.tw/article/19715) 可以看到真人演示圖片。
+- 從 [圖解鼻孔交替呼吸法 讓你心靜還能睡好！](https://heho.com.tw/archives/60102) 可以看可愛的流程示意圖。

@@ -1,14 +1,16 @@
 +++
 title = "《給力 Powerful》閱讀筆記：改變世界從改變工作環境開始"
 date = 2021-10-10
+description = "從 Netflix 前人資長 Patty McCord 的《給力 POWERFUL》中汲取管理新思維，改變工作環境從改變管理模式開始。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 9
 image = "powerful.webp"
+
 +++
 
 # 書籍

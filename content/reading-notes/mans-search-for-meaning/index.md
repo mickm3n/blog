@@ -1,14 +1,16 @@
 +++
 title = "《活出意義來 Man’s Search for Meaning》閱讀筆記：參透為何，才能迎接任何"
 date = 2024-05-13
+description = "閱讀 Viktor E. Frankl 的《活出意義來》揭示了在極端困境中尋找生命意義的力量，教導我們如何在逆境中找到內心的自由與快樂。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 9
 image = "og-image.webp"
+
 +++
 
 一二三言以蔽之

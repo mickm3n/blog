@@ -1,13 +1,15 @@
 +++
 title = "蘇格拉底式提問法 Socratic Questioning"
 date = 2024-02-23
+description = "了解蘇格拉底式提問法如何用有系統的問題深入探討並挑戰假設，獲得更深刻的洞察和理解。探索六大步驟，全方位檢視思維過程。"
 
 [taxonomies]
-categories = ["方法"]
-tags = ["questioning"]
+categories = [ "方法",]
+tags = [ "questioning",]
 
 [extra]
 image = "og-image.webp"
+
 +++
 
 1. 說明你的想法，並解釋想法的起源。

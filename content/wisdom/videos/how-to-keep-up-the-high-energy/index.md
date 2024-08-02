@@ -1,10 +1,12 @@
 +++
 title = "How to Keep Up the High Energy?"
 date = 2023-11-03
+description = "學習如何通過正向能量、設置北極星目標、享受 Me-times 和健康生活來保持高能量，讓你走更遠的路。點擊了解更多有效策略！"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
+
 +++
 
 創作者：[Zoe.languages](https://www.youtube.com/@zoe.languages)
@@ -22,5 +24,3 @@ tags = []
 * 健康帶來能量，飲食、運動、睡眠
 
 * 環境很重要，遠離有毒的環境和人
-
-

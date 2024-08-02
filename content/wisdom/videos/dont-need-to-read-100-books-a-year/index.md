@@ -1,10 +1,12 @@
 +++
 title = "別再被誤導了！你真的不需要一年讀 100 本書！"
 date = 2024-02-19
+description = "別再被速讀迷思誤導！真正的閱讀價值在於引發思考與連結，而非追求數量極大化。閱讀總結不能取代親自閱讀的體驗，投資時間獲得真知。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["reading"]
+categories = [ "閱讀筆記",]
+tags = [ "reading",]
+
 +++
 
 創作者：[MoneyXYZ](https://www.youtube.com/@MoneyXYZ)

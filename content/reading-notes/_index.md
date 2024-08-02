@@ -4,6 +4,8 @@ sort_by = "date"
 template = "reading-notes-table.html"
 page_template = "reading-note.html"
 generate_feed = true
+description = "瀏覽我整理的高分書籍閱讀心得，根據評分排序，發掘最佳推薦書單！歡迎在 Goodreads 分享你的書單並交流閱讀心得。"
+
 +++
 
 > 這個表放的都是閱讀心得，可以根據各個欄位排序，方便找到比較高分的書。

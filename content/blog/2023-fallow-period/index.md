@@ -1,13 +1,15 @@
 +++
 title = "工作十年半後的休耕期"
 date = 2023-08-09
+description = "在工作十年半後，我決定休耕以找回時間專注於自我成長。透過閱讀、英語學習等活動，重新定義職涯與生活的北極星。"
 
 [taxonomies]
-categories = ["經驗分享"]
-tags = ["Work"]
+categories = [ "經驗分享",]
+tags = [ "work",]
 
 [extra]
 image = "fallow-period.webp"
+
 +++
 
 ![](fallow-period.webp)

@@ -1,14 +1,16 @@
 +++
 title = "《人性的弱點 How To Win Friends And Influence People》閱讀筆記：以溝通共創雙贏"
 date = 2023-01-02
+description = "探索《人性的弱點》中的核心溝通技巧，學會以讚美、真誠與同理心共創互贏的關係，讓你在人際關係中如魚得水。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 6
 image = "how-to-win-friends-and-influence-people.webp"
+
 +++
 
 # 一二三言以蔽之

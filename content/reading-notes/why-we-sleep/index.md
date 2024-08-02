@@ -1,14 +1,16 @@
 +++
 title = "《為什麼要睡覺 Why We Sleep》閱讀筆記：多睡一點就對了"
 date = 2021-07-29
+description = "探索《為什麼要睡覺》中的睡眠奧秘，了解充足睡眠如何提升健康和情緒，並揭示睡眠不足的嚴重影響。多睡一點，讓人生更豐富！"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 10
 image = "why-we-sleep.webp"
+
 +++
 
 # 書籍

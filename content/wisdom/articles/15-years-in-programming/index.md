@@ -1,10 +1,12 @@
 +++
 title = "入行 15 年，我還是覺得編程很難"
 date = 2024-03-18
+description = "入行 15 年，我依然覺得編程很難。掌握編程的關鍵在於不斷閱讀與寫作的循環，並理解創作者思維。探索技術與人之間的平衡，尋找最佳學習曲線，才能真正提升技術。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["programming"]
+categories = [ "閱讀筆記",]
+tags = [ "programming",]
+
 +++
 
 創作者：朱雷

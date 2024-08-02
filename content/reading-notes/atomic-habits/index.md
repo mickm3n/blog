@@ -1,14 +1,16 @@
 +++
 title = "《原子習慣 Atomic Habits》閱讀筆記：把複利概念套用在人生上"
 date = 2020-07-19
+description = "深度解析《原子習慣》書中的習慣迴路概念，教你通過設計環境來形成有效習慣，讓人生獲得複利回報！"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["habit"]
+categories = [ "閱讀筆記",]
+tags = [ "habit",]
 
 [extra]
 rating = 10
 image = "atomic-habits.jpeg"
+
 +++
 
 # 書籍

@@ -2,14 +2,16 @@
 title = "《零規則 No Rules Rules》閱讀筆記：打造你心中的黃金陣容"
 date = 2021-07-03
 updated = 2024-06-30
+description = "《零規則 No Rules Rules》揭示 Netflix 如何透過高人才密度和零規則打造黃金陣容，分散決策增強員工歸屬感。探索職業球隊般的高績效文化。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 8
 image = "no-rules-rules.jpg"
+
 +++
 
 # 書籍

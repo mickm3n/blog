@@ -1,10 +1,12 @@
 +++
 title = "人類的認知瓶頸 Cognitive Bottleneck"
 date = 2024-03-05
+description = "探索人類認知瓶頸的挑戰和管理策略，瞭解如何通過外化思考、正念練習和日記寫作來提升專注力與記憶力。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["attention"]
+categories = [ "閱讀筆記",]
+tags = [ "attention",]
+
 +++
 
 創作者：[Ness Labs](https://nesslabs.com)

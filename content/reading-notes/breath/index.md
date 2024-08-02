@@ -1,14 +1,16 @@
 +++
 title = "《3.3 秒的呼吸奧秘 Breath》閱讀筆記：呼吸是唯一可控制的身體系統"
 date = 2023-07-26
+description = "探索《3.3 秒的呼吸奧秘 Breath》的閱讀筆記。了解如何從鼻呼吸、減少呼吸次數、增加咀嚼中提升健康，揭示呼吸的科學與實證。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["breath"]
+categories = [ "閱讀筆記",]
+tags = [ "breath",]
 
 [extra]
 rating = 9
 image = "breath.webp"
+
 +++
 
 # 一二三言以蔽之
@@ -51,7 +53,7 @@ image = "breath.webp"
 >
 > —- 最後一次相遇，我們只談喜悅
 
-鼻子也是連結交感神經系統與副交感神經系統的重要器官。透過控制呼吸，使我們有機會調節身體其他的複雜系統。[淨脈呼吸法](@/wisdom/methods/nadi-shodhana/index.md)就是利用不同鼻孔的特性，來控制呼吸達到調節身體的方法。
+鼻子也是連結交感神經系統與副交感神經系統的重要器官。透過控制呼吸，使我們有機會調節身體其他的複雜系統。[淨脈呼吸法](@/wisdom/methods/nadi-shodhana/index.md) 就是利用不同鼻孔的特性，來控制呼吸達到調節身體的方法。
 
 ## 減少呼吸次數
 
@@ -59,7 +61,7 @@ image = "breath.webp"
 
 最佳的呼吸方式其實是放慢呼吸。放慢呼吸使血液裡的二氧化碳濃度變高，有助於排出血紅素裡的氧氣，也可以增加我們的有氧耐力。
 
-可以透過[共振呼吸法](@/wisdom/methods/resonant-frequency-breathing/index.md)來訓練減少自己的呼吸次數。
+可以透過 [共振呼吸法](@/wisdom/methods/resonant-frequency-breathing/index.md) 來訓練減少自己的呼吸次數。
 
 ## 增加咀嚼
 
@@ -79,4 +81,4 @@ image = "breath.webp"
 
 # 讀後感
 
-在閱讀後研究了一些呼吸法，從[實驗數據](https://murphymind.blogspot.com/2020/04/resonance-frequency-breathing-hrv.html)發現，透過呼吸法放慢呼吸可以增加心跳變異率，帶來接近冥想的好處。如果冥想對你來說太難執行，每天做幾分鐘的呼吸練習或許對你會有幫助！
+在閱讀後研究了一些呼吸法，從 [實驗數據](https://murphymind.blogspot.com/2020/04/resonance-frequency-breathing-hrv.html) 發現，透過呼吸法放慢呼吸可以增加心跳變異率，帶來接近冥想的好處。如果冥想對你來說太難執行，每天做幾分鐘的呼吸練習或許對你會有幫助！

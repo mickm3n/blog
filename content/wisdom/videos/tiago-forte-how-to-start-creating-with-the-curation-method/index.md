@@ -1,10 +1,12 @@
 +++
 title = "How to Start Creating in 2024 with the Curation Method"
 date = 2024-05-20
+description = "如何在 2024 年用策展方法開始創作：Tiago Forte 分享建立收藏庫、公開學習等，讓你在資訊過載中脫穎而出，創作更有影響力。"
 
 [taxonomies]
 categories = []
 tags = []
+
 +++
 
 創作者：Tiago Forte

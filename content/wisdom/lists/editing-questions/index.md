@@ -1,10 +1,12 @@
 +++
 title = "編修文章的問題清單"
 date = 2024-07-19
+description = "檢查清單讓你的文章更完美！從語氣到邏輯，再到關鍵資訊，確保每一個細節都無懈可擊，助你輕鬆提升寫作水平。進一步了解如何編修文章，讓你的寫作更出色。"
 
 [taxonomies]
-categories = ["清單"]
-tags = ["writing"]
+categories = [ "清單",]
+tags = [ "writing",]
+
 +++
 
 擷取自《[寫作，是最好的自我投資](@/reading-notes/writing-is-the-best-self-investment/index.md)》

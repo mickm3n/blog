@@ -1,14 +1,16 @@
 +++
 title = "《台灣地方政治讀本》閱讀筆記：政治好髒好可怕？漠不關心才可怕"
 date = 2024-05-30
+description = "深入了解台灣地方政治，《台灣地方政治讀本》帶你探索各地區的政治歷史與現況，揭示影響我們今日政治的深層結構與文化。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["politics"]
+categories = [ "閱讀筆記",]
+tags = [ "politics",]
 
 [extra]
 rating = 7
 image = "og-image.webp"
+
 +++
 
 一二三言以蔽之

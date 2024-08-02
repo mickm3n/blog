@@ -1,14 +1,16 @@
 +++
 title = "《美意識》閱讀筆記：在邏輯理性極限之後"
 date = 2023-05-06
+description = "《美意識》探討在 VUCA 時代邏輯理性不足時，美感的重要性，激發創造力與品牌價值。點擊了解如何培養美感！"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 7
 image = "aesthetic-consciousness.og.webp"
+
 +++
 
 # 一二三以蔽之
@@ -18,7 +20,7 @@ image = "aesthetic-consciousness.og.webp"
 [![](aesthetic-consciousness.webp)](https://www.amazon.co.jp/%E4%B8%96%E7%95%8C%E3%81%AE%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AF%E3%81%AA%E3%81%9C%E3%80%8C%E7%BE%8E%E6%84%8F%E8%AD%98%E3%80%8D%E3%82%92%E9%8D%9B%E3%81%88%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F%EF%BD%9E%E7%B5%8C%E5%96%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%80%8C%E3%82%A2%E3%83%BC%E3%83%88%E3%80%8D%E3%81%A8%E3%80%8C%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%80%8D%EF%BD%9E-%E5%85%89%E6%96%87%E7%A4%BE%E6%96%B0%E6%9B%B8-%E5%B1%B1%E5%8F%A3-%E5%91%A8-ebook/dp/B073S1RJX2)
 
 # 為什麼我會讀這本書
-這本書是讀書會投票想要看的書。此外[這本書在 Amazon Japan](https://www.amazon.co.jp/%E4%B8%96%E7%95%8C%E3%81%AE%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AF%E3%81%AA%E3%81%9C%E3%80%8C%E7%BE%8E%E6%84%8F%E8%AD%98%E3%80%8D%E3%82%92%E9%8D%9B%E3%81%88%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F%EF%BD%9E%E7%B5%8C%E5%96%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%80%8C%E3%82%A2%E3%83%BC%E3%83%88%E3%80%8D%E3%81%A8%E3%80%8C%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%80%8D%EF%BD%9E-%E5%85%89%E6%96%87%E7%A4%BE%E6%96%B0%E6%9B%B8-%E5%B1%B1%E5%8F%A3-%E5%91%A8-ebook/dp/B073S1RJX2) 的評價也是蠻高的。
+這本書是讀書會投票想要看的書。此外 [這本書在 Amazon Japan](https://www.amazon.co.jp/%E4%B8%96%E7%95%8C%E3%81%AE%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AF%E3%81%AA%E3%81%9C%E3%80%8C%E7%BE%8E%E6%84%8F%E8%AD%98%E3%80%8D%E3%82%92%E9%8D%9B%E3%81%88%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F%EF%BD%9E%E7%B5%8C%E5%96%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%80%8C%E3%82%A2%E3%83%BC%E3%83%88%E3%80%8D%E3%81%A8%E3%80%8C%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%80%8D%EF%BD%9E-%E5%85%89%E6%96%87%E7%A4%BE%E6%96%B0%E6%9B%B8-%E5%B1%B1%E5%8F%A3-%E5%91%A8-ebook/dp/B073S1RJX2) 的評價也是蠻高的。
 
 # 摘錄觀點
 ## 什麼是 VUCA？ {#what-is-vuca}

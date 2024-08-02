@@ -2,19 +2,21 @@
 title = "2023 溫布頓網球現場排票心得"
 date = 2023-07-16
 updated = 2023-07-20
+description = "2023 溫布頓網球公開賽現場排隊心得，包含如何買票、排隊技巧及實際經驗，助你順利觀看世界級比賽。"
 
 [taxonomies]
-categories = ["經驗分享"]
-tags = ["London"]
+categories = [ "經驗分享",]
+tags = [ "england",]
 
 [extra]
 image = "tennis.webp"
+
 +++
 
 ![](tennis.webp)
 <p class="image-caption">Photo by <a href="https://unsplash.com/@ryansearle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ryan Searle</a> on <a href="https://unsplash.com/photos/qjrjJnFypa0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>
 
-溫布頓網球公開賽（Wimbledon Championships）是網球四大公開賽之一。今年夏天在溫布頓讀語言學校剛好有機會在現場一睹網球的魅力。但溫布頓網球公開賽的[網路預售票](https://www.wimbledon.com/en_GB/tickets/the_wimbledon_public_ballot.html)是從**前一年的九月中**就開始了，除非有提前規劃，不然都無法直接買到票。沒有買預售票的情況下，就只能現場排隊購票。
+溫布頓網球公開賽（Wimbledon Championships）是網球四大公開賽之一。今年夏天在溫布頓讀語言學校剛好有機會在現場一睹網球的魅力。但溫布頓網球公開賽的 [網路預售票](https://www.wimbledon.com/en_GB/tickets/the_wimbledon_public_ballot.html) 是從**前一年的九月中**就開始了，除非有提前規劃，不然都無法直接買到票。沒有買預售票的情況下，就只能現場排隊購票。
 
 <!-- more -->
 
@@ -22,7 +24,7 @@ image = "tennis.webp"
 
 在分享正式賽的排隊經驗之前，想特別提在正式比賽開始前，會有數天的資格賽。這時候也是一個很好的機會看台灣球員的比賽。今年就有四位台灣的球員參與資格賽，包含謝淑薇爭取女單正式賽的資格。不過可惜之前在研究溫布頓網球賽時，並沒有特別注意到資格賽，導致來不及購票觀看，所以想特別告訴大家這個資訊。
 
-今年的比賽是在 6/26-29，正式賽的前一週。資格賽地點並不在 Wimbledon，今年是在附近的 [Roehampton](https://goo.gl/maps/BYozadbG9UMbp1JT6) 舉行。門票是從 6/1 就可以在[網站](https://www.wimbledon.com/en_GB/atoz/qualifying.html)上購買。而賽程也可以從[網站](https://www.wimbledon.com/en_GB/scores/schedule/index.html)上觀看。
+今年的比賽是在 6/26-29，正式賽的前一週。資格賽地點並不在 Wimbledon，今年是在附近的 [Roehampton](https://goo.gl/maps/BYozadbG9UMbp1JT6) 舉行。門票是從 6/1 就可以在 [網站](https://www.wimbledon.com/en_GB/atoz/qualifying.html) 上購買。而賽程也可以從 [網站](https://www.wimbledon.com/en_GB/scores/schedule/index.html) 上觀看。
 
 # 正式賽
 
@@ -55,7 +57,7 @@ image = "tennis.webp"
 
 不過需要花時間排隊取得現場票加重售票，且重售票是在三點之後才開始販售，大多數人拿到重售票的時間可能在五點之後，要有花長時間排隊的心理準備。
 
-建議可以觀看今年度的[賽程安排](https://www.wimbledon.com/en_GB/scores/schedule/index.html)來得知每天在各場館大概有什麼等級的比賽。重點可以放在主球場（中央球場、第一、第二球場）和其他球場的概覽。
+建議可以觀看今年度的 [賽程安排](https://www.wimbledon.com/en_GB/scores/schedule/index.html) 來得知每天在各場館大概有什麼等級的比賽。重點可以放在主球場（中央球場、第一、第二球場）和其他球場的概覽。
 
 # 2023 的現場排隊經驗分享
 

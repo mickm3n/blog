@@ -1,14 +1,16 @@
 +++
 title = "《人類大歷史 Sapiens》閱讀筆記：七萬年前就活在 Metaverse 裡"
 date = 2022-06-27
+description = "探索《人類大歷史》的深度洞見：從認知革命到虛構故事，哈拉瑞揭示人類七萬年來如何在共同的信仰中進化與合作，讓你重新認識何謂『現代生活』。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 10
 image = "sapiens.webp"
+
 +++
 
 # 書籍

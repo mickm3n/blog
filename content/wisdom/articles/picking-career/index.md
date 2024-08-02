@@ -1,10 +1,12 @@
 +++
 title = "Chef vs. Cook"
 date = 2024-02-07
+description = "發現 Tim Urban 在職涯選擇上提供新觀點：Chef vs. Cook。根據事情的重要程度來決定處理方式，是突破慣性、反思執行方法的好提醒。詳情請閱讀！"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["career"]
+categories = [ "閱讀筆記",]
+tags = [ "career",]
+
 +++
 
 創作者：[Tim Urban](https://waitbutwhy.com)

@@ -1,10 +1,12 @@
 +++
 title = "Tiago Forte 的專案完成檢查表"
 date = 2023-08-11
+description = "發現 Tiago Forte 的專案完成檢查表，瞭解如何成功封存專案、評估成果及向利害關係人溝通，確保每個專案都能圓滿結束！"
 
 [taxonomies]
-categories = ["範本"]
-tags = ["project"]
+categories = [ "範本",]
+tags = [ "project",]
+
 +++
 
 # 步驟

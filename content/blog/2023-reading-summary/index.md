@@ -1,13 +1,15 @@
 +++
 title = "2023 閱讀總回顧"
 date = 2023-12-29
+description = "2023 年閱讀總回顧，設定目標 12 本，實際完成 18 本，精選推薦書單，快來看我學到的重要知識點和總結！"
 
 [taxonomies]
-categories = ["年度回顧"]
+categories = [ "年度回顧",]
 tags = []
 
 [extra]
 image = "books.webp"
+
 +++
 
 ![](books.webp)

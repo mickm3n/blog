@@ -1,14 +1,16 @@
 +++
 title = "《也許你該找人聊聊 Maybe You Should Talk To Someone》閱讀筆記：心理治療是外掛的覺察機"
 date = 2021-04-05
+description = "《也許你該找人聊聊》是一本融合作者人生經歷與心理學知識的心療旅程，為你提供自我覺察的工具與靈感。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["mental-health"]
+categories = [ "閱讀筆記",]
+tags = [ "mental-health",]
 
 [extra]
 rating = 10
 image = "maybe-you-should-talk-to-someone.jpeg"
+
 +++
 
 # 書籍

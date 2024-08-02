@@ -1,10 +1,12 @@
 +++
 title = "POSIWID"
 date = 2024-06-11
+description = "深入探討 POSIWID 原則：系統的目的就是執行結果。了解如何檢視和改變不公義系統，確保正確結果。觀看 Anil Dash 的見解！"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["politics", "system"]
+categories = [ "閱讀筆記",]
+tags = [ "politics", "system",]
+
 +++
 
 創作者：[Anil Dash](https://www.anildash.com/)

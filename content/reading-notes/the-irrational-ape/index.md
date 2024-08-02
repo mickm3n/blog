@@ -1,14 +1,16 @@
 +++
 title = "《反智 The Irrational Ape》閱讀筆記：打擊假訊息從你我開始"
 date = 2024-07-04
+description = "《反智 The Irrational Ape》解析人類思考弱點，學會批判性思考，打擊假訊息從自己開始。精準摘要快思與慢想系統，共勉認知真相。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 9
 image = "belief-tree.webp"
+
 +++
 
 一二三言以蔽之
@@ -34,7 +36,7 @@ image = "belief-tree.webp"
 謊言操弄了你的快思系統
 -----------
 
-快思系統除了快速反應的優點外，所需要的心智資源也比較低，所以常作為人類的預設模式。而領導這個預設模式的行為則來自於我們從文化及生活中所獲取到的經驗與記憶，以[捷思法（Heuristic）](https://zh.wikipedia.org/zh-tw/%E5%90%AF%E5%8F%91%E6%B3%95)、信念或意識形態的形式，影響潛意識做出自動的選擇。
+快思系統除了快速反應的優點外，所需要的心智資源也比較低，所以常作為人類的預設模式。而領導這個預設模式的行為則來自於我們從文化及生活中所獲取到的經驗與記憶，以 [捷思法（Heuristic）](https://zh.wikipedia.org/zh-tw/%E5%90%AF%E5%8F%91%E6%B3%95)、信念或意識形態的形式，影響潛意識做出自動的選擇。
 
 就像「[腦筋急轉彎 2（Inside Out 2）](https://www.imdb.com/title/tt22022452/)」中所出現的「信念樹」一樣，我們從經驗與情感中選取重要的記憶，逐漸建立我們對世界的認知與反應邏輯。
 
@@ -69,7 +71,7 @@ image = "belief-tree.webp"
 
 在網路資訊快速流通的現代，帶有陰謀論的論述或是操作議題的假訊息就會利用這種易得性偏誤的漏洞，神不知鬼不覺地寫入我們的潛意識中。
 
-書中舉出[俄羅斯消防水喉（Firehose of Falsehood）](https://en.wikipedia.org/wiki/Firehose_of_falsehood)的例子，俄羅斯透過多種管道（如新聞和社交媒體），快速、重複且持續性地播放大量訊息。一則消息可能不容易改變我們的想法，但若同一則消息來自多種管道可能就會使我們建立不正確的「印象」。其內容和邏輯是否有一致性並不重要，而訊息被踢爆造假、被查核也沒關係，只要能在社會中種下紛爭的種子，就已經達到效果。
+書中舉出 [俄羅斯消防水喉（Firehose of Falsehood）](https://en.wikipedia.org/wiki/Firehose_of_falsehood) 的例子，俄羅斯透過多種管道（如新聞和社交媒體），快速、重複且持續性地播放大量訊息。一則消息可能不容易改變我們的想法，但若同一則消息來自多種管道可能就會使我們建立不正確的「印象」。其內容和邏輯是否有一致性並不重要，而訊息被踢爆造假、被查核也沒關係，只要能在社會中種下紛爭的種子，就已經達到效果。
 
 再加上社群平台分眾化行銷的精準投放和利用 AI 生成真假難辨的影像，若不及時培養思辨能力，我們恐將陷入被資訊操縱的急流之中。
 
@@ -78,7 +80,7 @@ image = "belief-tree.webp"
 
 為了避免針對快思系統的攻擊，我們傾向用慢想系統分析資訊，納入更多的證據、數據與邏輯思考，做出更高品質的決策。
 
-在邏輯方面，我們常會使用[演繹法（Deduction）](https://zh.wikipedia.org/zh-tw/%E6%BC%94%E7%BB%8E%E6%8E%A8%E7%90%86)來做推論，當中最有名的就是三段論，由一個大前提（普遍原則）加小前提（特殊事例），進而推導出結論。
+在邏輯方面，我們常會使用 [演繹法（Deduction）](https://zh.wikipedia.org/zh-tw/%E6%BC%94%E7%BB%8E%E6%8E%A8%E7%90%86) 來做推論，當中最有名的就是三段論，由一個大前提（普遍原則）加小前提（特殊事例），進而推導出結論。
 
 > 範例：
 >
@@ -88,7 +90,7 @@ image = "belief-tree.webp"
 >
 > 結論：蘇格拉底不免一死。
 
-從正面舉例看來，這樣的推論很直覺也很簡單。但若帶入有謬誤的例子相對來講就沒有這麼容易辨識。其中。謬誤分為[形式謬誤（Formal Fallacy）](#formal-fallacy)和[非形式謬誤（Informal Fallacy）](#informal-fallacy)。
+從正面舉例看來，這樣的推論很直覺也很簡單。但若帶入有謬誤的例子相對來講就沒有這麼容易辨識。其中。謬誤分為 [形式謬誤（Formal Fallacy）](#formal-fallacy) 和 [非形式謬誤（Informal Fallacy）](#informal-fallacy)。
 
 ### 形式謬誤{#formal-fallacy}
 
@@ -170,11 +172,11 @@ image = "belief-tree.webp"
 
 ### 數據思考的謬誤
 
-除了邏輯外，利用真實的數字做量化也能讓我們更認清事實。其中包含[機率思考（Probabilistic Thinking）](@/wisdom/mental-models/probabilistic-thinking/index.md)與統計學，但我們也必須提防其中可能出現的謬誤。
+除了邏輯外，利用真實的數字做量化也能讓我們更認清事實。其中包含 [機率思考（Probabilistic Thinking）](@/wisdom/mental-models/probabilistic-thinking/index.md) 與統計學，但我們也必須提防其中可能出現的謬誤。
 
 #### 機率思考
 
-除了要納入[貝氏定理（Bayes' Theorem）](@/wisdom/mental-models/probabilistic-thinking/index.md#bayes-theorem)中已知事實機率的考量之外，隨機事件的機率運算也常發生錯誤，最常見的是賭徒謬誤（Gambler's Fallacy）與梅德法則（Meadow's Law）。
+除了要納入 [貝氏定理（Bayes' Theorem）](@/wisdom/mental-models/probabilistic-thinking/index.md#bayes-theorem) 中已知事實機率的考量之外，隨機事件的機率運算也常發生錯誤，最常見的是賭徒謬誤（Gambler's Fallacy）與梅德法則（Meadow's Law）。
 
 **賭徒謬誤**指的是人類擅長從世界中找到規律，但在很多賭博性遊戲每次的結果都是獨立事件。但賭徒會嘗試從中歸納出模式，對於隨機事件發生的機率做出錯誤的評估。
 
@@ -199,7 +201,7 @@ image = "belief-tree.webp"
 額外還有什麼可以努力的事嗎？
 --------------
 
-除了自發性的學習及運用批判性思考做資訊的判讀外，身在高度連結的社會，錯誤資訊的傳播強度，加上演算法滿足了人類避免認知失調而趨向[確認偏誤（Confirmation Bias）](https://zh.wikipedia.org/zh-tw/%E7%A2%BA%E8%AA%8D%E5%81%8F%E8%AA%A4)的傾向，會使得群體逐漸分化，各自處在同溫層裡，接收與自己信念或意識形態相符的資訊，增加極端化團體出現的風險。唯把能辨識真偽、客觀看待事實的中間族群擴大，我們才能擁有更健康與共榮的社會。
+除了自發性的學習及運用批判性思考做資訊的判讀外，身在高度連結的社會，錯誤資訊的傳播強度，加上演算法滿足了人類避免認知失調而趨向 [確認偏誤（Confirmation Bias）](https://zh.wikipedia.org/zh-tw/%E7%A2%BA%E8%AA%8D%E5%81%8F%E8%AA%A4) 的傾向，會使得群體逐漸分化，各自處在同溫層裡，接收與自己信念或意識形態相符的資訊，增加極端化團體出現的風險。唯把能辨識真偽、客觀看待事實的中間族群擴大，我們才能擁有更健康與共榮的社會。
 
 如果行有餘力的話還可以做以下的這些事情：
 
@@ -213,9 +215,9 @@ image = "belief-tree.webp"
 
 #### 平衡聲量
 
-在[《衛報》針對網站評論的分析](https://scholarlykitchen.sspnet.org/2013/01/04/the-guardian-reveals-an-important-truth-about-article-comments/)中提到，「在七千萬讀者當中，最多只有 0.7％ 的讀者會留言評論。每個月六十萬則留言當中，有 17％ 是每月至少留言四千則的人貼上的，只占《衛報》讀者人數的 0.0037％。」如同大部分的社群網站，網路的聲量來自於少數的人群，且論述的聲量也不代表正確性。
+在 [《衛報》針對網站評論的分析](https://scholarlykitchen.sspnet.org/2013/01/04/the-guardian-reveals-an-important-truth-about-article-comments/) 中提到，「在七千萬讀者當中，最多只有 0.7％ 的讀者會留言評論。每個月六十萬則留言當中，有 17％ 是每月至少留言四千則的人貼上的，只占《衛報》讀者人數的 0.0037％。」如同大部分的社群網站，網路的聲量來自於少數的人群，且論述的聲量也不代表正確性。
 
-要想辦法讓關乎事實的討論聲量提高，可以試著為自己所在意的事情發聲、也可以檢舉錯誤資訊讓平台減少曝光或是貢獻類似 [Community Notes](https://help.x.com/en/using-x/community-notes) 或是[事實查核](https://cofacts.tw/)。認同書中作者所說：「我們不需要翻轉整個世界，只需要把話題轉向證據和理由即可。」
+要想辦法讓關乎事實的討論聲量提高，可以試著為自己所在意的事情發聲、也可以檢舉錯誤資訊讓平台減少曝光或是貢獻類似 [Community Notes](https://help.x.com/en/using-x/community-notes) 或是 [事實查核](https://cofacts.tw/)。認同書中作者所說：「我們不需要翻轉整個世界，只需要把話題轉向證據和理由即可。」
 
 讀後感
 ===

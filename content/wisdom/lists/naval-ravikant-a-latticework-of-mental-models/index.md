@@ -1,10 +1,12 @@
 +++
 title = "Naval Ravikant 的多元思維模型清單"
 date = 2023-10-31
+description = "探索 Naval Ravikant 的多元思維模型：演化論、反演法、複雜理論、經濟學、賽局理論、心裡學及更多，助你提升思考深度！"
 
 [taxonomies]
-categories = ["清單"]
+categories = [ "清單",]
 tags = []
+
 +++
 
 -   演化論

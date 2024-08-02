@@ -1,10 +1,12 @@
 +++
 title = "正念減壓（Mindfulness-Based Stress Reduction）八週實體課程心得"
 date = 2023-04-10
+description = "探索正念減壓八週實體課程心得，全面理解正念概念、群體學習體驗與主動提問的重要性，讓你在忙碌生活中掌握平靜與自由。"
 
 [taxonomies]
-categories = ["心得"]
-tags = ["mindfulness", "meditation"]
+categories = [ "心得",]
+tags = [ "mindfulness", "meditation",]
+
 +++
 
 # 什麼是正念？

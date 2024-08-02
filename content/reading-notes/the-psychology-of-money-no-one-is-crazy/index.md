@@ -2,14 +2,16 @@
 title = "《致富心態 The Psychology Of Money》閱讀筆記：沒人是瘋子"
 date = 2021-02-10
 updated = 2021-02-21
+description = "透過《致富心態》這本書，了解在投資過程中沒有人是瘋子，每個行為背後都有其合理性，學會在理性與合理之間找到最佳的平衡，並養成留有現金水位的習慣。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 8
 image = "the-psychology-of-money.jpg"
+
 +++
 
 # 書籍

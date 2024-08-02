@@ -2,6 +2,7 @@
 title = "2024 巴黎奧運台灣隊賽程 Google 行事曆"
 date = 2024-07-28
 updated = 2024-07-30
+description = "了解如何訂閱 2024 巴黎奧運台灣隊的賽程行事曆，隨時掌握最新賽事資訊，輕鬆支持台灣選手！"
 
 [taxonomies]
 categories = []
@@ -9,6 +10,7 @@ tags = []
 
 [extra]
 image = "google-calendar-event.webp"
+
 +++
 
 # 台灣隊奧運賽程
@@ -35,7 +37,7 @@ image = "google-calendar-event.webp"
 
 ## 加到 Google 行事曆
 
-如果你是用 Google 行事曆，你可以直接點擊[這個連結](https://calendar.google.com/calendar/u/0?cid=NWRkM2Q0Njk3N2NlZjY4ZTZjOTc1NTk1YTlkMWQwYzBjMzEwNTE5NDU1ZGQ0ZWMyZDY2MDFjYjdiOGY2ZDc3OUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)，會跳出你是否要把這個行事曆加到你的 Google 行事曆中的詢問，只要確認後就完成訂閱。
+如果你是用 Google 行事曆，你可以直接點擊 [這個連結](https://calendar.google.com/calendar/u/0?cid=NWRkM2Q0Njk3N2NlZjY4ZTZjOTc1NTk1YTlkMWQwYzBjMzEwNTE5NDU1ZGQ0ZWMyZDY2MDFjYjdiOGY2ZDc3OUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)，會跳出你是否要把這個行事曆加到你的 Google 行事曆中的詢問，只要確認後就完成訂閱。
 
 ![](google-subscribe.webp)
 
@@ -60,7 +62,7 @@ https://calendar.google.com/calendar/ical/5dd3d46977cef68e6c975595a9d1d0c0c31051
 {{ image(path="iphone-calendar.webp", height=800) }}
 2. 點選 **Add Subscription Calendar**。
 {{ image(path="iphone-add-subscription-calendar.webp", height=360) }}
-3. 在[本頁 iCalendar 檔的程式碼區塊](#macbook-calendar)按下 **Copy**。
+3. 在 [本頁 iCalendar 檔的程式碼區塊](#macbook-calendar) 按下 **Copy**。
 {{ image(path="copy-ics.webp", height=600) }}
 4. 貼在 SUBSCRIPTION URL 點選 **Subscribe** 即完成訂閱！
 {{ image(path="iphone-subscribe.webp", height=480) }}
@@ -72,9 +74,9 @@ https://calendar.google.com/calendar/ical/5dd3d46977cef68e6c975595a9d1d0c0c31051
 ![](separated-calendars.webp)
 <p class="image-caption">網站截圖</p>
 
-昨天分享這個行事曆時，女友的朋友提到有其他[提供奧運賽程的行事曆的網站](https://fabrice404.github.io/olympics-calendar/)。發現是用蠻類似的作法，也是從官方網站抓取賽程。不同的是，他會根據比賽項目和國家分別產生不同的 iCalendar 檔案（.ics），如果你要訂閱個別比賽項目或國家就很合適，我自己也用了這個網站訂閱了日本排球、籃球和美國籃球的行事曆。
+昨天分享這個行事曆時，女友的朋友提到有其他 [提供奧運賽程的行事曆的網站](https://fabrice404.github.io/olympics-calendar/)。發現是用蠻類似的作法，也是從官方網站抓取賽程。不同的是，他會根據比賽項目和國家分別產生不同的 iCalendar 檔案（.ics），如果你要訂閱個別比賽項目或國家就很合適，我自己也用了這個網站訂閱了日本排球、籃球和美國籃球的行事曆。
 
-網站最上面有提供如何使用的描述，跟上述[加到其他行事曆](#add-to-other-calendar)的步驟類似，要注意是要點擊右鍵複製連結，如果點擊左鍵會直接下載 iCalendar 檔案（.ics），直接匯入那個檔案的話只能把 iCalendar 檔案裡面目前的比賽匯入行事曆，沒辦法拿到後續更新的內容。
+網站最上面有提供如何使用的描述，跟上述 [加到其他行事曆](#add-to-other-calendar) 的步驟類似，要注意是要點擊右鍵複製連結，如果點擊左鍵會直接下載 iCalendar 檔案（.ics），直接匯入那個檔案的話只能把 iCalendar 檔案裡面目前的比賽匯入行事曆，沒辦法拿到後續更新的內容。
 
 預祝大家瘋奧運順利！
 

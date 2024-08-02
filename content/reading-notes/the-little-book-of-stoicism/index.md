@@ -1,14 +1,16 @@
 +++
 title = "《斯多葛生活哲學 55 個練習 The Little Book Of Stoicism》閱讀筆記：幸福之路"
 date = 2023-03-24
+description = "探索《斯多葛生活哲學 55 個練習》中的古希臘智慧，學習如何在現代生活中追求幸福與情緒復原力。讀來了解斯多葛幸福三角的美德。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["philosophy"]
+categories = [ "閱讀筆記",]
+tags = [ "philosophy",]
 
 [extra]
 rating = 9
 image = "the-little-book-of-stoicism-timeless-wisdom-to-gain-resilience-confidence-and-calmness.webp"
+
 +++
 
 # 一二三言以蔽之
@@ -78,7 +80,7 @@ image = "the-little-book-of-stoicism-timeless-wisdom-to-gain-resilience-confiden
 
 ## 斯多葛的錦囊妙計 {#mental-hints}
 
-本書提供了斯多葛主義的 55 個心法，讓我們在生活中可以加以運用。其中最說服我的概念是，將價值觀用自己的語言簡單寫下後，就更有機會在需要的時候可以從腦中提取回來。某種程度應該也類似 Ray Dalio 的[原則 Principles](@/reading-notes/principles/index.md)。
+本書提供了斯多葛主義的 55 個心法，讓我們在生活中可以加以運用。其中最說服我的概念是，將價值觀用自己的語言簡單寫下後，就更有機會在需要的時候可以從腦中提取回來。某種程度應該也類似 Ray Dalio 的 [原則 Principles](@/reading-notes/principles/index.md)。
 
 以下列出我消化此書之後整理出的心法，不會詳述其內容，純粹當作個人的價值觀記錄與重點提醒，不過如果有想要延伸的話題也歡迎跟我聊聊。也建議自己閱讀以挑選能說服你的價值觀。
 

@@ -1,14 +1,16 @@
 +++
 title = "《人類大命運 Homo Deus》閱讀筆記：信仰指引著未來的方向"
 date = 2022-07-31
+description = "《人類大命運 Homo Deus》閱讀筆記：探討信仰如何引領人類未來，從宗教到科技人文主義，每種信仰皆在生活中展現其影響力。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 10
 image = "homodeus.webp"
+
 +++
 
 # 書籍

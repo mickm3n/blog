@@ -1,13 +1,15 @@
 +++
 title = "我的工具盒：筆記軟體 Roam Research"
 date = 2024-02-06
+description = "探索 Roam Research 這款筆記軟體的優點，如低摩擦輸入、反向連結、多裝置同步等，發現其如何為廣泛筆記搜集與管理創造價值。"
 
 [taxonomies]
-categories = ["生產力工具"]
-tags = ["tool-for-thought", "roam-research"]
+categories = [ "生產力工具",]
+tags = [ "tool-for-thought", "roam-research",]
 
 [extra]
 image = "vision.webp"
+
 +++
 
 ![](vision.webp)
@@ -18,7 +20,7 @@ image = "vision.webp"
 
 * **適合廣泛搜集筆記，延後處理**：低摩擦的輸入，可以先產生大量的反向連結，等到想統整該主題的時候再來整理。我最大的興趣是廣泛地閱讀不同主題的書籍，透過這樣的方法，可以在寫筆記時不用考慮太多，最後會在累計大量筆記後，用之間的連結創造出更多價值。
 
-* **用 SmartBlocks 編寫 Low-code、多功能的模板**：[SmartBlocks](https://github.com/RoamJS/smartblocks/blob/main/docs/050-command-reference/index.md)提供蠻多功能讓使用者可以創建更有彈性的模板，例如「附帶番茄鐘的自由書寫模板」、「直接擁有隔日連結的每日日記模板」等等。
+* **用 SmartBlocks 編寫 Low-code、多功能的模板**：[SmartBlocks](https://github.com/RoamJS/smartblocks/blob/main/docs/050-command-reference/index.md) 提供蠻多功能讓使用者可以創建更有彈性的模板，例如「附帶番茄鐘的自由書寫模板」、「直接擁有隔日連結的每日日記模板」等等。
 
 * **以標題作為筆記的唯一識別**：唯一識別是指同樣的標題只會有一個筆記，不會有重複的筆記用一樣的標題。這樣在筆記過程中做鏈結就能找到唯一的代表筆記，當不小心創造類似的筆記，Roam Research 也提供只要更改成同樣的筆記標題就能合併兩個筆記，包括所有相關的反向連結。如果同一個標題在不同領域想分成不同比筆記，我則會用 Namespace 把兩者隔開。
 

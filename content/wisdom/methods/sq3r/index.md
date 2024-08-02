@@ -1,10 +1,12 @@
 +++
 title = "主動式閱讀：SQ3R Method"
 date = 2024-07-22
+description = "學習主動式閱讀，掌握 SQ3R 五個步驟：Survey、Question、Read、Retrieve、Review，提升你的閱讀理解和記憶。點擊了解更多！"
 
 [taxonomies]
-categories = ["方法"]
-tags = ["reading"]
+categories = [ "方法",]
+tags = [ "reading",]
+
 +++
 
 創作者：Francis Robinson

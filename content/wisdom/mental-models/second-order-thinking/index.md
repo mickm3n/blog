@@ -1,13 +1,15 @@
 +++
 title = "二階思考 Second-order Thinking"
 date = 2024-02-23
+description = "深入探討二階思考，強調在決策過程中考慮長期及間接影響，避免掉入非意圖結果定律。了解在複雜系統中的應用與風險。"
 
 [taxonomies]
-categories = ["思維模型"]
+categories = [ "思維模型",]
 tags = []
 
 [extra]
 image = "second-order-thinking.webp"
+
 +++
 
 # 目的

@@ -1,13 +1,15 @@
 +++
 title = "地圖不等於疆界 Map is not Territory"
 date = 2024-02-23
+description = "避免過於依賴模型而忽略現實，正確認識地圖與疆界的差異性是關鍵。探索更有效的決策方法，避免分析癱瘓，發揮模型正確的輔助作用。"
 
 [taxonomies]
-categories = ["思維模型"]
+categories = [ "思維模型",]
 tags = []
 
 [extra]
 image = "map-is-not-terrotory.webp"
+
 +++
 
 # 目的

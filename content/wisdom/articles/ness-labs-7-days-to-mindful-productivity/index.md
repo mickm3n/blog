@@ -1,10 +1,12 @@
 +++
 title = "Ness Labs's Mindful Productivity"
 date = 2023-12-04
+description = "探索 Ness Labs 的正念生產力，每天小小概念涵蓋持續力設計、良性壓力、筆記增進、週回顧與心理健康，助您全面提升效能！"
 
 [taxonomies]
 categories = []
-tags = ["productivity", "mindfulness"]
+tags = [ "productivity", "mindfulness",]
+
 +++
 
 上週訂閱 Ness Labs 為期七天的日報，每天都會有小小的概念，覺得蠻不錯的

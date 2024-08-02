@@ -2,14 +2,16 @@
 title = "《快樂實現自主富有 The Almanack of Naval Ravikant》閱讀筆記：實踐個人槓桿"
 date = 2023-10-18
 updated = 2023-10-31
+description = "《快樂實現自主富有 The Almanack of Naval Ravikant》閱讀筆記，探討個人槓桿、智慧、判斷力和長期複利效果，助你實現財富與自由的秘訣。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 10
 image = "og-image.webp"
+
 +++
 
 一二三言以蔽之
@@ -30,7 +32,7 @@ image = "og-image.webp"
 摘錄觀點
 ====
 
-本書的英文書名是《The Almanack of Naval Ravikant》，像是致敬班傑明富蘭克林 Benjamin Franklin 的《Poor Richard's Almanack》和查理蒙格 Charles T. Munger 的《Poor Charlie's Almanack》，內容包含其作者大量不同領域的思想。這類型的書籍，或許是英雄所見略同，會有蠻多重複的理念和想法，我只挑選我比較喜歡的摘錄。在最後附上 [Naval 的人生公式](#life-formula)與[人生原則](#life-principles)。如果最後看了人生公式和人生原則有感興趣的地方，建議可以直接閱讀此書。
+本書的英文書名是《The Almanack of Naval Ravikant》，像是致敬班傑明富蘭克林 Benjamin Franklin 的《Poor Richard's Almanack》和查理蒙格 Charles T. Munger 的《Poor Charlie's Almanack》，內容包含其作者大量不同領域的思想。這類型的書籍，或許是英雄所見略同，會有蠻多重複的理念和想法，我只挑選我比較喜歡的摘錄。在最後附上 [Naval 的人生公式](#life-formula) 與 [人生原則](#life-principles)。如果最後看了人生公式和人生原則有感興趣的地方，建議可以直接閱讀此書。
 
 新型態的槓桿
 ------
@@ -72,7 +74,7 @@ image = "og-image.webp"
 ----
 ![](want-all.webp)
 
-我們通常覺得隨著年紀的增長，我們會有更好的經濟條件，就能擁有更多的東西。但隨著工業革命、資訊革命後，人類的生產力大量提升。相較於匱乏，現代生活常常是過載的。如[《打造第二大腦 Building A Second Brain》](@/reading-notes/building-a-second-brain/index.md)所提到，我們應該改用[豐足心態](@/reading-notes/building-a-second-brain/index.md#abundance-mindset)去面對新的世界，只取自己所需的部分。
+我們通常覺得隨著年紀的增長，我們會有更好的經濟條件，就能擁有更多的東西。但隨著工業革命、資訊革命後，人類的生產力大量提升。相較於匱乏，現代生活常常是過載的。如 [《打造第二大腦 Building A Second Brain》](@/reading-notes/building-a-second-brain/index.md) 所提到，我們應該改用 [豐足心態](@/reading-notes/building-a-second-brain/index.md#abundance-mindset) 去面對新的世界，只取自己所需的部分。
 
 在目標上也是，我們應該去慎選少數對自己真正重要的事，而不該被社會的傳統智慧鎖上枷鎖或是被慾望帶領失去思考。
 
@@ -130,7 +132,7 @@ Naval Ravikant 的人生公式 {#life-formula}
 Naval Ravikant 的人生原則 {#life-principles}
 -------------------
 
-如[《斯多葛生活哲學 55 個練習 The Little Book of Stoicism》](@/reading-notes/the-little-book-of-stoicism/index.md)的[斯多葛的錦囊妙計](@/reading-notes/the-little-book-of-stoicism/index.md#mental-hints)和 Ray Dalio 的[《原則 Principles》](@/reading-notes/principles/index.md)一樣的概念：記錄下對你人生重要的金句與原則，可以在關鍵時刻從腦袋的錦囊中取出做出正確的抉擇。
+如 [《斯多葛生活哲學 55 個練習 The Little Book of Stoicism》](@/reading-notes/the-little-book-of-stoicism/index.md) 的 [斯多葛的錦囊妙計](@/reading-notes/the-little-book-of-stoicism/index.md#mental-hints) 和 Ray Dalio 的 [《原則 Principles》](@/reading-notes/principles/index.md) 一樣的概念：記錄下對你人生重要的金句與原則，可以在關鍵時刻從腦袋的錦囊中取出做出正確的抉擇。
 
 > -   活在當下比什麼都重要。
 > -   欲望即是痛苦。（佛陀）

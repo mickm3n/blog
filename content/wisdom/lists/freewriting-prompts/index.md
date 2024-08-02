@@ -1,10 +1,11 @@
 +++
 title = "輔助自由書寫的引導句"
 date = 2023-12-05
+description = "發現令人創意無限的引導句，助你克服萬事起頭難，快速進入自由書寫的狀態。"
 
 [taxonomies]
-categories = ["清單"]
-tags = []
+categories = [ "清單",]
+tags = ["writing"]
 
 +++
 

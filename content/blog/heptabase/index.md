@@ -1,13 +1,15 @@
 +++
 title = "我的工具盒：筆記軟體 Heptabase"
 date = 2024-02-06
+description = "探索 Heptabase 筆記軟體的強大功能和獨特魅力，讓你高效思考、分類筆記及視覺化！了解更多開發進展與實用場景！"
 
 [taxonomies]
-categories = ["生產力工具"]
-tags = ["tool-for-thought", "heptabase"]
+categories = [ "生產力工具",]
+tags = [ "tool-for-thought", "heptabase",]
 
 [extra]
 image = "vision.webp"
+
 +++
 
 ![](vision.webp)

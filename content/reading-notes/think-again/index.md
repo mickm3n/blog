@@ -1,14 +1,16 @@
 +++
 title = "《逆思維 Think Again》閱讀筆記：當變化越快，你更要停下來，重新思考。"
 date = 2022-11-16
+description = "《逆思維 Think Again》閱讀筆記：重新思考的力量在變化迅速的世界中至關重要，打破固有信念，適應新環境，開放心態是成功關鍵。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 10
 image = "think-again.webp"
+
 +++
 
 # 一二三言以蔽之

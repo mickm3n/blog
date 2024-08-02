@@ -1,14 +1,16 @@
 +++
 title = "《23 對染色體 Genome》閱讀筆記：從生物的角度認識自己"
 date = 2023-11-16
+description = "透過《23 對染色體 Genome》，深入理解生命的奧秘，探討基因組與自我認知之間的關聯，解開基因對個性和行為的影響。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 9
 image = "og-image.webp"
+
 +++
 
 一二三言以蔽之
@@ -23,7 +25,7 @@ image = "og-image.webp"
 為什麼我會讀這本書
 =========
 
-在拜讀完[《窮查理的普遍常識 Poor Charlie's Almanack》](@/reading-notes/poor-charlies-almanack/index.md)和[《快樂實現自主富有 The Almanack of Naval Ravikant》](@/reading-notes/the-almanack-of-naval-ravikant/index.md)後，發現兩人都很推薦 Matt Ridley 的這本書，也選做我跨領域知識的第一站。
+在拜讀完 [《窮查理的普遍常識 Poor Charlie's Almanack》](@/reading-notes/poor-charlies-almanack/index.md) 和 [《快樂實現自主富有 The Almanack of Naval Ravikant》](@/reading-notes/the-almanack-of-naval-ravikant/index.md) 後，發現兩人都很推薦 Matt Ridley 的這本書，也選做我跨領域知識的第一站。
 
 摘錄觀點
 ====
@@ -78,7 +80,7 @@ image = "og-image.webp"
 精準醫療
 ----
 
-在閱讀這本書之後也很感興趣近期相關的發展。在人們對於基因定序的需求逐漸增強下，近年也發展了次世代定序 Next Generation Sequence，可以大幅縮短基因定序的時間與成本，甚至[衛福部也在討論將次世代基因定序在 2024 年納入健保](https://www.mohw.gov.tw/cp-5013-58378-1.html)。未來在對癌症的治療與投藥的選擇上，除了參考家族病史外，可以利用基因的資訊，精準地選擇合適的藥物和治療方法。
+在閱讀這本書之後也很感興趣近期相關的發展。在人們對於基因定序的需求逐漸增強下，近年也發展了次世代定序 Next Generation Sequence，可以大幅縮短基因定序的時間與成本，甚至 [衛福部也在討論將次世代基因定序在 2024 年納入健保](https://www.mohw.gov.tw/cp-5013-58378-1.html)。未來在對癌症的治療與投藥的選擇上，除了參考家族病史外，可以利用基因的資訊，精準地選擇合適的藥物和治療方法。
 
 但由於基因的多效性與多元性，大部分的遺傳疾病其實都是多基因加上環境飲食等因子交互影響所致，這些複雜度在未來還需要投入更多資訊去分析。
 

@@ -1,13 +1,15 @@
 +++
 title = "2023 年度回顧：裸辭、英國語言學校、自我對話"
 date = "2023-12-30"
+description = "回顧 2023 年，我勇敢地選擇裸辭、在英國學習語言，並通過自我對話提升自己。點擊了解我如何應對挑戰並展望 2024！"
 
 [taxonomies]
-categories = ["年度回顧"]
+categories = [ "年度回顧",]
 tags = []
 
 [extra]
 image = "wheel-of-life.webp"
+
 +++
 
 年度回顧的意義？
@@ -49,7 +51,7 @@ image = "wheel-of-life.webp"
 今年新增的項目
 -------
 
-在今年年末的時候，讀了 NESS LABS 的 [Year in Review](https://nesslabs.com/year-in-reviewbs.com/year-in-review)，提供了一個供年度回顧的範本。基本上透過把生活切分成九個面向和三個問題，可以分開檢視自己「各個面向做得如何，是不是有某個面相特別缺乏」，像是[生命之輪 Wheel of Life](https://wheeloflife.noomii.com/) 的概念。
+在今年年末的時候，讀了 NESS LABS 的 [Year in Review](https://nesslabs.com/year-in-reviewbs.com/year-in-review)，提供了一個供年度回顧的範本。基本上透過把生活切分成九個面向和三個問題，可以分開檢視自己「各個面向做得如何，是不是有某個面相特別缺乏」，像是 [生命之輪 Wheel of Life](https://wheeloflife.noomii.com/) 的概念。
 
 ![](wheel-of-life.webp)
 
@@ -93,14 +95,14 @@ Personal Life & Family
 Learning & Knowledge
 --------------------
 
-閱讀一直是我學習的第一選擇，可以參考我的 [2023 閱讀總回顧](@/blog/2023-reading-summary/index.md)看看我今年最推薦的五本書。今年也投入更多時間在學習，從生成式 AI、英國語言學校、投資、Rust 到區塊鏈。但我學習的問題一直都出在實踐的力道不夠，期望自己在 2024 可以有更多實踐和實驗的行動。
+閱讀一直是我學習的第一選擇，可以參考我的 [2023 閱讀總回顧](@/blog/2023-reading-summary/index.md) 看看我今年最推薦的五本書。今年也投入更多時間在學習，從生成式 AI、英國語言學校、投資、Rust 到區塊鏈。但我學習的問題一直都出在實踐的力道不夠，期望自己在 2024 可以有更多實踐和實驗的行動。
 
 Travel & Culture
 ----------------
 
 去年有個比較大的感觸，發現自己不太在意出國「玩樂」，而是希望能得到更多文化接觸，或是與對自己重要的人去旅遊比較重要。希望做更多有意識的旅行，而不是跟風的旅行。
 
-今年覺得最棒的是去花蓮[多羅滿](https://www.turumoan.com.tw/tw/plan_list.php)由廖鴻基老師領團的賞鯨團，運氣很好有海豚跟船產生的水流一起前行，真的好可愛。
+今年覺得最棒的是去花蓮 [多羅滿](https://www.turumoan.com.tw/tw/plan_list.php) 由廖鴻基老師領團的賞鯨團，運氣很好有海豚跟船產生的水流一起前行，真的好可愛。
 
 {{ youtube(id="Fcmzja4vY1g") }}
 
@@ -116,7 +118,7 @@ Hobbies & Creativity
 Emotions & Spirituality
 -----------------------
 
-年初上了正念課程後，發覺自己的情緒相較於其他人原本就比較平靜，但還是很享受這樣的練習。但隨著出國等生活上的改變，伴隨回國後對時間運用的焦慮，好像沒辦法好好靜下心來冥想，對於自己有點迷茫，冥想時也很多雜念。年末有試著改變計劃，偶爾換地點工作，嘗試比較有方法論的探索自我，例如：認真做完 Tim Urban 的[The Yearning Octopus](https://waitbutwhy.com/2018/04/picking-career.html)，在年末有漸漸拾回自己的節奏和能量。
+年初上了正念課程後，發覺自己的情緒相較於其他人原本就比較平靜，但還是很享受這樣的練習。但隨著出國等生活上的改變，伴隨回國後對時間運用的焦慮，好像沒辦法好好靜下心來冥想，對於自己有點迷茫，冥想時也很多雜念。年末有試著改變計劃，偶爾換地點工作，嘗試比較有方法論的探索自我，例如：認真做完 Tim Urban 的 [The Yearning Octopus](https://waitbutwhy.com/2018/04/picking-career.html)，在年末有漸漸拾回自己的節奏和能量。
 
 Money & Finances
 ----------------

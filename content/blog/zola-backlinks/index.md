@@ -1,13 +1,15 @@
 +++
 title = "幫文章加上了 Backlinks！"
 date = 2023-05-18
+description = "發現 Roam Research 使用 Backlinks 功能，提升筆記搜尋效率。學習如何在 Zola 部落格中集成 Backlinks，提升資訊可視性！"
 
 [taxonomies]
-categories = ["網站開發記錄"]
-tags = ["zola"]
+categories = [ "網站開發記錄",]
+tags = [ "zola",]
 
 [extra]
 image = "zola-backlinks.webp"
+
 +++
 
 # Backlinks 的意義
@@ -22,7 +24,7 @@ image = "zola-backlinks.webp"
 目前最喜歡的 Backlinks 顯示方式還是 Roam Research 的樣子，雖然 Outlining 的架構在寫筆記上看似有點死板，但可以利用層級的關係保留一些上下文的關聯性，在呈現 Backlinks 的時候也能直接取得相關的資訊，在綜覽資訊上相當便利。
 
 # Zola Backlinks
-雖然 Zola 只做到單篇文章的 Backlinks，沒辦法呈現連結的其他資訊，但覺得可以嘗試看看這個功能，希望在文章越來越多的情況下，會產生出新的價值。在觀看 Pin 起來的[部落格加上了 Backlinks 的功能](https://pinchlime.com/blog/supported-backlinks/)的介紹後，在新增這個功能的過程中沒有遇到問題，最關鍵就是站內連結的方式要用 zola 文件裡 [internal links 的方式](https://www.getzola.org/documentation/content/linking/#internal-links)。
+雖然 Zola 只做到單篇文章的 Backlinks，沒辦法呈現連結的其他資訊，但覺得可以嘗試看看這個功能，希望在文章越來越多的情況下，會產生出新的價值。在觀看 Pin 起來的 [部落格加上了 Backlinks 的功能](https://pinchlime.com/blog/supported-backlinks/) 的介紹後，在新增這個功能的過程中沒有遇到問題，最關鍵就是站內連結的方式要用 zola 文件裡 [internal links 的方式](https://www.getzola.org/documentation/content/linking/#internal-links)。
 
 目前做完的長相會是這樣。
 

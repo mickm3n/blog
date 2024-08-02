@@ -1,10 +1,12 @@
 +++
 title = "讓部落格更好的微特性"
 date = 2024-07-17
+description = "探索如何讓你的部落格更精彩！從 Sidenotes 到可追溯程式碼片段，這些微特性讓你的網站更吸引人、易於導航。了解更多→"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["blog"]
+categories = [ "閱讀筆記",]
+tags = [ "blog",]
+
 +++
 
 創作者：[Daniel](https://danilafe.com/about/)

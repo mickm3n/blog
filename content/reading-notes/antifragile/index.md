@@ -1,14 +1,16 @@
 +++
 title = "《反脆弱 Antifragile》閱讀筆記：凡殺不死我的必使我更強大"
 date = 2022-05-08
+description = "探索《反脆弱 Antifragile》如何在不確定性中獲得強化，了解脆弱、強固及反脆弱的本質，並學習應對黑天鵝事件的策略。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 8
 image = "antifragile.webp"
+
 +++
 
 # 書籍

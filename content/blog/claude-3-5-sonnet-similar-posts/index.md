@@ -1,13 +1,15 @@
 +++
 title = "與 Claude 3.5 Sonnet 協作開發「相似文章推薦」"
 date = 2024-07-25
+description = "與 Claude 3.5 Sonnet 協作，利用 OpenAI 的 Embeddings API 開發相似文章推薦，精確推送讀者最具關聯性的內容。探索 AI 助力開發的全新可能！"
 
 [taxonomies]
-categories = ["經驗分享"]
-tags = ["generative-ai"]
+categories = [ "經驗分享",]
+tags = [ "generative-ai",]
 
 [extra]
 image = "og-image.webp"
+
 +++
 
 # 動機

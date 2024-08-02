@@ -2,7 +2,9 @@
 title = "關於"
 date = 2023-04-13
 updated = 2023-04-13
-authors = ["Mick Zhuang"]
+authors = [ "Mick Zhuang",]
+description = "嗨，我是 Mick Zhuang，一位專注於後端與雲端技術的台灣軟體工程師。我推廣閱讀心得，分享從書中獲得的智慧與價值觀，邀請你一同來探索與討論！"
+
 +++
 
 ## 關於我

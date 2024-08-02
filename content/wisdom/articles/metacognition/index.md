@@ -1,10 +1,12 @@
 +++
 title = "Conditional Knowledge"
 date = 2024-02-17
+description = "探索後設認知中的 Conditional Knowledge，學習何時選擇最合適的思維模型。點擊了解如何在適時使用正確的方法，提升思考效能。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["mental-model", "metacognition"]
+categories = [ "閱讀筆記",]
+tags = [ "mental-model", "metacognition",]
+
 +++
 
 創作者：[Ness Labs](https://nesslabs.com/)

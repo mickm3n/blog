@@ -1,14 +1,16 @@
 +++
 title = "《How To Take Smart Notes》閱讀筆記"
 date = 2020-09-13
+description = "《How To Take Smart Notes》閱讀筆記：探索 Slip-box 筆記法，連結筆記如網路般儲存，提高學習與創作效率。了解更多 Obsidian 和 Roam Research 工具。閱讀更多，提升筆記技巧！"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["note-making"]
+categories = [ "閱讀筆記",]
+tags = [ "note-taking",]
 
 [extra]
 rating = 9
 image = "how-to-take-smart-notes.jpg"
+
 +++
 
 # 書籍
@@ -49,4 +51,3 @@ Scrapbox 有用幾天，其實沒感覺到什麼缺點。目前是嘗試 Roam Re
 
 # 後記
 大概用了快一個月，發現做筆記的方式還沒有辦法很成功轉換成關聯的方式，而且目前筆記的數量也還很少。如果之後有什麼突破性的發展的時候再跟大家分享。
-

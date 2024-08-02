@@ -1,14 +1,16 @@
 +++
 title = "《給予 Give and Take》閱讀筆記：施比受更有福"
 date = 2023-11-26
+description = "《給予 Give and Take》閱讀筆記：了解如何成為利他者并在長期賽局中獲得成功，探索給予行為對個人和社會的積極影響。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 9
 image = "og-image.webp"
+
 +++
 
 一二三言以蔽之
@@ -47,7 +49,7 @@ image = "og-image.webp"
 
 **給予者**：重視團體利益大於個人，願意犧牲自己成就他人，容易被利用。
 
-根據[一篇對 Adam Grant 的訪問](https://thinkers50.com/blog/give-take-interview-adam-grant/)，一般而言，組織內的互利者是最多的，大概佔 55~60%，其餘索取者與給予者各佔了一半。可以透過[這個測試](https://adamgrant.net/quizzes/give-and-take-quiz/)來知道自己在各個角色的比例各是多少。
+根據 [一篇對 Adam Grant 的訪問](https://thinkers50.com/blog/give-take-interview-adam-grant/)，一般而言，組織內的互利者是最多的，大概佔 55~60%，其餘索取者與給予者各佔了一半。可以透過 [這個測試](https://adamgrant.net/quizzes/give-and-take-quiz/) 來知道自己在各個角色的比例各是多少。
 
 如上述各角色的特色，可以得知雖然索取者在短期競爭中有優勢，但長期的索取行為會漸漸地被互利者討厭，讓組織越來越不健康。作者在本書中強調給予者對團隊的重要性，不只能提升團隊的安全感，也能建立起團隊的信任感。除此之外，給予者也是良好的導師，可以帶領團隊一起進步。
 
@@ -79,7 +81,7 @@ image = "og-image.webp"
 
 紐約大學心理學者 Jonathan Haidt 提出，對給予的獲取者來說，受他人的給予行為感動會產生提升感（Elevation），這種作用能「替心靈按下『重置按鈕』的效果，能清除憤世忌俗的感覺，將其轉換成道德激勵的感受。」會讓人暫時變得不自私，也希望將這種意念化成行動。進而達成讓給予有「傳染」的效果。
 
-除了獲得給予行為的人外，主動給予的人在大腦獎勵中樞活絡的程度其實與獲得給予一樣強烈。光是出現慷慨的想法時，保護性抗體唾液免疫球蛋白 A（Salivary immunoglobulin）就會明顯增加，加強我們的免疫系統。「付出」也被達賴喇嘛列在達成[喜悅的的八大支柱](@/reading-notes/the-book-of-joy/index.md#eight-pillars)之一。付出所創造的傳染性漣漪，可以讓彼此互助，讓世界變得更好。
+除了獲得給予行為的人外，主動給予的人在大腦獎勵中樞活絡的程度其實與獲得給予一樣強烈。光是出現慷慨的想法時，保護性抗體唾液免疫球蛋白 A（Salivary immunoglobulin）就會明顯增加，加強我們的免疫系統。「付出」也被達賴喇嘛列在達成 [喜悅的的八大支柱](@/reading-notes/the-book-of-joy/index.md#eight-pillars) 之一。付出所創造的傳染性漣漪，可以讓彼此互助，讓世界變得更好。
 
 讀後感
 ===

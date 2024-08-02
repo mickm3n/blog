@@ -1,10 +1,11 @@
 +++
 title = "更聰明地閱讀書籍：讀負面評論"
 date = 2024-03-12
+description = "透過閱讀有品質的負面評論，掌握書籍內觀點的真實性，外包專業知識給其他專家，讓您更聰明地閱讀書籍。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["reading"]
+categories = [ "閱讀筆記",]
+tags = [ "reading",]
 
 +++
 

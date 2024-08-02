@@ -1,10 +1,11 @@
 +++
 title = "Tiago Forte 的專案啟動檢查表"
 date = 2023-08-11
+description = "探索 Tiago Forte 的專案啟動檢查表，學習如何有效掌握構思、整合資料、制定計畫，並快速推動項目進展的步驟！"
 
 [taxonomies]
-categories = ["範本"]
-tags = ["project"]
+categories = [ "範本",]
+tags = [ "project",]
 
 +++
 
@@ -43,4 +44,3 @@ tags = ["project"]
 # 執行重點
 - 當你按照步驟逐項進行檢查時，重要的是應謹記你在擬定一個推動專案的計畫，而不是在執行專案。
 - **理當把五個步驟的通關時間控制在二十到三十分鐘以內。**
-

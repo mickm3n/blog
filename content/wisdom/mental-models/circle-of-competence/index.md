@@ -1,13 +1,15 @@
 +++
 title = "能力圈 Circle of Competence"
 date = 2024-02-23
+description = "了解並界定自己的能力圈，誠實面對已知與未知的部分，以利個人職涯發展、投資決策和團隊任務分配，朝正確方向成長，做出最佳選擇。"
 
 [taxonomies]
-categories = ["思維模型"]
+categories = [ "思維模型",]
 tags = []
 
 [extra]
 image = "circle-of-competence.webp"
+
 +++
 
 # 目的

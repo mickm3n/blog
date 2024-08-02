@@ -1,14 +1,16 @@
 +++
 title = "《The Devops Handbook》閱讀筆記：三步工作法"
 date = 2020-03-08
+description = "《The Devops Handbook》閱讀筆記：探索三步工作法，包括暢流、回饋和持續學習，助你提高開發效率和系統穩固。立即點擊了解更多！"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 10
 image = "the-devops-handbook.jpeg"
+
 +++
 
 # 書籍

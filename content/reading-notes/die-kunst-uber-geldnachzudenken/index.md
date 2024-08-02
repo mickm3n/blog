@@ -1,14 +1,16 @@
 +++
 title = "《一個投機者的告白 Die Kunst über Geld nachzudenken》閱讀筆記：反向操作但要順勢而為"
 date = 2024-03-29
+description = "《一個投機者的告白》閱讀筆記：解析 André Kostolany 的投機智慧，探索雞蛋理論與投資心理學，揭示短中期投資的獨立思考與策略。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["investment"]
+categories = [ "閱讀筆記",]
+tags = [ "investment",]
 
 [extra]
 rating = 8.0
 image = "og-image.webp"
+
 +++
 
 一二三言以蔽之

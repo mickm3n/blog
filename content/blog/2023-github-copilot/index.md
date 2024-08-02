@@ -1,10 +1,12 @@
 +++
 title = "Github Copilot 短期心得"
 date = 2023-10-31
+description = "探索 Github Copilot 的實際應用心得，從 Rust 語言專案啟動，提升小範圍編輯效率，適合新手開發者的寶貴工具！"
 
 [taxonomies]
-categories = ["心得"]
-tags = ["Programming", "Github Copilot"]
+categories = [ "心得",]
+tags = [ "programming", "github-copilot",]
+
 +++
 
 ![](github-copliot.webp)

@@ -2,13 +2,15 @@
 title = "2021 閱讀總回顧"
 date = 2021-12-28
 updated = 2023-12-29
+description = "2021 年閱讀回顧：挑戰成功！本年度共讀 13 本書，超過目標並獲得許多啟發。探索每本書的精華，推薦最愛的 5 本書籍。"
 
 [taxonomies]
-categories = ["年度回顧"]
+categories = [ "年度回顧",]
 tags = []
 
 [extra]
 image = "books.webp"
+
 +++
 
 ![](books.webp)

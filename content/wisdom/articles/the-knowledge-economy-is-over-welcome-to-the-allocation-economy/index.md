@@ -1,10 +1,12 @@
 +++
 title = "The Knowledge Economy Is Over. Welcome to the Allocation Economy"
 date = 2024-01-30
+description = "AI 時代崛起，Manager 技能變得至關重要，Maker 需掌握新技能。了解變革影響並抓住機會，迎接分配經濟時代的挑戰！"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["artificial-intelligence"]
+categories = [ "閱讀筆記",]
+tags = [ "generative-ai",]
+
 +++
 
 創作者：[Dan Shipper](https://every.to/@danshipper)

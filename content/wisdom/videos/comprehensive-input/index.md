@@ -1,10 +1,12 @@
 +++
 title = "學習語言很重要的理論/Comprehensible Input"
 date = 2023-07-10
+description = "探索 Stephen Krashen 的可理解輸入理論，了解為何大量輸入是學習語言的關鍵。發現如何選擇難度適中的材料並建立強固基礎，提升語言學習效率。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["language-acquisition"]
+categories = [ "閱讀筆記",]
+tags = [ "language-acquisition",]
+
 +++
 
 創作者：[講三種語言的日本人 Makoto](https://www.youtube.com/@makoto678)
@@ -21,7 +23,7 @@ Stephen Krashen 提到當你在 i 等級時要用 i+1 的 input 去學習。跟�
 
 我覺得選擇難度適中的影片是這個方法最困難的部分。
 
-同一個影片作者在[〈從 0 開始自學也能學會英文或是￼日文的 5 個步驟/ Comprehensible Input/我推薦的英文YouTube頻道在說明區〉](https://youtu.be/59QlHqVOCKw)也有提供一個不同難度的 Youtuber 清單。但怎麼找到最適合自己的影片還是要花時間探索。
+同一個影片作者在 [〈從 0 開始自學也能學會英文或是￼日文的 5 個步驟/ Comprehensible Input/我推薦的英文YouTube頻道在說明區〉](https://youtu.be/59QlHqVOCKw)也有提供一個不同難度的 Youtuber 清單。但怎麼找到最適合自己的影片還是要花時間探索。
 
 {{ youtube(id="59QlHqVOCKw") }}
 

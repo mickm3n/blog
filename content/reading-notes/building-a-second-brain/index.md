@@ -1,14 +1,16 @@
 +++
 title = "《打造第二大腦 Building A Second Brain》閱讀筆記：第一第二大腦各司其職"
 date = 2023-08-11
+description = "在《打造第二大腦》一書中，Tiago Forte 提供了透過數位工具提升知識管理的方法，解放大腦的能量，專注於創造與解決問題。了解如何運用 CODE 和 PARA 方法，打造你的第二大腦。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["personal-knowledge-system"]
+categories = [ "閱讀筆記",]
+tags = [ "personal-knowledge-system",]
 
 [extra]
 rating = 9
 image = "building-a-second-brain.webp"
+
 +++
 
 # 一二三言以蔽之
@@ -67,7 +69,7 @@ CODE 方法是由四個步驟：Capture、Organize、Distill、Express 取首字
 
 透過思考「什麼是我始終感興趣的問題」來探索對自己真正重要的事物。列下十二道對自己最重要的開放性問題，可以時時回顧目前正在做或未來打算要做的專案，是不是有助於解決自己的難題。設下自己的北極星，為自己指引方向。
 
-我也寫下了[我的十二道最愛的難題](@/blog/my-twelve-favorite-problems/index.md)，也歡迎你跟我分享你的難題。
+我也寫下了 [我的十二道最愛的難題](@/blog/my-twelve-favorite-problems/index.md)，也歡迎你跟我分享你的難題。
 
 ## 獲取資訊的原則
 

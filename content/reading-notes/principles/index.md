@@ -2,14 +2,16 @@
 title = "《原則 Principles》閱讀筆記：生活與工作的原則"
 date = 2022-01-31
 updated = 2022-02-28
+description = "探索 Ray Dalio 在《原則》中的精華，揭示如何運用生活與工作的原則，達成個人與團隊的卓越成就。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 9
 image = "principles.webp"
+
 +++
 
 # 書籍

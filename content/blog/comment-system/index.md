@@ -1,13 +1,15 @@
 +++
 title = "留言功能上線"
 date = 2023-06-16
+description = "我們的網站新增留言功能！探索不同方案最終選擇了 Utteranc.es，透過 GitHub 登入與我互動，盡情分享你的意見吧！"
 
 [taxonomies]
-categories = ["網站開發記錄"]
-tags = ["SSG", "zola", "utteranc.es"]
+categories = [ "網站開發記錄",]
+tags = [ "static-site-generator", "zola", "utteranc.es",]
 
 [extra]
 image = ""
+
 +++
 
 # 為什麼想要有留言功能
@@ -64,6 +66,6 @@ image = ""
 
 # 最後選擇 Utteranc.es
 
-最後在嘗試完 Utteranc.es、IntenseDebate、Cactus、GraphCommento 後暫時先選了 [Utteranc.es](https://utteranc.es/)。在上線後用 [PageSpeed](https://pagespeed.web.dev/analysis/https-blog-mickzh-com-reading-notes-the-book-of-joy/5xw6sf5fbk?form_factor=mobile)測試的差異不大，javascript 也很簡單。
+最後在嘗試完 Utteranc.es、IntenseDebate、Cactus、GraphCommento 後暫時先選了 [Utteranc.es](https://utteranc.es/)。在上線後用 [PageSpeed](https://pagespeed.web.dev/analysis/https-blog-mickzh-com-reading-notes-the-book-of-joy/5xw6sf5fbk?form_factor=mobile) 測試的差異不大，javascript 也很簡單。
 
 目前留言功能就會用 Utteranc.es 的樣貌先上線，或許我應該要做個簡易的按鈕讓使用者可以回報討厭用 Github 登入來收集反向的聲音。下一步可以考慮一下這件事要怎麼達成。歡迎大家可以利用留言功能與我互動。

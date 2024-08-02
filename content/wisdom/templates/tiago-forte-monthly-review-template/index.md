@@ -1,10 +1,12 @@
 +++
 title = "Tiago Forte 的每月回顧範本"
 date = 2023-08-11
+description = "發現 Tiago Forte 的每月回顧範本，透過系統性檢討與更新目標、專案和責任領域，輕鬆理清未來的優先順序。"
 
 [taxonomies]
-categories = ["範本"]
-tags = ["postmortem"]
+categories = [ "範本",]
+tags = [ "reflection",]
+
 +++
 
 # 步驟

@@ -1,10 +1,12 @@
 +++
 title = "提高多巴胺水平：增加動機能量、克服拖延"
 date = 2023-11-12
+description = "提高多巴胺水平，增加動機和能量，告別拖延！了解 Andrew Huberman 推薦的睡眠質量提升、含 Tyrosine 食物、早晨曬太陽及運動等科學方法。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
+
 +++
 
 創作者：[Andrew Huberman](https://www.youtube.com/@hubermanlab)
@@ -26,7 +28,3 @@ tags = []
 * [Non-sleep Deep Rest (NSDR)](https://www.youtube.com/watch?v=pL02HRFk2vo)
 
 {{ youtube(id="pL02HRFk2vo") }}
-
-
-
-

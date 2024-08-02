@@ -1,10 +1,12 @@
 +++
 title = "Do Things that Don't Scale"
 date = 2024-06-06
+description = "Paul Graham 的文章《Do Things that Don't Scale》探討初創企業應該專注於無法規模化的活動，如直接與使用者互動，這些行動能夠提供不可替代的回饋與成長機會，助力企業成功。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["startup"]
+categories = [ "閱讀筆記",]
+tags = [ "startup",]
+
 +++
 
 創作者：[Paul Graham](http://paulgraham.com/)

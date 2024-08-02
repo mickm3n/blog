@@ -1,10 +1,12 @@
 +++
 title = "What You Should Know About Joe Rogan"
 date = 2023-09-03
+description = "深入解析 Joe Rogan 和他的熱門 Podcast，了解他如何影響不同圈子並促進理解。推薦觀看 Johnny Harris 的詳細介紹，影片精緻易懂！"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["podcast"]
+categories = [ "閱讀筆記",]
+tags = [ "podcast",]
+
 +++
 
 創作者：[Johnny Harris](https://www.youtube.com/@johnnyharris)

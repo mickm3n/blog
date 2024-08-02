@@ -1,14 +1,16 @@
 +++
 title = "《僧人心態 Think Like A Monk》閱讀筆記：以價值觀驅動你的人生"
 date = 2021-05-30
+description = "《僧人心態 Think Like A Monk》閱讀筆記揭示如何透過價值觀驅動你的人生，活在當下並正確使用能量，打造身份認同，迎接挑戰並善待世界。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 10
 imaeg = "think-like-a-monk.jpg"
+
 +++
 
 # 書籍

@@ -1,10 +1,12 @@
 +++
 title = "神經外科醫生離職心路歷程"
 date = 2024-07-24
+description = "神經外科醫生揭露離職心路歷程，從手術到健康生活方式的重要轉變。了解他如何通過健康飲食、運動、和正念來真正改善病患的生活質量。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["work"]
+categories = [ "閱讀筆記",]
+tags = [ "work",]
+
 +++
 
 創作者：[Goobie and Doobie](https://www.youtube.com/@GoobieAndDoobie)

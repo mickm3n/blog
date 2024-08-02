@@ -1,10 +1,12 @@
 +++
 title = "修正 Twitter Card 沒有顯示的問題"
 date = 2023-05-21
+description = "解決 Twitter Card 無法顯示問題，加入必要 meta 標籤讓分享卡片更美觀。了解 Open Graph 的作用，並運用多種工具除錯。"
 
 [taxonomies]
-categories = ["網站開發記錄"]
-tags = ["zola", "twitter", "web"]
+categories = [ "網站開發記錄",]
+tags = [ "zola", "twitter", "web",]
+
 +++
 
 # Zola 的設定
@@ -26,9 +28,9 @@ tags = ["zola", "twitter", "web"]
 
 ## 解法
 
-第一步嘗試加上 `twitter:card` 的 meta 並設定值為 `summary_large_image` ，結果還是沒辦法成功顯示 Twitter Card。
+第一步嘗試加上 `twitter:card` 的 meta 並設定值為 `summary_large_image`，結果還是沒辦法成功顯示 Twitter Card。
 
-接著利用 Twitter 所提供的 [Card Validator](https://cards-dev.twitter.com/validator) 做偵錯，錯誤訊息中指出找不到`og:title` 的 meta，後來補上 `og:title` 之後就可以順利顯示 Twitter Card 了。
+接著利用 Twitter 所提供的 [Card Validator](https://cards-dev.twitter.com/validator) 做偵錯，錯誤訊息中指出找不到 `og:title` 的 meta，後來補上 `og:title` 之後就可以順利顯示 Twitter Card 了。
 
 ![](twitter-card.webp)
 <p class="image-caption">成功修復啦！</p>
@@ -55,7 +57,7 @@ Open Graph 當年是由 Facebook 提出，主要目的是讓網頁的擁有者�
 部分網站也有自己獨有的 open graph meta，可以用來特製單一網站的連結卡片長相。
 
 ## 圖片的小技巧
-由於每個網站的呈現方式都不太一樣，像是 Facebook 也有自己的[圖片建議](https://developers.facebook.com/docs/sharing/webmasters/images)。
+由於每個網站的呈現方式都不太一樣，像是 Facebook 也有自己的 [圖片建議](https://developers.facebook.com/docs/sharing/webmasters/images)。
 
 主流是長寬比 1:1.9 的圖像，在網站裡可以使用 `og:image:width` 和 `og:image:height` 來預防當圖片過大時顯示的問題。
 
@@ -111,4 +113,3 @@ Open Graph 當年是由 Facebook 提出，主要目的是讓網頁的擁有者�
     <meta name="twitter:card" content="{{ twitter_card }}" />
   ...
 ```
-

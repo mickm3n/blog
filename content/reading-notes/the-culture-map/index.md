@@ -1,14 +1,16 @@
 +++
 title = "《文化地圖 The Culture Map》閱讀筆記：跨國合作的八大維度"
 date = 2023-10-13
+description = "《文化地圖》的八大文化維度筆記，探討跨國合作中如何理解及橋接文化差異，提升跨文化團隊效率。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["culture", "work"]
+categories = [ "閱讀筆記",]
+tags = [ "culture", "work",]
 
 [extra]
 rating = 9
 image = "culture-map-painting.webp"
+
 +++
 
 一二三言以蔽之
@@ -93,7 +95,7 @@ image = "culture-map-painting.webp"
 ![](leading.webp)
 <p class="image-caption">出自本書</p>
 
-在領導層面的差異是[權力距離（Power Distance）](https://en.wikipedia.org/wiki/Power_distance)，意指在公司權力最高的老闆與最底層的員工的距離。最底層的員工是否有能表達意見的方式，或是只能透過多層的階級傳達意見。
+在領導層面的差異是 [權力距離（Power Distance）](https://en.wikipedia.org/wiki/Power_distance)，意指在公司權力最高的老闆與最底層的員工的距離。最底層的員工是否有能表達意見的方式，或是只能透過多層的階級傳達意見。
 
 這樣的差距主要來自於歷史與宗教。崇尚平權式的國家大多來自「最平權與共識導向的維京人文化」與「能直接與神對話，跳過牧師的新教」的地區；而偏好階級式的國家則多半來自羅馬帝國或是信奉天主教及儒教的地區。
 

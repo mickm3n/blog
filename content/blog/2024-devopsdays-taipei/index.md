@@ -1,20 +1,22 @@
 +++
 title = "DevOpsDays Taipei 2024 心得"
 date = 2024-07-27
+description = "了解 DevOpsDays Taipei 2024 的最新趨勢，從 GitOps、Platform Engineering 到 AI 應用，精彩心得不容錯過！點擊進入精彩內容。"
 
 [taxonomies]
-categories = ["心得"]
-tags = ["devops"]
+categories = [ "心得",]
+tags = [ "devops",]
 
 [extra]
 image = "devopsdays.webp"
+
 +++
 
 ![](devopsdays.webp)
 
 今年和前同事揪團一起參加了 DevOpsDays Taipei 2024，關注一下 DevOps 領域的發展。
 
-這是我第一次參加這個活動，一共有兩天的[議程](https://devopsdays.tw/2024/agenda)，中間也穿插一些工作坊形式的 Session。活動從早上九點半到五點，兩天的經驗都是大概九點到就登記不到工作坊了，只能排候補名額，不過有蠻高的機率能夠候補到，工作坊還蠻常加開額外的旁聽席。
+這是我第一次參加這個活動，一共有兩天的 [議程](https://devopsdays.tw/2024/agenda)，中間也穿插一些工作坊形式的 Session。活動從早上九點半到五點，兩天的經驗都是大概九點到就登記不到工作坊了，只能排候補名額，不過有蠻高的機率能夠候補到，工作坊還蠻常加開額外的旁聽席。
 
 以今年的演講和工作坊看來，DevOps 比較熱門的話題是在 GitOps 和 Platform Engineering，當然也有一些在 Generative AI 上的協作運用。
 
@@ -33,11 +35,11 @@ image = "devopsdays.webp"
 
 本來這個時間安排要去參加工作坊，不過在兩個工作坊間有半小時的空檔，找了間會議室坐下來，不小心遇到我這兩天最喜歡的一場演講。
 
-在生成式 AI [湧現](https://zh.wikipedia.org/zh-tw/%E6%B6%8C%E7%8E%B0)後，可以用 AI 改善很多不同的流程，這個演講針對的是「**把 AI 融入你的服務之中**」。
+在生成式 AI [湧現](https://zh.wikipedia.org/zh-tw/%E6%B6%8C%E7%8E%B0) 後，可以用 AI 改善很多不同的流程，這個演講針對的是「**把 AI 融入你的服務之中**」。
 
 過往要產生好用的使用者介面，往往仰賴的是設計師對產品價值及對使用者的了解，加上自己的經驗來設計介面，提供適合使用者的資訊內容與呈現方式。有了生成式 AI 的聊天介面後，透過大型語言模型對語意的理解，提供對話方式也成為一種新的使用者介面。
 
-在這個演講，Andrew 主要使用的是 [OpenAI ChatGPT 的 GPTs](https://openai.com/index/introducing-gpts/)，利用 GPTs 背後能夠設定 Prompt 和 [Function Calling](https://platform.openai.com/docs/guides/function-calling) 的功能，提供一個電商的聊天客服介面，在[投影片](https://docs.google.com/presentation/d/10o1VN0Q-97eTwYN_N-UP8pzLlxrxSBJbfXCcq0mTEDk/edit#slide=id.g274de07fa95_1_484)裡面可以找得到他的 Demo 影片。
+在這個演講，Andrew 主要使用的是 [OpenAI ChatGPT 的 GPTs](https://openai.com/index/introducing-gpts/)，利用 GPTs 背後能夠設定 Prompt 和 [Function Calling](https://platform.openai.com/docs/guides/function-calling) 的功能，提供一個電商的聊天客服介面，在 [投影片](https://docs.google.com/presentation/d/10o1VN0Q-97eTwYN_N-UP8pzLlxrxSBJbfXCcq0mTEDk/edit#slide=id.g274de07fa95_1_484) 裡面可以找得到他的 Demo 影片。
 
 覺得蠻有洞見的是，他從兩年前的 [API First 主題](https://columns.chicken-house.net/2022/10/26/apifirst/)，強調好的 API 設計是提供商業價值與長遠的擴充性不可或缺的部分，到了這兩年生成式 AI 的大幅發展，他將其疊加在 API First 的概念上，好的 API 設定提供了符合商業價值的功能定義，而生成式 AI 是用大量通則資訊訓練而成的，所以如果你的 API 設計上越符合真實世界的**行為**，AI 就能用得更好。
 
@@ -47,7 +49,7 @@ image = "devopsdays.webp"
 
 在他的 Demo 中，他的 API 提供了列出商品、加入購物車、結算購物車金額等等一般電商平台會有的功能，在加入 AI 之後，AI 會利用這些功能的組合提供額外的功能，像便利商店店員會刷刷看有沒有折扣，或是根據你的預算和情境推薦商品組合等等。甚至可以利用 ChatGPT 的其他特性，比如記憶功能，可以用使用者過往的購買紀錄與情境偏好，做更準確的推薦；甚至直接用聊天過程的資訊，能對當次的購買流程做顧客滿意度的質化分析，在原本已經做好的 API 上疊加 AI 產生更多價值。
 
-這樣子的運用融合了「**以程式撰寫邏輯、強調精確性的 API**」和「**有語意理解能力，可以透過對話處理不明確需求的 AI**」，一方面 AI 補足了 API 欠缺的彈性，另一方面 API 使 AI 的不精確性受到控制，而這一方面也仰賴 API 的設計與實作，必須要能防止 AI 錯誤的使用方式，在 AI 產生[幻覺](https://zh.wikipedia.org/zh-tw/%E5%B9%BB%E8%A7%89_(%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD))時限制它只能做「設計範圍內」的行為。
+這樣子的運用融合了「**以程式撰寫邏輯、強調精確性的 API**」和「**有語意理解能力，可以透過對話處理不明確需求的 AI**」，一方面 AI 補足了 API 欠缺的彈性，另一方面 API 使 AI 的不精確性受到控制，而這一方面也仰賴 API 的設計與實作，必須要能防止 AI 錯誤的使用方式，在 AI 產生 [幻覺](https://zh.wikipedia.org/zh-tw/%E5%B9%BB%E8%A7%89_(%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD)) 時限制它只能做「設計範圍內」的行為。
 
 不過最後也有提及在效率上，AI 的處理成本和回應時間目前都會比直接使用 API 來得慢很多，所以還是要思考使用情境，在最適合的時機用最適合的技術。另外也要思考自己的服務適合直接用 100% AI 的 Agent Mode，還是混合現有功能的 Copilot Mode。
 

@@ -1,13 +1,15 @@
 +++
 title = "誘惑綑綁 Temptation Bundling"
 date = 2022-05-14
+description = "了解誘惑綑綁技巧：結合愉悅活動與想培養的習慣，減少依賴意志力，幫助你更輕鬆持續好習慣！"
 
 [taxonomies]
-categories = ["方法"]
-tags = ["habit"]
+categories = [ "方法",]
+tags = [ "habit",]
 
 [extra]
 image = "ps5-bundle.webp"
+
 +++
 
 ![](ps5-bundle.webp)

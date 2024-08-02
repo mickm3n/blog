@@ -1,10 +1,12 @@
 +++
 title = "查理蒙格 Charles T. Munger 的多元思維模型清單"
 date = 2023-10-31
+description = "探索查理蒙格的多元思維模型，涵蓋數學、會計學、生物學等領域，從複利原理到認知傾向，揭示跨學科智慧的強大力量。"
 
 [taxonomies]
-categories = ["清單"]
+categories = [ "清單",]
 tags = []
+
 +++
 
 -   數學

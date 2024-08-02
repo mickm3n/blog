@@ -1,10 +1,12 @@
 +++
 title = "寫作障礙 Writer's Block"
 date = 2023-12-03
+description = "解決寫作障礙的實用策略：通過減少焦慮、增強動機、避免分心來克服 Writer's Block。立刻學習，找回寫作靈感！"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["writing"]
+categories = [ "閱讀筆記",]
+tags = [ "writing",]
+
 +++
 
 創作者：[UIS's THE LEARNING HUB](https://www.uis.edu/learning-hub)
@@ -23,8 +25,6 @@ tags = ["writing"]
 * 慶祝完成寫作的小成就
 
 
-如果障礙來自於動機和分心，可以用[寫作前構思（Prewriting）](@/wisdom/articles/prewriting/index.md)和[自由寫作（Freewriting）](@/reading-notes/accidental-genius/index.md)解決。
+如果障礙來自於動機和分心，可以用 [寫作前構思（Prewriting）](@/wisdom/articles/prewriting/index.md) 和 [自由寫作（Freewriting）](@/reading-notes/accidental-genius/index.md) 解決。
 
 也很推薦這篇 [Symptoms and Cures for Writer's Block](https://owl.purdue.edu/owl/general_writing/the_writing_process/writers_block/index.html)，有根據各種情況給予建議。
-
-

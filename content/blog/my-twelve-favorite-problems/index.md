@@ -2,20 +2,22 @@
 title = "我的十二道最愛的難題"
 date = 2023-08-11
 updated = 2023-11-06
+description = "探索如何提升知識水平、保持健康與專注，並創建長期有意義的關係。我分享了我的十二道最愛的難題，看看能否激發你的思考！"
 
 [taxonomies]
-categories = ["想法"]
-tags = ["goal"]
+categories = [ "想法",]
+tags = [ "goal",]
 
 [extra]
 image = "thinking.webp"
+
 +++
 
 ![](thinking.webp)
 
 <p class="image-caption">Photo by <a href="https://unsplash.com/@earbiscuits?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Juan Rumimpunu</a> on <a href="https://unsplash.com/photos/nLXOatvTaLo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>
 
-在閱讀[打造第二大腦](@/reading-notes/building-a-second-brain/index.md)學到費曼尋求啟發的練習方法。透過列下自己「始終感興趣的問題」，讓自己隨時可以回顧對自己重要的問題。
+在閱讀 [打造第二大腦](@/reading-notes/building-a-second-brain/index.md) 學到費曼尋求啟發的練習方法。透過列下自己「始終感興趣的問題」，讓自己隨時可以回顧對自己重要的問題。
 
 <!-- more -->
 

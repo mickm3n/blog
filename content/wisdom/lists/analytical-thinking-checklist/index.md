@@ -1,10 +1,12 @@
 +++
 title = "分析性思考提問清單"
 date = 2024-07-04
+description = "深入探索《反智》中的分析性思考提問清單，揭示推理、修辭、人性、來源、量化及科學層面的核心問題，引導您批判性地檢驗和思考。"
 
 [taxonomies]
-categories = ["清單"]
+categories = [ "清單",]
 tags = []
+
 +++
 
 節錄自《[反智（The Irrational Ape）](@/reading-notes/the-irrational-ape/index.md)》

@@ -1,10 +1,12 @@
 +++
 title = "主動式閱讀"
 date = 2024-07-22
+description = "了解如何透過後設認知技巧增進閱讀效率，自《主動式閱讀：成為更優秀的讀者》學習策略如理解作者目的、做筆記、視覺化等，提升你的閱讀能力。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["reading"]
+categories = [ "閱讀筆記",]
+tags = [ "reading",]
+
 +++
 
 創作者：[Anne-Laure Le Cunff](https://anne-laure.net/)
