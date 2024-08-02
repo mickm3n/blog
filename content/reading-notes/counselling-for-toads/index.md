@@ -21,7 +21,7 @@ image = "counselling-for-toad.webp"
 
 ![](counselling-for-toad.webp)
 
-# 摘錄觀點
+# 摘錄觀點與延伸思考
 
 ## 人格的來源
 

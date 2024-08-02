@@ -21,7 +21,7 @@ image = "think-again.webp"
 
 [![](think-again.webp)](https://www.goodreads.com/book/show/55539565-think-again)
 
-# 摘錄觀點
+# 摘錄觀點與延伸思考
 
 ## 有毒的信念 {#poisoned-belief}
 

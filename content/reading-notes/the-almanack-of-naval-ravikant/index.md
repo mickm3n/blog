@@ -29,7 +29,7 @@ image = "og-image.webp"
 
 最早認識 Naval Ravikant 是從 [Joe Rogan Experience #1309](https://youtu.be/3qHkcs3kG44)，當時從節目的對談就覺得 Naval 是一個很有智慧的人。2022 年六月朋友推薦了這本書給我，最後把這本書推薦到學弟的讀書會和大家在 2023 年年初一起閱讀了這本書。
 
-摘錄觀點
+摘錄觀點與延伸思考
 ====
 
 本書的英文書名是《The Almanack of Naval Ravikant》，像是致敬班傑明富蘭克林 Benjamin Franklin 的《Poor Richard's Almanack》和查理蒙格 Charles T. Munger 的《Poor Charlie's Almanack》，內容包含其作者大量不同領域的思想。這類型的書籍，或許是英雄所見略同，會有蠻多重複的理念和想法，我只挑選我比較喜歡的摘錄。在最後附上 [Naval 的人生公式](#life-formula) 與 [人生原則](#life-principles)。如果最後看了人生公式和人生原則有感興趣的地方，建議可以直接閱讀此書。

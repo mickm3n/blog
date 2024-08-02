@@ -27,7 +27,7 @@ image = "og-image.webp"
 
 在拜讀完 [《窮查理的普遍常識 Poor Charlie's Almanack》](@/reading-notes/poor-charlies-almanack/index.md) 和 [《快樂實現自主富有 The Almanack of Naval Ravikant》](@/reading-notes/the-almanack-of-naval-ravikant/index.md) 後，發現兩人都很推薦 Matt Ridley 的這本書，也選做我跨領域知識的第一站。
 
-摘錄觀點
+摘錄觀點與延伸思考
 ====
 
 解碼生命的奧秘

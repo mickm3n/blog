@@ -28,7 +28,7 @@ image = "belief-tree.webp"
 
 在閱讀《[思考整理學](@/reading-notes/thinking-organization/index.md)》時，覺得如果要讓思考更清晰且明確，就要更熟知批判性思考的方法與邏輯。而反智英文書名的副標題——Why Flawed Logic Puts us all at Risk and How Critical Thinking Can Save the World——大大滿足我想探索批判性思考的心情。
 
-摘錄觀點
+摘錄觀點與延伸思考
 ====
 
 本篇我打算以《[快思慢想（Thinking, Fast and Slow）](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)》作者 Daniel Kahneman 所提出人類的大腦有快思（System 1）和慢想（System 2）兩種系統來當作基礎架構。快思讓我們能本能性地對面前的處境快速應對、做出反應，在危急時刻是不可或缺的能力；慢想則是能做出有意識的思考、反省和邏輯推論。這樣的雙軌機制讓我們既能快速應對即時性的風險，也能做長遠的規劃與思考。

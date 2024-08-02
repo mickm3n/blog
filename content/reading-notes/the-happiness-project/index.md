@@ -34,7 +34,7 @@ image = "og-image.webp"
 
 另外我也好奇和達賴喇嘛的 [《最後一次相遇，我們只談喜悅 The Book of Joy》](@/reading-notes/the-book-of-joy/index.md) 有什麼相同和不同的地方。
 
-摘錄觀點
+摘錄觀點與延伸思考
 ====
 
 快樂生活提案 The Happiness Project

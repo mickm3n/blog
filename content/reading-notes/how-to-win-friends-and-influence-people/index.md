@@ -21,7 +21,7 @@ image = "how-to-win-friends-and-influence-people.webp"
 
 ![](how-to-win-friends-and-influence-people.webp)
 
-# 摘錄觀點
+# 摘錄觀點與延伸思考
 
 ## 嘉贊以誠，不吝褒揚
 

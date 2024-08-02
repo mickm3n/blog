@@ -28,7 +28,7 @@ image = "the-little-book-of-stoicism-timeless-wisdom-to-gain-resilience-confiden
 * [僧人心態 Think Like a Monk](@/reading-notes/think-like-a-monk/index.md)：以價值觀驅動你的人生摘錄斯多葛哲學家 Seneca 對於恐懼的看法，「我們的恐懼遠多於實際的危險，我們在想像中受的苦，也多於現實生活的苦。」
 * [反脆弱 Antifragile](@/reading-notes/antifragile/index.md)：凡殺不死我的必使我更強大提及現代的斯多葛主義可以將恐懼化為謹慎、痛苦化為資訊、錯誤化為啟示、渴望化為行動。斯多葛主義能幫助我們調適情緒。
 
-# 摘錄觀點
+# 摘錄觀點與延伸思考
 
 ## 什麼是斯多葛主義？
 

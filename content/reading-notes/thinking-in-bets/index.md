@@ -21,7 +21,7 @@ image = "thinking-in-bets.og.webp"
 
 [![](thinking-in-bets.webp)](https://www.goodreads.com/book/show/35957157-thinking-in-bets)
 
-# 摘錄觀點
+# 摘錄觀點與延伸思考
 
 ## 生活品質＝決策＋運氣
 

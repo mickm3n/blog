@@ -21,7 +21,7 @@ image = "the-infinite-game.jpg"
 
 在 Together Is Better 語錄書才真正第一次遇到 Simon Sinek，之後就想著什麼時候一定要來讀一下他的書。這次直接挑了他的比較新的著作來看——無限賽局。
 
-# 摘錄觀點
+# 摘錄觀點與延伸思考
 
 ## 「有限」與「無限」
 
