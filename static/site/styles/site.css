@@ -163,12 +163,17 @@ h2 {
   line-height: 1.3;
 }
 
-h3,
-h4,
-h5 {
+h3 {
   font-size: 1.2rem;
   font-weight: 600;
   line-height: 1.4;
+}
+
+h4,
+h5 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.2;
 }
 
 strong {
