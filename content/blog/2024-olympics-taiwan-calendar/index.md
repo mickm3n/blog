@@ -82,7 +82,8 @@ https://calendar.google.com/calendar/ical/5dd3d46977cef68e6c975595a9d1d0c0c31051
 
 ---
 
-# 7/29 更新
+# 更新
+## 2024/07/29
 
 發現有些運動項目官網的資料會缺少參賽選手，造成在行事曆上缺少賽程，目前發現的項目有：
 * 體操
@@ -95,5 +96,5 @@ https://calendar.google.com/calendar/ical/5dd3d46977cef68e6c975595a9d1d0c0c31051
 
 目前已人為補上體操和游泳的賽程，其他項目會在賽前一天觀察一下資料，如果資料上有問題，會再人為補上。
 
-# 7/30 更新
+## 2024/07/30
 [增加 iPhone Calendar 的行事曆訂閱操作步驟](#iphone-calendar)
