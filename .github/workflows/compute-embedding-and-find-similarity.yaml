@@ -2,7 +2,7 @@ name: Compute embedding and find similarity
 
 on:
   schedule:
-    - cron: '0 0 * * 3,7'  # Run every Wednesday and Sunday to extend latest cache TTL
+    - cron: '0 0 * * 2,6'  # Run every Wednesday and Sunday to extend latest cache TTL
   push:
     branches:
       - master
