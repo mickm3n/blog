@@ -1,6 +1,7 @@
 +++
 title = "DevOpsDays Taipei 2024 心得"
 date = 2024-07-27
+updated = 2024-08-10
 description = "了解 DevOpsDays Taipei 2024 的最新趨勢，從 GitOps、Platform Engineering 到 AI 應用，精彩心得不容錯過！點擊進入精彩內容。"
 
 [taxonomies]
@@ -56,6 +57,8 @@ image = "devopsdays.webp"
 ![](copilot-mode.webp)
 <p class="image-caption">Copilot Mode，取自投影片</p>
 
+安德魯也[將這次的 Keynote 內容寫成部落格了](https://columns.chicken-house.net/2024/07/20/devopsdays-keynote/)，可以透過文字更理解他的想法。
+
 ## 基於 OpenFeature 的 Feature Toggle 系統實踐 - 許郁彬 Yubin Hsu
 
 - [投影片](https://docs.google.com/presentation/d/1raYRbpXdzdzmvgdjAD6X5d-V8YQ0Wya_vfh251-rdDE)
@@ -88,3 +91,10 @@ image = "devopsdays.webp"
 其實我蠻少參加社群的活動，因為覺得自己不擅長做陌生交流，很難用短暫的時間拓展人脈。不過參與這樣的活動能讓自己做一些不同的探索，也有機會聽到很棒的演講或是參與很棒的工作坊，算是參與社群活動的兩難（喂）。
 
 如果後續有看到錄影釋出後會再補上。
+
+---
+
+# 更新
+## 2024/08/10
+
+發現安德魯把他的演講寫成部落格了，補上[連結](https://columns.chicken-house.net/2024/07/20/devopsdays-keynote/)。
