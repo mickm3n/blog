@@ -25,7 +25,9 @@ jobs:
         with:
           path: data/post_embedding_cache.pkl
           key: embeddings-cache-${{ hashFiles('content/**/*.md') }}
-          restore-keys: embeddings-cache-
+          restore-keys: |
+            embeddings-cache-
+            embeddings-cache
 
       - name: Compute embedding and find similarity
         run: python scripts/find_similar_posts.py
