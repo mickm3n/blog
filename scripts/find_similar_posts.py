@@ -25,7 +25,7 @@ class OpenAIEmbeddingProvider:
 
 
 class EmbeddingRepository:
-    EMBEDDING_CACHE_PATH = "data/post_embedding_cache.pkl"
+    EMBEDDING_CACHE_PATH = "post_embedding_cache.pkl"
 
     def __init__(self, embedding_provider):
         self.embedding_provider = embedding_provider

@@ -23,11 +23,10 @@ jobs:
       - name: Cache embeddings
         uses: actions/cache@v4
         with:
-          path: data/post_embedding_cache.pkl
+          path: post_embedding_cache.pkl
           key: embeddings-cache-${{ hashFiles('content/**/*.md') }}
           restore-keys: |
             embeddings-cache-
-            embeddings-cache
 
       - name: Compute embedding and find similarity
         run: python scripts/find_similar_posts.py
