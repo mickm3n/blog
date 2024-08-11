@@ -1,5 +1,5 @@
 public/
 static/processed_images/
 .venv/
-data/post_embedding_cache.pkl
+post_embedding_cache.pkl
 __pycache__
