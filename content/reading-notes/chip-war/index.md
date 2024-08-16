@@ -1,14 +1,16 @@
 +++
 title = "《晶片戰爭 Chip War》閱讀筆記：算力戰爭才正開始"
 date = 2024-08-16
+description = "《晶片戰爭 Chip War》閱讀筆記：從晶片發展到未來的算力戰爭，這本書用簡潔的故事展現了全球科技與政治的深刻聯繫。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
 
 [extra]
 rating = 10
 image = "book.webp"
+
 +++
 
 # 一二三言以蔽之

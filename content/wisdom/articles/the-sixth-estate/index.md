@@ -1,10 +1,12 @@
 +++
 title = "關注你岌岌可危的第六權"
 date = 2024-08-12
+description = "了解第六權的重要性，如何喪失注意力等同失去言論自由，社群平台演算法如何影響專注力與言論自由，加入第六權邊陲反抗軍，保護你的注意力。"
 
 [taxonomies]
-categories = ["閱讀筆記"]
-tags = ["attention"]
+categories = [ "閱讀筆記",]
+tags = [ "attention",]
+
 +++
 
 創作者：[Leafwind](https://leafwind.tw/)
