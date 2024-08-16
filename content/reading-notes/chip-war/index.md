@@ -9,7 +9,7 @@ tags = []
 
 [extra]
 rating = 10
-image = "book.webp"
+image = "og-image.webp"
 
 +++
 
