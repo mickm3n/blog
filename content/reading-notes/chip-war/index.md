@@ -8,7 +8,7 @@ tags = []
 
 [extra]
 rating = 10
-image = "booke.webp"
+image = "book.webp"
 +++
 
 # 一二三言以蔽之
