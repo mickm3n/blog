@@ -8,7 +8,7 @@ categories = [ "思維模型",]
 tags = []
 
 [extra]
-image = "map-is-not-terrotory.webp"
+image = "map-is-not-territory.webp"
 
 +++
 
