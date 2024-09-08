@@ -1,10 +1,12 @@
 +++
 title = "Now Page"
 date = 2024-09-01
+description = "探索我的 Now Page，了解我最近的工作、閱讀計劃、Podcast 和隨筆記錄。不定期更新，保持最新近況！"
 
 [taxonomies]
-categories = ["Now Page"]
+categories = [ "Now Page",]
 tags = []
+
 +++
 
 # 什麼是 Now Page?
@@ -21,13 +23,13 @@ tags = []
 閱讀是我自我成長很重要的部分，以下附上我近期讀完的書和正在讀的書，如果你也喜歡這些書，歡迎與我分享與討論。
 
 最近剛閱讀完的書：
-* 《[設計的心理學 The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things#CommunityReviews)》 by Donald A. Norman
-* 《[The Pragmatic Programmer](https://www.goodreads.com/book/show/52715562-the-pragmatic-programmer)》 by David Thomas, Andrew Hunt
-* 《[深度職場力 So Good They Can't Ignore You](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)》 by Cal Newport
+* 《[設計的心理學 The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things#CommunityReviews)》by Donald A. Norman
+* 《[The Pragmatic Programmer](https://www.goodreads.com/book/show/52715562-the-pragmatic-programmer)》by David Thomas, Andrew Hunt
+* 《[深度職場力 So Good They Can't Ignore You](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)》by Cal Newport
 
 正在閱讀：
-* 《[Clean Code](https://www.goodreads.com/book/show/6607720-clean-code)》 by Robert C. Martin
-* 《[40% 的工作沒意義，為什麼還搶著做？Bullshit Jobs](https://www.goodreads.com/book/show/34466958-bullshit-jobs)》 by David Graeber
+* 《[Clean Code](https://www.goodreads.com/book/show/6607720-clean-code)》by Robert C. Martin
+* 《[40% 的工作沒意義，為什麼還搶著做？Bullshit Jobs](https://www.goodreads.com/book/show/34466958-bullshit-jobs)》by David Graeber
 * 《[多元宇宙 Plurality](https://www.goodreads.com/book/show/211810531-plurality)》by E. Glen Weyl, 唐鳳
 
 # Podcast

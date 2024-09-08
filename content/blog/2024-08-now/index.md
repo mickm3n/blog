@@ -1,10 +1,12 @@
 +++
 title = "2024.08 隨筆"
 date = 2024-09-01
+description = "回顧忙碌的 2024 年 8 月，從奧運狂熱到生成式 AI 接案，合作推動 Podcast，並在工作與聚會中收穫滿滿，探索新興技術與創意靈感。"
 
 [taxonomies]
-categories = ["Now Page"]
+categories = [ "Now Page",]
 tags = []
+
 +++
 
 月初結束奧運的狂熱，伴隨而來談了一個為期兩個月的接案，主題是生成式 AI 應用，與我近期的興趣相符。
@@ -21,7 +23,7 @@ tags = []
 
 八月因為愛爾達提供的免費影劇館，看了四部線上電影，分別是《[再見機器人 Robot Dreams](https://www.imdb.com/title/tt13429870/)》、《[辛德勒的名單 Schindler's List](https://www.imdb.com/title/tt0108052/)》、《[與狼共舞 Dances with Wolves](https://www.imdb.com/title/tt0099348/)》和《[美國內戰 Civil War](https://www.imdb.com/title/tt17279496/)》，也看了 Netflix 上的《[激戰網紅 The Influencer](https://www.netflix.com/title/81729971)》，在電影院看了《[鬼才之道](https://www.imdb.com/title/tt17079606/)》，還有在北流看了歌舞劇《[芝加哥 Chicago](https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P0FYTWKB)》，在 23 俱樂部看了《[三流笑話](https://comedyclub.kktix.cc/events/3stream2024)》的加演場。
 
-其中最喜歡的是《鬼才之道》和《三流笑話》。《鬼才之道》建立了很有趣的電影背景設定，編劇及美術也完美地附加在背景設定上，扣回大多人會遇到的生活情感，是很棒的電影，王淨演的超棒！《三流笑話》在小型劇場前幾排的脫口秀經驗很棒，講話不用太大聲都有機會被台上演員聽到，互動感很好，去之前喜歡[品喬](https://www.youtube.com/@pinciaostandup)的 one-liner 風格和[藍恩](https://portaly.cc/ren_standup)的邏輯笑話，不過現場看特別喜歡[華旭](https://www.youtube.com/@huahsuuuu)的能量。
+其中最喜歡的是《鬼才之道》和《三流笑話》。《鬼才之道》建立了很有趣的電影背景設定，編劇及美術也完美地附加在背景設定上，扣回大多人會遇到的生活情感，是很棒的電影，王淨演的超棒！《三流笑話》在小型劇場前幾排的脫口秀經驗很棒，講話不用太大聲都有機會被台上演員聽到，互動感很好，去之前喜歡 [品喬](https://www.youtube.com/@pinciaostandup) 的 one-liner 風格和 [藍恩](https://portaly.cc/ren_standup) 的邏輯笑話，不過現場看特別喜歡 [華旭](https://www.youtube.com/@huahsuuuu) 的能量。
 
 八月在相對的忙碌下，原本時間佔比高的閱讀、做筆記和寫作的時間忽然減少了很多。
 

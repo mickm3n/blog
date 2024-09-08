@@ -1,13 +1,15 @@
 +++
 title = "最重要的是模型"
 date = 2024-09-08
+description = "探索模型如何影響我們認知世界及解決問題的能力，並學習建立和優化正確的模型。這是提升生活質量的關鍵一步。"
 
 [taxonomies]
-categories = ["心得"]
-tags = ["mental-model"]
+categories = [ "心得",]
+tags = [ "mental-model",]
 
 [extra]
 image = "og-image.webp"
+
 +++
 
 # 什麼是模型？
@@ -22,7 +24,7 @@ image = "og-image.webp"
 
 如上所述，模型是我們對事物認知的簡化形式，會影響我們如何解讀一個事件背後的含義，甚至影響我們能不能看到一個事件背後的模式。
 
-當我們沒有足夠的模型，抑或更糟的是，擁有錯誤的模型，我們將無法對事件的因果關係做正確的歸因、得不到環境正確的回饋、無法調整自己的行為；我們只能根據被告知的指令依序操作，不能理解動作帶來的後果，也無法處理突發狀況；我們也無法看見事物的部分面向，侷限我們在認知上可能的選擇。嚴重時，錯誤的模型會讓我們無法突破現況，屢屢在類似的事件中做錯誤的選擇，最後造成[習得性無助](https://zh.wikipedia.org/zh-tw/%E7%BF%92%E5%BE%97%E6%80%A7%E5%A4%B1%E5%8A%A9)。
+當我們沒有足夠的模型，抑或更糟的是，擁有錯誤的模型，我們將無法對事件的因果關係做正確的歸因、得不到環境正確的回饋、無法調整自己的行為；我們只能根據被告知的指令依序操作，不能理解動作帶來的後果，也無法處理突發狀況；我們也無法看見事物的部分面向，侷限我們在認知上可能的選擇。嚴重時，錯誤的模型會讓我們無法突破現況，屢屢在類似的事件中做錯誤的選擇，最後造成 [習得性無助](https://zh.wikipedia.org/zh-tw/%E7%BF%92%E5%BE%97%E6%80%A7%E5%A4%B1%E5%8A%A9)。
 
 卡爾榮格（Carl Jung）曾經用很精闢的一句話解釋這個現象：*「在你把潛意識轉化為意識之前，它會主導你的人生，而你會將之稱作命運。」（Until you make the unconscious conscious, it will direct your life and you will call it fate.）*
 
@@ -36,7 +38,7 @@ image = "og-image.webp"
 
 很多的寫作都是作者積累一段時間的經驗與研究得到的見解。透過閱讀，我們能夠快速得到他人的模型。在閱讀過程中，我們能將自己過往的經歷融入書中的模型做思想上的碰撞；從書中閱讀的歷史及故事也能當作增進我們現有模型的素材。
 
-## 尋找[第一原理（First Principle）](@/wisdom/mental-models/first-principle-thinking/index.md)
+## 尋找 [第一原理（First Principle）](@/wisdom/mental-models/first-principle-thinking/index.md)
 
 模型雖然已經過簡化，但對於世界的複雜系統，簡化後可能還是很複雜。我們通常會進一步運用模組化的方式，把一部份的複雜系統定義為黑盒子，用大略的認知直接做操作而忽略細節。
 
@@ -46,9 +48,9 @@ image = "og-image.webp"
 
 不同領域因其特定的問題，發展出其獨特、能解決問題的成熟模型，這樣的模型都有某種程度的遷移效應，可以對不同領域的問題提供一些特別的切角。查理蒙格（Charles Munger）曾提到只要掌握其中最重要的 80 到 90 個思維模型，就能涵括 90% 場景的運用。
 
-同時運用多個模型，可以產生綜效，觸發查理蒙格所說的[魯拉帕路薩效應（Lollapalooza Effect）](https://wiki.mbalib.com/zh-tw/Lollapalooza%E6%95%88%E5%BA%94)，得到驚人的成果。
+同時運用多個模型，可以產生綜效，觸發查理蒙格所說的 [魯拉帕路薩效應（Lollapalooza Effect）](https://wiki.mbalib.com/zh-tw/Lollapalooza%E6%95%88%E5%BA%94)，得到驚人的成果。
 
-查理蒙格與 Naval Ravikant 也個別在 [《窮查理的普遍常識（Poor Charlie's Almanack）》](@/reading-notes/poor-charlies-almanack/index.md) 和 [《快樂實現自主富有（The Almanack of Naval Ravikant）》](@/reading-notes/the-almanack-of-naval-ravikant/index.md)提出他們覺得最該學習的思維模型清單：
+查理蒙格與 Naval Ravikant 也個別在 [《窮查理的普遍常識（Poor Charlie's Almanack）》](@/reading-notes/poor-charlies-almanack/index.md) 和 [《快樂實現自主富有（The Almanack of Naval Ravikant）》](@/reading-notes/the-almanack-of-naval-ravikant/index.md) 提出他們覺得最該學習的思維模型清單：
 * [查理蒙格的多元思維模型清單](@/wisdom/lists/charles-munger-a-latticework-of-mental-models/index.md)
 * [Naval Ravikant 的多元思維模型清單](@/wisdom/lists/naval-ravikant-a-latticework-of-mental-models/index.md)
 

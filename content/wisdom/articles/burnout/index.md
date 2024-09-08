@@ -1,10 +1,12 @@
 +++
 title = "過勞 Burnout"
 date = 2024-08-25
+description = "過勞不只是工作過量，對工作失去理想和不自信也會導致過勞。找回控制感，重新校正、腦力激盪和實驗是關鍵！"
 
 [taxonomies]
 categories = []
-tags = ["work"]
+tags = [ "work",]
+
 +++
 
 創作者：[Anne-Laure Le Cunff](https://nesslabs.com/)
