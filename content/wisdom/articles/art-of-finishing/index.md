@@ -1,10 +1,12 @@
 +++
 title = "完成的藝術"
 date = 2024-09-15
+description = "完成的藝術探討專案未完成所產生的生產力幻覺和心理成本，教你如何斬殺九頭蛇專案，訓練完成的肌肉，迎接成功！"
 
 [taxonomies]
-categories = ["閱讀筆記"]
+categories = [ "閱讀筆記",]
 tags = []
+
 +++
 
 創作者：[Tomas Stropus](https://www.bytedrum.com/about/)
