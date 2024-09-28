@@ -206,6 +206,8 @@ pre>code {
   line-height: 1.42;
   -webkit-text-size-adjust: 100%;
   background-color: initial;
+  display: inline-block;
+  min-width: 100%;
   /* Prevent adjustments of font size after orientation changes in iOS. See https://github.com/edwardtufte/tufte-css/issues/81#issuecomment-261953409 */
 }
 
@@ -214,7 +216,7 @@ code td {
 }
 
 .copy-code-button {
-  position: absolute;
+  position: fixed;
   top: 5px;
   right: 5px;
   padding: 3px 8px;
@@ -223,6 +225,19 @@ code td {
   border: 1px solid #ccc;
   border-radius: 4px;
   cursor: pointer;
+  z-index: 1000;
+}
+
+pre.z-code {
+  position: relative;
+  padding: 2.5em 1rem 1rem;
+  overflow: auto;
+  max-width: 100%;
+}
+
+pre.z-code>code {
+  display: inline-block;
+  min-width: 100%;
 }
 
 hr {
