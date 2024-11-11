@@ -29,9 +29,9 @@ description = "探索以 Static Site Generator（Zola）打造的輕量網站，
 * [2024 巴黎奧運台灣隊賽程 Google 行事曆](/blog/2024-olympics-taiwan-calendar/) <span class="view-count">(336)</span>
 * [DevOpsDays Taipei 2024 心得](/blog/2024-devopsdays-taipei/) <span class="view-count">(317)</span>
 * [在倫敦遇到扒手](/blog/london-pickpocketing/) <span class="view-count">(258)</span>
-* [關於](/about/) <span class="view-count">(233)</span>
+* [關於](/about/) <span class="view-count">(235)</span>
 * [《打造第二大腦 Building A Second Brain》閱讀筆記：第一第二大腦各司其職](/reading-notes/building-a-second-brain/) <span class="view-count">(201)</span>
-* [2024 個人目標管理](/blog/2024-personal-goal-management/) <span class="view-count">(186)</span>
+* [2024 個人目標管理](/blog/2024-personal-goal-management/) <span class="view-count">(188)</span>
 
 
 # 其他頁面
