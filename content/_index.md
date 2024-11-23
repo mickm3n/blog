@@ -23,7 +23,7 @@ description = "探索以 Static Site Generator（Zola）打造的輕量網站，
 
 # 熱門文章
 * [2023 溫布頓網球現場排票心得](/blog/2023-wimbledon-tennis/) <span class="view-count">(2249)</span>
-* [《文化地圖 The Culture Map》閱讀筆記：跨國合作的八大維度](/reading-notes/the-culture-map/) <span class="view-count">(654)</span>
+* [《文化地圖 The Culture Map》閱讀筆記：跨國合作的八大維度](/reading-notes/the-culture-map/) <span class="view-count">(655)</span>
 * [我的 2023 個人知識管理系統 Personal Knowledge Management (PKM)](/blog/2023-personal-knowledge-management/) <span class="view-count">(564)</span>
 * [《思考的框架 The Great Mental Models》閱讀筆記：建立多元思維模型](/reading-notes/the-great-mental-models/) <span class="view-count">(545)</span>
 * [2024 巴黎奧運台灣隊賽程 Google 行事曆](/blog/2024-olympics-taiwan-calendar/) <span class="view-count">(337)</span>
