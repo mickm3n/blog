@@ -13,7 +13,7 @@ tags = [ "generative-ai",]
 
 文章：[You Exist In The Long Context](https://thelongcontext.com/)
 
-被身為 NotebookLM 傳教士的 Steven Johnson 傳教成功。~Gemini 的 Long Context Window 就是真理。~
+被身為 NotebookLM 傳教士的 Steven Johnson 傳教成功。~從今天起，Gemini 的 Long Context Window 就是真理。~
 
 文章用一個對話框當作開始，可以經由這個對話框對他的新書《The Infernal Machine》做沉浸式的體驗。
 
