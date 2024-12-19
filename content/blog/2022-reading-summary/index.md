@@ -74,3 +74,4 @@ image = "books.webp"
 # 更多閱讀總回顧
 * [2021 閱讀總回顧](@/blog/2021-reading-summary/index.md)
 * [2023 閱讀總回顧](@/blog/2023-reading-summary/index.md)
+* [2024 閱讀總回顧](@/blog/2024-reading-summary/index.md)
