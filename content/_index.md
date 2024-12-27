@@ -31,7 +31,7 @@ description = "探索以 Static Site Generator（Zola）打造的輕量網站，
 * [在倫敦遇到扒手](/blog/london-pickpocketing/) <span class="view-count">(279)</span>
 * [關於](/about/) <span class="view-count">(249)</span>
 * [《打造第二大腦 Building A Second Brain》閱讀筆記：第一第二大腦各司其職](/reading-notes/building-a-second-brain/) <span class="view-count">(204)</span>
-* [2024 個人目標管理](/blog/2024-personal-goal-management/) <span class="view-count">(194)</span>
+* [2024 個人目標管理](/blog/2024-personal-goal-management/) <span class="view-count">(195)</span>
 
 
 # 其他頁面
