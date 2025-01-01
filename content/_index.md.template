@@ -1,10 +1,6 @@
 +++
 title = "首頁"
-date = 2023-04-13
-updated = 2023-05-03
 description = "探索以 Static Site Generator（Zola）打造的輕量網站，涵蓋讀書筆記、主題文章與網路資源推薦。點擊了解更多熱門文章和網站功能。"
-
-[taxonomies]
 
 [extra]
 +++
