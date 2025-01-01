@@ -3,7 +3,7 @@ title = "閱讀筆記"
 sort_by = "date"
 template = "reading-notes-table.html"
 page_template = "reading-note.html"
-generate_feed = true
+generate_feeds = true
 description = "瀏覽我整理的高分書籍閱讀心得，根據評分排序，發掘最佳推薦書單！歡迎在 Goodreads 分享你的書單並交流閱讀心得。"
 
 +++
