@@ -14,6 +14,10 @@ tags = []
 > * MINOR: 有小型更新時變動，例如增加了 sortable table view 或是搜尋功能。
 > * PATCH: 有小幅度修正時變動，例如改了 style 或文章的 properties。
 
+# [2025-01-01][v1.7.5] 更新 Zola 到 v0.19.2
+## Changed
+* 更新 Zola 到 v0.19.2
+
 # [2024-08-02][v1.7.4] 用 OpenAI gpt-4o 生成 Open Graph Description
 ## New
 * 用 OpenAI gpt-4o 的模型用 SEO 的角度總結文章，補上人為懶得寫的 description。
