@@ -27,7 +27,7 @@ description = "探索以 Static Site Generator（Zola）打造的輕量網站，
 * [在倫敦遇到扒手](/blog/london-pickpocketing/) <span class="view-count">(283)</span>
 * [關於](/about/) <span class="view-count">(254)</span>
 * [《打造第二大腦 Building A Second Brain》閱讀筆記：第一第二大腦各司其職](/reading-notes/building-a-second-brain/) <span class="view-count">(204)</span>
-* [蘇格拉底式提問法 Socratic Questioning](/wisdom/methods/socratic-questioning/) <span class="view-count">(198)</span>
+* [蘇格拉底式提問法 Socratic Questioning](/wisdom/methods/socratic-questioning/) <span class="view-count">(199)</span>
 
 
 # 其他頁面
