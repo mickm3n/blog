@@ -5,7 +5,7 @@ description = "了解如何建立個人知識管理系統 (PKM)，善用數位�
 
 [taxonomies]
 categories = [ "生產力工具",]
-tags = []
+tags = ["productivity", "system"]
 
 [extra]
 image = "og-image.webp"
