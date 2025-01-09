@@ -13,7 +13,7 @@ tags = []
 
 文章：[In search of discipline](https://learnlearnlearn.substack.com/p/in-search-of-discipline)
 
-喜歡當中的這一句
+喜歡當中的這一句：
 
 > Many people see discipline as an uncomfortable force exerted on oneself. However, I view it as an exploration of how to work with my natural tendencies within the constraints of reality.
 >
