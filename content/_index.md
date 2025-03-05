@@ -25,9 +25,9 @@ description = "探索以 Static Site Generator（Zola）打造的輕量網站，
 * [2024 巴黎奧運台灣隊賽程 Google 行事曆](/blog/2024-olympics-taiwan-calendar/) <span class="view-count">(342)</span>
 * [DevOpsDays Taipei 2024 心得](/blog/2024-devopsdays-taipei/) <span class="view-count">(327)</span>
 * [在倫敦遇到扒手](/blog/london-pickpocketing/) <span class="view-count">(301)</span>
-* [關於](/about/) <span class="view-count">(289)</span>
+* [關於](/about/) <span class="view-count">(290)</span>
 * [蘇格拉底式提問法 Socratic Questioning](/wisdom/methods/socratic-questioning/) <span class="view-count">(259)</span>
-* [【零日攻擊 Zero Day】完整前導片](/wisdom/videos/zero-day-trailer/) <span class="view-count">(255)</span>
+* [【零日攻擊 Zero Day】完整前導片](/wisdom/videos/zero-day-trailer/) <span class="view-count">(256)</span>
 
 
 # 其他頁面
