@@ -3,3 +3,4 @@ static/processed_images/
 .venv/
 post_embedding_cache.pkl
 __pycache__
+.env
