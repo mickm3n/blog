@@ -2,7 +2,6 @@ import frontmatter
 import json
 import autocorrect_py as autocorrect
 
-from frontmatter.default_handlers import TOMLHandler
 from openai import OpenAI
 from utils import find_md_files
 
@@ -85,6 +84,7 @@ ignore_md_files = [
     "content/blog/experiments/_index.md",
     "content/wisdom/_index.md",
     "content/wisdom/podcasts/_index.md",
+    "content/wisdom/strategies/_index.md",
     "content/wisdom/templates/_index.md",
     "content/wisdom/articles/_index.md",
     "content/wisdom/lists/_index.md",
