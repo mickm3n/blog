@@ -1,0 +1,12 @@
+[project]
+name = "blog"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "autocorrect-py>=2.9.0",
+    "openai>=1.66.3",
+    "python-frontmatter>=1.1.0",
+    "toml>=0.10.2",
+]
