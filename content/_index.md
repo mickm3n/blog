@@ -19,14 +19,14 @@ description = "探索以 Static Site Generator（Zola）打造的輕量網站，
 
 # 熱門文章
 * [2023 溫布頓網球現場排票心得](/blog/2023-wimbledon-tennis/) <span class="view-count">(2450)</span>
-* [《文化地圖 The Culture Map》閱讀筆記：跨國合作的八大維度](/reading-notes/the-culture-map/) <span class="view-count">(899)</span>
-* [《思考的框架 The Great Mental Models》閱讀筆記：建立多元思維模型](/reading-notes/the-great-mental-models/) <span class="view-count">(714)</span>
-* [我的 2023 個人知識管理系統 Personal Knowledge Management (PKM)](/blog/2023-personal-knowledge-management/) <span class="view-count">(667)</span>
+* [《文化地圖 The Culture Map》閱讀筆記：跨國合作的八大維度](/reading-notes/the-culture-map/) <span class="view-count">(902)</span>
+* [《思考的框架 The Great Mental Models》閱讀筆記：建立多元思維模型](/reading-notes/the-great-mental-models/) <span class="view-count">(715)</span>
+* [我的 2023 個人知識管理系統 Personal Knowledge Management (PKM)](/blog/2023-personal-knowledge-management/) <span class="view-count">(668)</span>
 * [蘇格拉底式提問法 Socratic Questioning](/wisdom/methods/socratic-questioning/) <span class="view-count">(447)</span>
 * [淨脈呼吸法 Nadi Shodhana](/wisdom/methods/nadi-shodhana/) <span class="view-count">(405)</span>
 * [DevOpsDays Taipei 2024 心得](/blog/2024-devopsdays-taipei/) <span class="view-count">(385)</span>
 * [2024 巴黎奧運台灣隊賽程 Google 行事曆](/blog/2024-olympics-taiwan-calendar/) <span class="view-count">(344)</span>
-* [【零日攻擊 Zero Day】完整前導片](/wisdom/videos/zero-day-trailer/) <span class="view-count">(339)</span>
+* [【零日攻擊 Zero Day】完整前導片](/wisdom/videos/zero-day-trailer/) <span class="view-count">(341)</span>
 * [在倫敦遇到扒手](/blog/london-pickpocketing/) <span class="view-count">(329)</span>
 
 
