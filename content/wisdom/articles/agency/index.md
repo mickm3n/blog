@@ -1,13 +1,15 @@
 +++
 title = "能動性（Agency）"
 date = 2025-04-06
+description = "在人工智慧時代，能動性成為稀缺資源。通過 George Mack 的指南，學習如何在短短三十分鐘內提升個人能動性，精通思考、行動和質疑，突破現狀成為自己生活的主導者。"
 
 [taxonomies]
 categories = [ "閱讀筆記",]
-tags = [ ]
+tags = []
 
 [extra]
 image = "agency-meme.webp"
+
 +++
 
 創作者：[George Mack](https://www.george-mack.com/)
