@@ -15,7 +15,7 @@ tags = [ "startup", "ai-coding",]
 
 蠻有趣的想法。
 
-以 Paul Graham 的 "Do Things that Don't Scale"，增加 "And then, Don't Scale"
+以 Paul Graham 的 "[Do Things that Don't Scale](@/wisdom/articles/do-things-that-dont-scale/index.md)"，增加 "And then, Don't Scale"
 
 在 AI Coding 的時代，初期 Prototype 的開發成本大幅降低，越來越多人可以透過 AI 工具開發滿足自己需求的應用程式。但如果想要做的更大，就會有更多的考量點，也會有額外的問題。
 
