@@ -23,7 +23,7 @@ tags = []
 閱讀是我自我成長很重要的部分，以下附上我近期讀完的書和正在讀的書，如果你也喜歡這些書，歡迎與我分享與討論。
 
 最近剛閱讀完的書：
-* 《[設計的心理學 The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things#CommunityReviews)》by Donald A. Norman
+* 《[設計的心理學 The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)》by Donald A. Norman
 * 《[The Pragmatic Programmer](https://www.goodreads.com/book/show/52715562-the-pragmatic-programmer)》by David Thomas, Andrew Hunt
 * 《[深度職場力 So Good They Can't Ignore You](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)》by Cal Newport
 

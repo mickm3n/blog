@@ -32,7 +32,7 @@ image = "devopsdays.webp"
 
 ## 從 API First 到 AI First - 安德魯 Andrew Wu
 
-> [投影片](https://docs.google.com/presentation/d/10o1VN0Q-97eTwYN_N-UP8pzLlxrxSBJbfXCcq0mTEDk/edit#slide=id.g274de07fa95_1_484)
+> [投影片](https://docs.google.com/presentation/d/10o1VN0Q-97eTwYN_N-UP8pzLlxrxSBJbfXCcq0mTEDk/edit)
 
 本來這個時間安排要去參加工作坊，不過在兩個工作坊間有半小時的空檔，找了間會議室坐下來，不小心遇到我這兩天最喜歡的一場演講。
 
@@ -40,7 +40,7 @@ image = "devopsdays.webp"
 
 過往要產生好用的使用者介面，往往仰賴的是設計師對產品價值及對使用者的了解，加上自己的經驗來設計介面，提供適合使用者的資訊內容與呈現方式。有了生成式 AI 的聊天介面後，透過大型語言模型對語意的理解，提供對話方式也成為一種新的使用者介面。
 
-在這個演講，Andrew 主要使用的是 [OpenAI ChatGPT 的 GPTs](https://openai.com/index/introducing-gpts/)，利用 GPTs 背後能夠設定 Prompt 和 [Function Calling](https://platform.openai.com/docs/guides/function-calling) 的功能，提供一個電商的聊天客服介面，在 [投影片](https://docs.google.com/presentation/d/10o1VN0Q-97eTwYN_N-UP8pzLlxrxSBJbfXCcq0mTEDk/edit#slide=id.g274de07fa95_1_484) 裡面可以找得到他的 Demo 影片。
+在這個演講，Andrew 主要使用的是 [OpenAI ChatGPT 的 GPTs](https://openai.com/index/introducing-gpts/)，利用 GPTs 背後能夠設定 Prompt 和 [Function Calling](https://platform.openai.com/docs/guides/function-calling) 的功能，提供一個電商的聊天客服介面，在 [投影片](https://docs.google.com/presentation/d/10o1VN0Q-97eTwYN_N-UP8pzLlxrxSBJbfXCcq0mTEDk/edit) 裡面可以找得到他的 Demo 影片。
 
 覺得蠻有洞見的是，他從兩年前的 [API First 主題](https://columns.chicken-house.net/2022/10/26/apifirst/)，強調好的 API 設計是提供商業價值與長遠的擴充性不可或缺的部分，到了這兩年生成式 AI 的大幅發展，他將其疊加在 API First 的概念上，好的 API 設定提供了符合商業價值的功能定義，而生成式 AI 是用大量通則資訊訓練而成的，所以如果你的 API 設計上越符合真實世界的**行為**，AI 就能用得更好。
 

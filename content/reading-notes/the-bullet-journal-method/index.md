@@ -41,7 +41,7 @@ image = "the-bullet-journal-method.webp"
 
 ![](index.webp)
 
-你可以從 [Bullet Journal](https://bulletjournal.com/pages/learn) 的網站中，很快速以影片、圖像的方式來了解這樣的日記方式。
+你可以從 [Bullet Journal](https://bulletjournal.com/) 的網站中，很快速以影片、圖像的方式來了解這樣的日記方式。
 
 ## 世界越快，心則慢
 

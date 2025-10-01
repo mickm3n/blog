@@ -9,9 +9,9 @@ tags = []
 
 +++
 
-創作者：[Sibervepunk](https://sibervepunk.com/en/)
+創作者：[Sibervepunk](https://sibervepunk.com/about/)
 
-文章：[digital consumption keeps me from getting better at my job](https://sibervepunk.com/digital-consumption.html)
+文章：[digital consumption keeps me from getting better at my job](https://sibervepunk.com/digital-consumption/)
 
 網路時代促進了資訊的流通，使任何資訊都更容易取得。但作者提到，大部分的資訊消費者可能都沒有意識到篩選資訊的重要性。
 
