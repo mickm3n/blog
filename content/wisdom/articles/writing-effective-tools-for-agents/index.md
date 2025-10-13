@@ -1,5 +1,5 @@
 +++
-title = "Writing effective tools for agents — with agents"
+title = "實作 MCP 與 API 的差異"
 date = 2025-10-13
 description = "探討如何為 AI agents 撰寫有效的 MCP 工具，包括與傳統 API 的差異、context window 限制，以及錯誤處理中的 prompt engineering 技巧"
 
