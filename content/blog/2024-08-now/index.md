@@ -29,4 +29,4 @@ tags = []
 
 這個月只讀完了《設計的心理學 The Design of Everyday Things》，是一本很棒的書，提供很多好的產品思維，很有系統性地描述了設計的階段、可以應用的方法，推薦給想入門設計領域和對產品設計有興趣的工程師閱讀。
 
-在寫作上有完成兩本書的讀書心得，《[競爭已死 The Myth of Capitalism](@/reading-notes/the-myth-of-capitalism/index.md)》和《[晶片戰爭 Chip War](@/reading-notes/chip-war/index.md)》，以及正在整理下一本書《超級思維 Super Thinking》的筆記，不過超級思維的內容超級多，感覺會拖好一陣子。寫作上蠻開心之前寫的《[DevOpsDays Taipei 2024 心得](https://blog.mickzh.com/blog/2024-devopsdays-taipei/)》有被安德魯推薦，小確幸。
+在寫作上有完成兩本書的讀書心得，《[競爭已死 The Myth of Capitalism](@/reading-notes/the-myth-of-capitalism/index.md)》和《[晶片戰爭 Chip War](@/reading-notes/chip-war/index.md)》，以及正在整理下一本書《超級思維 Super Thinking》的筆記，不過超級思維的內容超級多，感覺會拖好一陣子。寫作上蠻開心之前寫的《[DevOpsDays Taipei 2024 心得](@/blog/2024-devopsdays-taipei/index.md)》有被安德魯推薦，小確幸。
