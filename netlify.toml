@@ -4,3 +4,15 @@ command = "zola build"
 
 [build.environment]
 ZOLA_VERSION = "0.19.2"
+
+# 正式環境 - 使用 config.toml 中設定的 base_url
+[context.production]
+command = "zola build"
+
+# PR 預覽環境 - 使用預覽 URL
+[context.deploy-preview]
+command = "zola build --base-url $DEPLOY_PRIME_URL"
+
+# 分支部署環境 - 使用分支專屬 URL
+[context.branch-deploy]
+command = "zola build --base-url $DEPLOY_PRIME_URL"
