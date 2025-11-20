@@ -5,7 +5,7 @@ description = "探討意圖目標（Intentional Goal）的概念，透過五個�
 
 [taxonomies]
 categories = ["閱讀筆記"]
-tags = ["goal-setting", "self-improvement"]
+tags = ["goals"]
 
 +++
 
