@@ -13,7 +13,7 @@ tags = [ "generative-ai", "saas",]
 
 文章：[AI Agents are Starting to Eat SaaS](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
-過去 15 年是見證 Software eat the world 的發生，隨著近年 LLM 與 AI Agents 的成熟，世界將開始轉變成 Agents are going to eat SaaS。
+過去 15 年是見證 Software eat the world 的發生，隨著近年 LLM 與 AI Agents 的成熟，世界將開始轉變成 Agents eat SaaS。
 
 客製化工具將大大減少 SaaS 服務的需求。不需要為了少數特定功能，買擁有很多用不到的功能的 SaaS 服務，也不需要期待 SaaS 開發者在多方需求下能實作你需要的新功能。
 
