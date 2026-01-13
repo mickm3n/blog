@@ -57,7 +57,9 @@ Plugin 實作了 Slash Command `/ralph-loop` 指令來啟動迭代循環：
 
 ## 2. Stop Hook 攔截退出企圖
 
-這是這個 Ralph Wiggum Plugin 的精隨。通常 Claude Code 在完成任務後會自然結束對話，但 Ralph Wiggum Plugin 透過 **Stop Hook** 攔截了這個退出動作，並且重複執行任務直到 Agent 驗證完成條件送出 Promise，或是到達設定的最大迭代次數。
+這是 Ralph Wiggum Plugin 的精隨。
+
+通常 Claude Code 在完成任務後會自然結束對話，但 Ralph Wiggum Plugin 透過 **Stop Hook** 攔截了這個退出動作，並且重複執行任務直到 Agent 驗證完成條件送出 Promise，或是到達設定的最大迭代次數。
 
 # 適合使用 Ralph Wiggum Plugin 的場景
 
