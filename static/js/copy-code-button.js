@@ -4,9 +4,8 @@ document.addEventListener('DOMContentLoaded', (event) => {
         copyButton.className = 'copy-code-button';
         copyButton.type = 'button';
         copyButton.innerText = 'Copy';
-        copyButton.style.display = 'none';
 
-        document.body.appendChild(copyButton);
+        preBlock.appendChild(copyButton);
 
         copyButton.addEventListener('click', () => {
             const codeBlock = preBlock.querySelector('code');
@@ -24,21 +23,5 @@ document.addEventListener('DOMContentLoaded', (event) => {
                 }
             );
         });
-
-        const updateButtonPosition = () => {
-            const rect = preBlock.getBoundingClientRect();
-            if (rect.top < window.innerHeight && rect.bottom > 0) {
-                copyButton.style.display = 'block';
-                copyButton.style.top = `${Math.max(rect.top, 0)}px`;
-                copyButton.style.right = `${window.innerWidth - rect.right + 5}px`;
-            } else {
-                copyButton.style.display = 'none';
-            }
-        };
-
-        window.addEventListener('scroll', updateButtonPosition);
-        window.addEventListener('resize', updateButtonPosition);
-
-        updateButtonPosition();
     });
 });
