@@ -4,4 +4,3 @@ static/processed_images/
 post_embedding_cache.pkl
 __pycache__
 .env
-Claude.md
