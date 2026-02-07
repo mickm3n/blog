@@ -11,7 +11,17 @@ tags = [ "openclaw", "tailscale",]
 image = ""
 +++
 
-我的 [OpenClaw](https://github.com/openclaw/openclaw) 跑在家裡的 Mac Mini 上，平常作為 24 小時運行的個人 AI 助手。但 OpenClaw Gateway 預設綁定在 `localhost`，也就是只能在 Mac Mini 本機上存取 UI。問題是我大部分時間都是用 MacBook 在工作，偶爾也想在手機上跟 OpenClaw 互動，所以就研究了一下怎麼從其他裝置連上去。
+# OpenClaw 簡介
+
+最近養龍蝦很紅。[OpenClaw](https://github.com/openclaw/openclaw) 是一個跑在個人電腦上的 AI Agent，我覺得最厲害的地方是 Channel 整合做得很好，支援 Slack、Telegram、WhatsApp 等各種通訊平台，設定完就可以隨時跟 Agent 溝通。我自己是接到個人 Slack，有事情就丟訊息給它。
+
+因為跑在本機，OpenClaw 可以操作你電腦上的各種工具——讀寫檔案、執行指令、瀏覽網頁，權限很大，所以可以當成很強的個人助理來用。但好用跟安全性通常是反向的，權限越大風險也越高，所以使用的同時也會特別注意安全性的設定。
+
+這篇就是關於網路層面的安全性設定。
+
+# 動機
+
+我的 OpenClaw 跑在家裡的 Mac Mini 上，平常作為 24 小時運行的個人 AI 助手。但 OpenClaw Gateway 預設綁定在 `localhost`，也就是只能在 Mac Mini 本機上存取 UI。問題是我大部分時間都是用 MacBook 在工作，偶爾也想在手機上跟 OpenClaw 互動，所以就研究了一下怎麼從其他裝置連上去。
 
 最後選擇了 [Tailscale](https://tailscale.com/)，設定過程比想像中簡單很多。
 
