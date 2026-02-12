@@ -531,11 +531,21 @@ th {
   font-weight: bold;
   padding: 0.5rem;
   text-align: left;
+  border-right: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+th:last-child {
+  border-right: none;
 }
 
 td {
   border-bottom: 1px solid var(--colors-border);
+  border-right: 1px solid var(--colors-border);
   padding: 0.5rem;
+}
+
+td:last-child {
+  border-right: none;
 }
 
 tr:nth-child(even) td {
