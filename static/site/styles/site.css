@@ -542,6 +542,11 @@ td {
   border-bottom: 1px solid var(--colors-border);
   border-right: 1px solid var(--colors-border);
   padding: 0.5rem;
+  text-align: right;
+}
+
+.reading-notes-table td {
+  text-align: left;
 }
 
 td:last-child {
