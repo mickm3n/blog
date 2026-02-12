@@ -20,6 +20,16 @@ tags = [ "openclaw" ]
 
 直到最近在檢視 Token 的使用時，才發現主要的 Session 一直會在處理 Heartbeat 的任務，會填滿 Context Window。在想著要優化 Token 的使用效率，反而才弄懂了 Heartbeat Cron 與 Isolated Cron 的差異。
 
+# 先搞懂 Heartbeat 是什麼
+
+在進入排程比較之前，先簡單理解 OpenClaw 的 Heartbeat 機制。
+
+Heartbeat 是 OpenClaw 讓 agent 從被動回應變成主動巡查的核心機制。每隔一段時間（預設 30 分鐘），Gateway 會對 agent 發送一個 heartbeat prompt，agent 會去讀取工作區中的 `HEARTBEAT.md` 檔案，檢查裡面列出的待辦事項，然後決定要回傳靜默的 `HEARTBEAT_OK`（沒事）還是主動發訊息通知你（有事）。
+
+`HEARTBEAT.md` 本質上就是一份你希望 agent 定期監控的巡查清單，例如：收信箱是否有緊急郵件、行事曆是否有即將到來的會議、Git 是否有未合併的 PR 等。如果 `HEARTBEAT.md` 存在但內容是空的（只有空行和 markdown 標題），OpenClaw 會跳過該次 heartbeat 以節省 API 費用。
+
+關鍵的設計在於：heartbeat 運行在與正常對話相同的 session context 中，agent 能記住之前檢查過什麼、避免重複通知，並根據過去的結果來調整判斷。這就是為什麼 Heartbeat Cron 和 Isolated Cron 會有本質上的差異。
+
 # 兩種排程方式的差異
 
 OpenClaw 的 Cron Job 分成兩種運作模式，Heartbeat Cron 與 Isolated Cron。
@@ -39,6 +49,11 @@ OpenClaw 的 Cron Job 分成兩種運作模式，Heartbeat Cron 與 Isolated Cro
 - 每次執行都會增加 main session 的 context，長期下來 token 消耗會增加
 - 如果你的 `heartbeat` 設成 `0m`（關閉），用 `wakeMode: next-heartbeat` 不會生效，因為根本沒有週期性的 Heartbeat Tick
 - 排程任務跟預設對話共用同一條 session，互相會影響上下文
+- Heartbeat 處理外部內容（例如信箱郵件）時，需留意 prompt injection 風險 — 惡意內容可能被 agent 當作指令執行，使用時需謹慎設定權限
+
+**實用設定提示：**
+- 可以設定 `activeHours`（例如 `08:00–24:00`）限制 heartbeat 只在特定時段內執行，避免半夜收到不緊急的通知
+- 預設情況下 heartbeat 會用主模型（例如 Opus）處理，但簡單的巡查任務其實不需要最強的模型，像 Gemini Flash-Lite 每百萬 token 僅 50 美分，是 Opus 的六十分之一，做 heartbeat 檢查完全夠用
 
 ## Isolated Cron
 
@@ -65,7 +80,15 @@ OpenClaw 的 Cron Job 分成兩種運作模式，Heartbeat Cron 與 Isolated Cro
 需要 → Heartbeat Cron（main session）
 不需要 → Isolated Cron
 
-大部分的定時任務其實都不需要對話脈絡，所以 Isolated Cron 會是比較常用的選擇。把 main session 保持乾淨，只在真正需要上下文的任務才走 heartbeat 流程。
+更具體來說，main session 的共享 context 在以下場景才真正有不可替代的價值：
+
+1. **需要感知「剛才聊了什麼」的連續判斷** — 你跟龍蝦說「我在等 John 回那份合約的信，來了馬上通知我」，heartbeat 下次醒來時因為在同一個 session，天然就知道這件事要優先看。Isolated Cron 不在同一個 context 裡，你得額外把這種臨時性的意圖寫進某個 state file，它才知道。
+2. **避免跟對話內容重複通知** — 如果你 10 分鐘前在聊天裡已經處理了某封郵件，heartbeat 因為看得到對話歷史，不會再通知你一次。Isolated Cron 看不到主對話發生了什麼，除非你另外做去重邏輯。
+3. **跨任務的「連點成線」判斷** — 上午跟龍蝦討論了 A 客戶的專案進度，下午 heartbeat 醒來發現 A 客戶寄了一封信，它能把這兩件事關聯起來判斷緊急程度。Isolated Cron 缺少這個上下文，只能根據信件本身的內容做判斷。
+
+但說實話，這些「優勢」在實務上的邊際效益不一定大 — 如果你用了 persistent memory（向量資料庫或檔案），Isolated Cron 也能讀取歷史狀態，差距就縮小很多。而且 main session 的 context window 會越來越大，每次 heartbeat 都帶著完整對話歷史跑一次 model call，token 成本會累積得很快。Isolated Cron 的隔離性反而是優點：scope 明確、prompt 精簡、失敗不影響主對話、更容易 debug。
+
+大部分的定時任務其實都不需要對話脈絡，所以 Isolated Cron 會是比較常用的選擇。把 main session 保持乾淨，只在真正需要「感知對話流」的軟性判斷場景才走 heartbeat 流程。
 
 # 設定範例
 
