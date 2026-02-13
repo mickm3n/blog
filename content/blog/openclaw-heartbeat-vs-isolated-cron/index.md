@@ -1,6 +1,6 @@
 +++
 title = "龍蝦（OpenClaw）的排程任務：Heartbeat Cron vs Isolated Cron 的差異與選擇"
-date = 2026-02-12
+date = 2026-02-13
 description = "在 OpenClaw 設定 cron job 時，該用 main session 的 heartbeat 流程還是 isolated session？從實際使用經驗出發，比較兩種排程方式的差異與適用場景"
 
 [taxonomies]
