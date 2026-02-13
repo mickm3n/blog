@@ -9,7 +9,7 @@ tags = [ "openclaw",]
 
 +++
 
-上一篇介紹了【[透過 Tailscale 從任何裝置存取家裡的 OpenClaw](@/blog/openclaw-tailscale-integration/index.md)】的設定，這篇接著記錄在設定 Cron Job 時踩到的雷。
+在【[上一篇](@/blog/openclaw-heartbeat-vs-isolated-cron/index.md)】介紹了 Heartbeat Cron 與 Isolated Cron 的差異與選擇，把大部分的定時任務都改成了 Isolated Cron。但在設定 Isolated Cron 的 delivery 時又踩了一個雷，這篇記錄一下排查的過程。
 
 # 起因
 
