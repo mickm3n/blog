@@ -1,5 +1,5 @@
 +++
-title = "透過 Tailscale 從任何裝置存取家裡的 OpenClaw"
+title = "透過 Tailscale 從任何裝置存取家裡的龍蝦（OpenClaw）"
 date = 2026-02-05
 description = "在 Mac Mini 上跑 OpenClaw，透過 Tailscale Serve 讓 MacBook 和手機都能安全連上，不用設定防火牆也不用暴露在外網上"
 
