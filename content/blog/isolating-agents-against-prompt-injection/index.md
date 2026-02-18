@@ -53,6 +53,54 @@ OpenClaw 提供兩層權限控制，在了解之後覺得設計得蠻好的。
 
 Soft guardrail 處理正常情況，hard guardrail 防禦 Prompt Injection。兩者搭配才是完整的防禦。
 
+# 可用的工具清單
+
+在設定 Tool Policy 之前，要先知道有哪些工具可以控制。OpenClaw 預設會開啟所有內建工具，也就是說如果你沒有設定 `tools.allow` 或 `tools.deny`，agent 就擁有完整的工具存取權限。
+
+以下是目前 OpenClaw 內建的工具，依類別分類：
+
+| 類別 | 工具 |
+|------|------|
+| 檔案系統 | `read`、`write`、`edit`、`apply_patch` |
+| 執行 | `exec`、`bash`、`process` |
+| Web | `web_search`、`web_fetch` |
+| 瀏覽器/UI | `browser`、`canvas` |
+| 訊息 | `message`、`slack`、`discord` |
+| Session | `sessions_list`、`sessions_history`、`sessions_send`、`sessions_spawn`、`session_status` |
+| 記憶 | `memory_search`、`memory_get` |
+| 系統/自動化 | `cron`、`gateway`、`nodes` |
+| 影像 | `image` |
+| 多 agent | `agents_list` |
+
+數量不少。反過來看，如果你的 main agent 被 Prompt Injection 操控，攻擊者能用的工具也是這整張清單——讀檔、寫檔、跑指令、搜 memory、操作其他 session，什麼都能做。這也是為什麼要把處理不受信任資料的任務隔離出去。
+
+## Tool Groups
+
+一個一個列工具有點麻煩，OpenClaw 提供了 Tool Groups 作為群組縮寫，可以直接用在 `allow` 或 `deny` 裡：
+
+| 群組 | 展開成 |
+|------|--------|
+| `group:fs` | `read`、`write`、`edit`、`apply_patch` |
+| `group:runtime` | `exec`、`bash`、`process` |
+| `group:sessions` | `sessions_list`、`sessions_history`、`sessions_send`、`sessions_spawn`、`session_status` |
+| `group:memory` | `memory_search`、`memory_get` |
+| `group:ui` | `browser`、`canvas` |
+| `group:automation` | `cron`、`gateway` |
+| `group:messaging` | `message` |
+| `group:nodes` | `nodes` |
+| `group:openclaw` | 所有 OpenClaw 內建工具（不含 provider plugins） |
+
+例如 scraper agent 要封鎖檔案系統存取，`deny` 裡直接放 `group:fs` 就好，不用把 `read`、`write`、`edit`、`apply_patch` 一個一個列出來。
+
+## 工具 vs Skill
+
+這裡要注意一個容易搞混的地方：**Tool 和 Skill 是不同的東西**。
+
+* **Tool** 是系統層級的能力——讀檔、執行指令、搜尋網頁等，由 Tool Policy 控制，是 hard guardrail 的一部分
+* **Skill** 是 prompt 層級的行為模板——例如「用特定格式整理新聞」或「依照某個流程分析資料」，本質上是預設的 prompt snippet
+
+Tool Policy 可以強制限制 Tool 的使用，但 Skill 因為是 prompt 層級的，只能靠 soft guardrail（`AGENTS.md`）來約束。在做安全設計時，防禦的重點應該放在 Tool 的控制上，因為那才是 agent 實際能對系統做事的能力。
+
 # 實作步驟
 
 ## 1. 建立 Agent
