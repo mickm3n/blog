@@ -34,15 +34,15 @@
   }
 
   function updateToggleUI(theme) {
-    const btn = document.getElementById("theme-toggle-btn");
-    if (!btn) return;
-    if (theme === DARK) {
-      btn.setAttribute("title", "切換為淺色模式");
-      btn.innerHTML = '<span aria-hidden="true">☀️</span> <span class="theme-toggle-label">淺色</span>';
-    } else {
-      btn.setAttribute("title", "切換為深色模式");
-      btn.innerHTML = '<span aria-hidden="true">🌙</span> <span class="theme-toggle-label">深色</span>';
-    }
+    document.querySelectorAll(".theme-toggle").forEach(function (btn) {
+      if (theme === DARK) {
+        btn.setAttribute("title", "切換為淺色模式");
+        btn.innerHTML = '<span aria-hidden="true">☀️</span> <span class="theme-toggle-label">淺色</span>';
+      } else {
+        btn.setAttribute("title", "切換為深色模式");
+        btn.innerHTML = '<span aria-hidden="true">🌙</span> <span class="theme-toggle-label">深色</span>';
+      }
+    });
   }
 
   function updateUtterancesTheme(theme) {
@@ -66,10 +66,10 @@
   applyTheme(getActiveTheme());
 
   document.addEventListener("DOMContentLoaded", function () {
-    const btn = document.getElementById("theme-toggle-btn");
-    if (btn) {
+    // Attach click to all toggle buttons (mobile topbar + desktop nav)
+    document.querySelectorAll(".theme-toggle").forEach(function (btn) {
       btn.addEventListener("click", toggleTheme);
-    }
+    });
     // Re-sync UI after DOM is ready
     updateToggleUI(getActiveTheme());
 

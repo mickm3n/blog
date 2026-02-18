@@ -912,8 +912,14 @@ tr:first-child th {
   text-decoration: none;
 }
 
-/* Push theme toggle + search to the far right */
+/* Mobile-only toggle: visible on mobile, hidden on desktop */
+.theme-toggle--mobile {
+  display: flex;
+}
+
+/* Desktop toggle inside nav links: hidden on mobile, pushed right on desktop */
 .site-nav__theme-toggle {
+  display: none;
   margin-left: auto;
 }
 
@@ -1046,6 +1052,15 @@ tr:first-child th {
 
   .site-nav__actions {
     gap: 10px;
+  }
+
+  /* Swap toggle visibility on desktop */
+  .theme-toggle--mobile {
+    display: none;
+  }
+
+  .site-nav__theme-toggle {
+    display: flex;
   }
 
   .site-nav__links.is-open {
