@@ -103,7 +103,39 @@ Soft Guardrail 處理正常情況，Hard Guardrail 防禦 Prompt Injection。兩
 * **Tool** 是系統層級的能力——讀檔、執行指令、搜尋網頁等，由 Tool Policy 控制，是 Hard Guardrail 的一部分
 * **Skill** 是 Prompt 層級的行為模板——例如「用特定格式整理新聞」或「依照某個流程分析資料」，本質上是預設的 Prompt Snippet
 
-Tool Policy 可以強制限制 Tool 的使用，但 Skill 因為是 Prompt 層級的，只能靠 Soft Guardrail（`AGENTS.md`）來約束。在做安全設計時，防禦的重點應該放在 Tool 的控制上，因為那才是 Agent 實際能對系統做事的能力。
+之前我以為 Skill 只能靠 `AGENTS.md` 來約束，後來研究發現 Skill 其實也有系統層級的控制機制，分成兩層：
+
+**1. 全域 Bundled Skills Allowlist**
+
+在 `openclaw.json` 的 `skills.allowBundled` 設定，控制整個 Gateway 可以使用哪些 Bundled Skills。省略的話預設全部開放。
+
+```json
+{
+  "skills": {
+    "allowBundled": ["weather", "slack", "github"]
+  }
+}
+```
+
+**2. Per-Agent Skills Allowlist**
+
+在 `agents.list[].skills` 設定，控制個別 Agent 可以使用哪些 Skills：
+
+```bash
+openclaw config set 'agents.list[1].skills' '["weather","slack"]' --json
+```
+
+| 值 | 效果 |
+|----|------|
+| 省略（不設定） | 繼承全域設定，全部可用 |
+| `[]` 空陣列 | 封鎖所有 Skills |
+| `["a","b"]` | 只允許列出的 Skills |
+
+**3. 間接限制：Tool Policy**
+
+Skill 底層仍然會呼叫 Tool。如果 Agent 的 `tools.allow` 不包含某個 Skill 需要的工具，Skill 雖然「可見」但執行時會被 Tool Policy 攔截。例如 Scraper 的 `tools.allow` 只有 `["web_search","web_fetch","message"]`，任何需要 `exec` 的 Skill 實際上跑不起來。
+
+目前我的 Main 和 Scraper 都沒有設 `skills` Key，等同全部 Eligible Skills 開放。Scraper 的實際限制是靠 Tool Policy 間接達成的——即使 Skill 被觸發，底層缺少對應的 Tool 也執行不了。在做安全設計時，Tool Policy 仍然是最核心的防線。
 
 # 實作步驟
 
