@@ -1,6 +1,6 @@
 +++
-title = "建立獨立的 Agent 防範 Prompt Injection"
-date = 2026-02-16
+title = "在龍蝦（OpenClaw）建立 Multi Agent 防範 Prompt Injection"
+date = 2026-02-17
 description = "在 OpenClaw 上建立專責的 scraper agent，透過工具權限最小化與多層防護機制，防止 Prompt Injection 攻擊導致資料外洩。"
 
 [taxonomies]
@@ -13,10 +13,11 @@ image = "openclaw.webp"
 
 ![](openclaw.webp)
 
-在前幾篇介紹了[龍蝦的 Tailscale 串接](@/blog/openclaw-tailscale-integration/index.md)、[Heartbeat Cron 與 Isolated Cron 的差異](@/blog/openclaw-heartbeat-vs-isolated-cron/index.md)和 [Delivery Mode 的踩雷記錄](@/blog/openclaw-cron-delivery-mode/index.md)之後，這篇來聊另一個在使用過程中一直在想的問題——安全性。
+在前幾篇介紹了《[龍蝦的 Tailscale 串接](@/blog/openclaw-tailscale-integration/index.md)》、《[Heartbeat Cron 與 Isolated Cron 的差異](@/blog/openclaw-heartbeat-vs-isolated-cron/index.md)》和《[Delivery Mode 的踩雷記錄](@/blog/openclaw-cron-delivery-mode/index.md)》，發現自己就是在實用性和安全性上擺盪。一方面想讓龍蝦能真實成為 AI 助手，盡可能地給予高的權限，但另一方面看著龍蝦背後做了很多事情來達成任務，又會擔心背後強大能力下的風險。
 
 # 問題：所有任務都跑在同一隻 Agent 上
 
+我原本在龍蝦還是用最一開始的設定，建立了一隻 main agent，把所有的任務都跑在這隻 agent 上，這隻 agent 擁有完整的系統權限——能執行 Bash、讀寫檔案，使用所有工具。
 我有幾個 Cron Job 會定時去網路上抓資訊、整理後送到 Slack。但這些 job 都跑在唯一的 main agent 上，而 main agent 擁有完整的系統權限——能執行 Bash、讀寫檔案、存取所有 workspace。
 
 爬取網頁是很常見的使用情境，但網頁內容是不受信任的外部資料，如果裡面藏了 Prompt Injection，agent 就有可能被操控。而 main agent 的權限這麼大，一旦被注入惡意指令，理論上可以：
