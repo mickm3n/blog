@@ -1020,6 +1020,7 @@ tr:first-child th {
 
   .site-nav__links {
     display: flex !important;
+    flex: 1;
     flex-direction: row;
     align-items: center;
     padding: 0 1rem 0 0.5rem;
