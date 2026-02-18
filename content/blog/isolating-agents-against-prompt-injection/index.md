@@ -51,6 +51,8 @@ OpenClaw 提供兩層權限控制，在了解之後覺得設計得蠻好的。
 * 每個 Agent 各自設定 Bash 指令的 Allowlist
 * 預設 Deny——沒有 Allowlist Entry 的 Agent 無法執行任何 Bash
 
+不過要注意的是，**Exec Approvals 只在 Sandbox 模式下有效**。預設建立的 Agent Sandbox 是關閉的，主要行為都直接跑在 Host 上，這時 Exec Approvals 並不會限制指令的執行。也就是說，在預設的設定下，真正的 Hard Guardrail 只有 Tool Policy。如果要讓 Exec Approvals 生效，需要額外開啟 Agent 的 Sandbox。
+
 Soft Guardrail 處理正常情況，Hard Guardrail 防禦 Prompt Injection。兩者搭配才是完整的防禦。
 
 # 可用的工具清單
@@ -236,11 +238,11 @@ openclaw cron edit <jobId> --agent scraper
 
 # 防禦層次總結
 
-最後整理一下 Scraper Agent 的三層防護：
+最後整理一下 Scraper Agent 的防護層次：
 
 1. **Soft Guardrail（AGENTS.md）**：正常情況下，模型遵守指令，不會嘗試使用受限工具
-2. **Hard Guardrail（Tool Policy）**：即使模型被 Prompt Injection 繞過 Soft Guardrail，受限工具根本不存在於可用列表中
-3. **Hard Guardrail（Exec Approvals）**：即使某種方式觸發了 `exec`，沒有 Allowlist Entry 的 Agent 會被系統 Deny
+2. **Hard Guardrail（Tool Policy）**：即使模型被 Prompt Injection 繞過 Soft Guardrail，受限工具根本不存在於可用列表中——這是預設設定下最關鍵的防線
+3. **Hard Guardrail（Exec Approvals + Sandbox）**：如果有開啟 Sandbox，即使某種方式觸發了 `exec`，沒有 Allowlist Entry 的 Agent 會被系統 Deny。但預設 Sandbox 是關閉的，這層在未開啟時不會生效
 
 回到致命三重組合的框架來看，Scraper Agent 因為沒有讀取本機隱私資料的工具，即使同時暴露在不受信任的資料且具備對外溝通的能力，也無法把敏感資訊外洩——三重組合被打破了。
 
