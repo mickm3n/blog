@@ -62,9 +62,6 @@
               height="48" alt="針織拙見 Logo">
           </a>
           <div class="site-nav__actions">
-            <button id="theme-toggle-btn" class="theme-toggle" aria-label="切換顯示主題">
-              🌙 深色
-            </button>
             <button id="hamburger-btn" class="hamburger-btn" aria-label="開啟選單" aria-expanded="false" aria-controls="mobile-nav">
               <span class="hamburger-line"></span>
               <span class="hamburger-line"></span>
@@ -91,6 +88,9 @@
           </div>
           <a class="site-nav__link" href="/about/">關於</a>
           <a class="site-nav__link" href="/now/">Now Page</a>
+          <button id="theme-toggle-btn" class="theme-toggle site-nav__theme-toggle" aria-label="切換顯示主題">
+            🌙 深色
+          </button>
           <form action="https://www.google.com/search" id="search" method="get" target="_blank" class="site-nav__search">
             <input type="text" name="q" placeholder="搜尋..." class="site-nav__search-input" aria-label="搜尋">
             <input type="hidden" name="sitesearch" value="{{ config.base_url }}">

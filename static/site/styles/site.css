@@ -219,12 +219,11 @@ article h1 {
 }
 
 article h1::before {
-  /* This is necessary for the pseudo-element to be generated */
   content: "";
   position: absolute;
   width: 10px;
   height: 1.6rem;
-  background-color: var(--colors-navbar);
+  background-color: var(--colors-primary);
   top: 60%;
   left: 0;
   transform: translateY(-50%);
@@ -911,6 +910,11 @@ tr:first-child th {
   background: rgba(255, 255, 255, 0.15);
   color: var(--colors-text-light);
   text-decoration: none;
+}
+
+/* Push theme toggle + search to the far right */
+.site-nav__theme-toggle {
+  margin-left: auto;
 }
 
 /* Search */
