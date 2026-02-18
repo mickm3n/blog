@@ -19,23 +19,23 @@ image = "openclaw.webp"
 
 我原本在龍蝦的 Agent 設定還是用最一開始的設定，建立了一隻 Main Agent，把所有的任務都跑在這隻 Agent 上，這隻 Agent 擁有完整的系統權限——能執行 Bash、讀寫檔案、使用所有工具。我有幾個 Cron Job 會定時去網路上抓資訊、整理後送到 Slack。但這些 Job 都跑在這唯一的 Main Agent 上。
 
-爬取網頁是很常見的使用情境，但網頁內容是不受信任的外部資料，如果裡面藏了 Prompt Injection，Agent 就有可能被操控。而 Main Agent 的權限這麼大，一旦被注入惡意指令，理論上可以：
+爬取網頁是很常見的使用情境，但網頁內容是不受信任的外部資料，如果裡面藏了 [Prompt Injection 攻擊](https://owasp.org/www-community/attacks/PromptInjection)，Agent 就有可能被操控。而 Main Agent 的權限這麼大，一旦被注入惡意指令，理論上可以：
 
 * 讀取本機的設定檔和 Credential
 * 執行任意 Bash 指令
 * 存取其他 Agent 的 Workspace 和對話歷史
 
-這剛好就是在[致命三重組合](@/wisdom/articles/ai-agents-the-lethal-trifecta/index.md)中提到的三個條件全部到齊——**存取隱私資料**、**暴露在不受信任的資料**、**有能力對外溝通**。三個條件同時成立，Prompt Injection 攻擊就有可能把電腦裡的重要資料外洩。
+這剛好就是在《[AI Agent 的致命三重組合（The Lethal Trifecta）](@/wisdom/articles/ai-agents-the-lethal-trifecta/index.md)》中提到的三個條件全部到齊——**存取隱私資料**、**暴露在不受信任的資料**、**有能力對外溝通**，Prompt Injection 攻擊就有可能把電腦裡的重要資料外洩。
 
-解法的思路很直覺：既然問題是同一隻 Agent 同時具備三種能力，那就**開一隻專門跑爬取任務的 Agent，只給它最少的工具權限**，打破致命三重組合中的條件。
+解法的思路很直覺：既然問題是同一隻 Agent 同時具備三種能力，那就**開一隻專門跑爬取任務的 Agent，只給它最少的工具權限**，讓致命三重組合中的條件無法同時成立。
 
 # OpenClaw 的權限控制架構
 
-OpenClaw 提供兩層權限控制，在了解之後覺得設計得蠻好的。
+OpenClaw 提供兩層權限控制：
 
 ## Soft Guardrail — AGENTS.md
 
-每個 Agent 的 Workspace 裡有一份 `AGENTS.md`，用自然語言告訴 Agent 什麼能做、什麼不能做。這本質上是 Prompt 層級的約束，模型「選擇」遵守，但有可能被 Prompt Injection 繞過。
+每個 Agent 的 Workspace 裡有一份 `AGENTS.md`，用自然語言告訴 Agent 什麼能做、什麼不能做。這本質上是 Prompt 層級的約束，語言模型「選擇性」遵守，但有可能被 Prompt Injection 繞過。
 
 ## Hard Guardrail — Tool Policy + Exec Approvals
 
