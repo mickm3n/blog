@@ -33,59 +33,76 @@
     <meta property="og:description" content="{{ description }}" />
     <meta property="og:type" content="website" />
     <meta property="og:image" content="{{ sns_image }}" />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="{{ image_width }}" />
+    <meta property="og:image:width" content="{{ image_width }}" />
+    <meta property="og:image:height" content="630" />
     <meta property="og:url" content="{{ current_url }}" />
     <meta name="twitter:card" content="{{ twitter_card }}" />
-    <script src="{{ get_url(path="js/tablesort.min.js", cachebust=true) }}"></script>
-    <script src="{{ get_url(path="js/copy-code-button.js") | safe }}"></script>
+    <script src="{{ get_url(path="js/tablesort.min.js", cachebust=true) }}" defer></script>
+    <script src="{{ get_url(path="js/copy-code-button.js") | safe }}" defer></script>
     <link rel="icon" href="{{ get_url(path="images/favicon.ico", cachebust=true) }}" type="image/x-icon" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600&family=Noto+Serif+TC:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ get_url(path="site/styles/w3.css", trailing_slash=false, cachebust=true) | safe }}">
     <link rel="stylesheet"
       href="{{ get_url(path="site/styles/site.css", trailing_slash=false, cachebust=true) | safe }}">
     <link rel="alternate" type="application/atom+xml" href="{{ config.base_url }}/atom.xml"
       title="{{ config.title }}" />
+    <!-- Theme toggle: runs before paint to prevent flash of wrong theme -->
+    <script src="{{ get_url(path="js/theme-toggle.js", cachebust=true) | safe }}"></script>
   </head>
 
   <body>
     <header>
-      <nav class="w3-bar w3-teal">
-        <a class="w3-bar-item w3-mobile w3-teal" href="{{ config.base_url }}">
-          <img src="{{ get_url(path="images/logo_630.webp", trailing_slash=false, cachebust=true) | safe}}" width="60"
-            height="60" alt="Logo">
-        </a>
-        <a class="w3-bar-item w3-button w3-mobile w3-hover-green w3-large w3-teal w3-padding-24"
-          href="/reading-notes/">閱讀筆記</a>
-        <a class="w3-bar-item w3-button w3-mobile w3-hover-green w3-large w3-teal w3-padding-24" href="/blog/">部落格文章</a>
-        <div class="w3-dropdown-hover w3-mobile">
-          <button class="w3-button w3-large w3-hover-green w3-teal w3-padding-24">眾人的智慧</button>
-          <div class="w3-dropdown-content w3-bar-block">
-            <a class="w3-bar-item w3-button w3-mobile w3-hover-green" href="/wisdom/articles/">文章</a>
-            <a class="w3-bar-item w3-button w3-mobile w3-hover-green" href="/wisdom/videos/">影片</a>
-            <a class="w3-bar-item w3-button w3-mobile w3-hover-green" href="/wisdom/podcasts/">Podcast</a>
-            <a class="w3-bar-item w3-button w3-mobile w3-hover-green" href="/wisdom/lists/">清單</a>
-            <a class="w3-bar-item w3-button w3-mobile w3-hover-green" href="/wisdom/mental-models/">思維模型</a>
-            <a class="w3-bar-item w3-button w3-mobile w3-hover-green" href="/wisdom/methods/">方法</a>
-            <a class="w3-bar-item w3-button w3-mobile w3-hover-green" href="/wisdom/strategies/">策略</a>
-            <a class="w3-bar-item w3-button w3-mobile w3-hover-green" href="/wisdom/templates/">範本</a>
+      <nav class="site-nav" role="navigation" aria-label="主要導航">
+        <!-- Top bar: always visible -->
+        <div class="site-nav__topbar">
+          <a class="site-nav__logo" href="{{ config.base_url }}" aria-label="回首頁">
+            <img src="{{ get_url(path="images/logo_630.webp", trailing_slash=false, cachebust=true) | safe}}" width="48"
+              height="48" alt="針織拙見 Logo">
+          </a>
+          <div class="site-nav__actions">
+            <button class="theme-toggle theme-toggle--mobile" aria-label="切換顯示主題">
+              🌙 深色
+            </button>
+            <button id="hamburger-btn" class="hamburger-btn" aria-label="開啟選單" aria-expanded="false" aria-controls="mobile-nav">
+              <span class="hamburger-line"></span>
+              <span class="hamburger-line"></span>
+              <span class="hamburger-line"></span>
+            </button>
           </div>
         </div>
-        <a class="w3-bar-item w3-button w3-mobile w3-hover-green w3-large w3-teal w3-padding-24" href="/about/">關於</a>
-        <a class="w3-bar-item w3-button w3-mobile w3-hover-green w3-large w3-teal w3-padding-24" href="/now/">Now
-          Page</a>
-        <div class="w3-bar-item w3-right w3-padding-24">
-          <form action="https://www.google.com/search" id="search" method="get" target="_blank">
-            <input type="text" name="q" placeholder="搜尋..." class="w3-input w3-bar-item"
-              style="display:inline-block; width:auto;">
+        <!-- Nav links: horizontal on desktop, collapsible on mobile -->
+        <div id="mobile-nav" class="site-nav__links">
+          <a class="site-nav__link" href="/reading-notes/">閱讀筆記</a>
+          <a class="site-nav__link" href="/blog/">部落格文章</a>
+          <div class="site-nav__dropdown">
+            <button class="site-nav__dropdown-btn" aria-haspopup="true" aria-expanded="false">眾人的智慧 ▾</button>
+            <div class="site-nav__dropdown-menu" role="menu">
+              <a class="site-nav__dropdown-item" href="/wisdom/articles/" role="menuitem">文章</a>
+              <a class="site-nav__dropdown-item" href="/wisdom/videos/" role="menuitem">影片</a>
+              <a class="site-nav__dropdown-item" href="/wisdom/podcasts/" role="menuitem">Podcast</a>
+              <a class="site-nav__dropdown-item" href="/wisdom/lists/" role="menuitem">清單</a>
+              <a class="site-nav__dropdown-item" href="/wisdom/mental-models/" role="menuitem">思維模型</a>
+              <a class="site-nav__dropdown-item" href="/wisdom/methods/" role="menuitem">方法</a>
+              <a class="site-nav__dropdown-item" href="/wisdom/strategies/" role="menuitem">策略</a>
+              <a class="site-nav__dropdown-item" href="/wisdom/templates/" role="menuitem">範本</a>
+            </div>
+          </div>
+          <a class="site-nav__link" href="/about/">關於</a>
+          <a class="site-nav__link" href="/now/">Now Page</a>
+          <button id="theme-toggle-btn" class="theme-toggle site-nav__theme-toggle" aria-label="切換顯示主題">
+            🌙 深色
+          </button>
+          <form action="https://www.google.com/search" id="search" method="get" target="_blank" class="site-nav__search">
+            <input type="text" name="q" placeholder="搜尋..." class="site-nav__search-input" aria-label="搜尋">
             <input type="hidden" name="sitesearch" value="{{ config.base_url }}">
-            <button type="submit" class="w3-button w3-teal" style="display:inline-block; padding:6px;">
-              <i class="fa fa-search"></i>
-            </button>
+            <button type="submit" class="site-nav__search-btn" aria-label="送出搜尋">&#128269;</button>
           </form>
         </div>
       </nav>
     </header>
-    <main id="root" class="body-zone flex juistify-between flex-1 main-inner">
+    <main id="root" class="body-zone flex justify-between flex-1 main-inner">
       <section class="main flex-1 py">
         {% block content %}
         {% endblock content %}
@@ -145,11 +162,46 @@
     </footer>
     <script>
       document.addEventListener("DOMContentLoaded", function () {
+        // Mark external links
         var links = document.querySelectorAll("a");
         links.forEach(function (link) {
           if (link.hostname !== window.location.hostname && !link.querySelector('img')) {
             link.classList.add("external-link");
           }
+        });
+
+        // Hamburger menu toggle
+        var hamburgerBtn = document.getElementById("hamburger-btn");
+        var mobileNav = document.getElementById("mobile-nav");
+        if (hamburgerBtn && mobileNav) {
+          hamburgerBtn.addEventListener("click", function () {
+            var isOpen = mobileNav.classList.toggle("is-open");
+            hamburgerBtn.classList.toggle("is-open", isOpen);
+            hamburgerBtn.setAttribute("aria-expanded", isOpen ? "true" : "false");
+            mobileNav.setAttribute("aria-hidden", isOpen ? "false" : "true");
+          });
+          // Close menu when a link is clicked
+          mobileNav.querySelectorAll("a").forEach(function (link) {
+            link.addEventListener("click", function () {
+              mobileNav.classList.remove("is-open");
+              hamburgerBtn.classList.remove("is-open");
+              hamburgerBtn.setAttribute("aria-expanded", "false");
+              mobileNav.setAttribute("aria-hidden", "true");
+            });
+          });
+        }
+
+        // Dropdown toggle for mobile
+        var dropdownBtns = document.querySelectorAll(".site-nav__dropdown-btn");
+        dropdownBtns.forEach(function (btn) {
+          btn.addEventListener("click", function () {
+            var menu = btn.nextElementSibling;
+            if (menu) {
+              var isExpanded = btn.getAttribute("aria-expanded") === "true";
+              btn.setAttribute("aria-expanded", !isExpanded ? "true" : "false");
+              menu.style.display = isExpanded ? "" : "block";
+            }
+          });
         });
       });
     </script>
