@@ -95,6 +95,7 @@ tags = [ "tag1", "tag2",]
 - 主要使用繁體中文
 - 技術名詞保留英文（如 Prompt Injection、Agent、Cron Job、Tool Policy）
 - 中英混合自然切換，不刻意翻譯已有共識的技術術語
+- 文章中的英文字一律使用 Camel Case（每個單字首字母大寫），例如：Main Agent、Soft Guardrail、Allow List、Cron Job。Code Block 和 Backtick 內的程式碼不受此規則影響
 
 ## 語氣與結構
 - 對話式語氣，像在跟朋友分享經驗，不是寫論文
