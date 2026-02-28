@@ -18,16 +18,16 @@ description = "探索以 Static Site Generator（Zola）打造的輕量網站，
 另外在閱讀到很喜歡的網路資源時，會做簡單的整理和心得作推薦，可以從「[眾人的智慧](wistom/)」查看我精選的網路資源。
 
 # 熱門文章
-* [2023 溫布頓網球現場排票心得](/blog/2023-wimbledon-tennis/) <span class="view-count">(2715)</span>
-* [《文化地圖 The Culture Map》閱讀筆記：跨國合作的八大維度](/reading-notes/the-culture-map/) <span class="view-count">(1368)</span>
-* [《思考的框架 The Great Mental Models》閱讀筆記：建立多元思維模型](/reading-notes/the-great-mental-models/) <span class="view-count">(921)</span>
-* [我的 2023 個人知識管理系統 Personal Knowledge Management (PKM)](/blog/2023-personal-knowledge-management/) <span class="view-count">(785)</span>
-* [蘇格拉底式提問法 Socratic Questioning](/wisdom/methods/socratic-questioning/) <span class="view-count">(719)</span>
+* [2023 溫布頓網球現場排票心得](/blog/2023-wimbledon-tennis/) <span class="view-count">(2716)</span>
+* [《文化地圖 The Culture Map》閱讀筆記：跨國合作的八大維度](/reading-notes/the-culture-map/) <span class="view-count">(1369)</span>
+* [《思考的框架 The Great Mental Models》閱讀筆記：建立多元思維模型](/reading-notes/the-great-mental-models/) <span class="view-count">(922)</span>
+* [我的 2023 個人知識管理系統 Personal Knowledge Management (PKM)](/blog/2023-personal-knowledge-management/) <span class="view-count">(787)</span>
+* [蘇格拉底式提問法 Socratic Questioning](/wisdom/methods/socratic-questioning/) <span class="view-count">(724)</span>
 * [淨脈呼吸法 Nadi Shodhana](/wisdom/methods/nadi-shodhana/) <span class="view-count">(684)</span>
 * [共振呼吸法 Resonant Frequency Breathing](/wisdom/methods/resonant-frequency-breathing/) <span class="view-count">(542)</span>
 * [【零日攻擊 Zero Day】完整前導片](/wisdom/videos/zero-day-trailer/) <span class="view-count">(514)</span>
 * [DevOpsDays Taipei 2024 心得](/blog/2024-devopsdays-taipei/) <span class="view-count">(407)</span>
-* [《斯多葛生活哲學 55 個練習 The Little Book Of Stoicism》閱讀筆記：幸福之路](/reading-notes/the-little-book-of-stoicism/) <span class="view-count">(398)</span>
+* [關於](/about/) <span class="view-count">(399)</span>
 
 
 # 其他頁面
