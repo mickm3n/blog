@@ -16,7 +16,7 @@ tags = [ "claude-code",]
 在你的 Shell 設定檔（以 zsh 為例是 `~/.zshrc`，bash 則是 `~/.bashrc`）加入：
 
 ```sh
-alias claude-work="CLAUDE_CONFIG_DIR=~/.claude-work command claude"
+alias claude-work="CLAUDE_CONFIG_DIR=~/.claude-work claude"
 ```
 
 存檔後重新載入設定（或開新的終端機視窗），然後執行一次 `claude-work` 完成登入。
