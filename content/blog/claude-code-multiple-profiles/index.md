@@ -32,12 +32,22 @@ alias claude-work="CLAUDE_CONFIG_DIR=~/.claude-work command claude"
 
 你可能會好奇，直接寫 `claude` 不就好了？
 
+如果只設 `claude-work` 這一個 alias，`claude` 本身是執行檔，確實不需要 `command`。
+
+但很常見的做法是**同時把 `claude` 也做成 alias**，綁到個人帳號：
+
 ```sh
-# 如果你的預設 claude 也是 alias：
-alias claude="CLAUDE_CONFIG_DIR=~/.claude claude"  # ← 這樣 claude-work 裡的 claude 會再次觸發這個 alias
+alias claude="CLAUDE_CONFIG_DIR=~/.claude command claude"
+alias claude-work="CLAUDE_CONFIG_DIR=~/.claude-work command claude"
 ```
 
-`command` 是 Shell 內建指令，作用是**直接呼叫同名的執行檔，略過所有 alias 和 shell function**。這樣可以確保不論你有沒有對 `claude` 設定其他 alias，`claude-work` 都能正確呼叫到實際的二進位執行檔，避免無限遞迴呼叫。
+這時候如果 `claude-work` 裡寫的是 `claude`（沒有 `command`），執行流程會變成：
+
+1. `claude-work` 展開 → `CLAUDE_CONFIG_DIR=~/.claude-work claude`
+2. `claude` 觸發 alias → `CLAUDE_CONFIG_DIR=~/.claude claude`（還把剛設的 env var 覆蓋掉了！）
+3. `claude` 再次觸發 alias → 無限遞迴
+
+`command` 是 Shell 內建指令，作用是**直接呼叫同名的執行檔，略過所有 alias 和 shell function**。兩個 alias 裡都加上 `command`，就能確保呼叫的是實際的二進位執行檔，不會互相干擾。
 
 # 環境相容性
 
