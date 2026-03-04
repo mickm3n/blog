@@ -3,7 +3,7 @@ publish = "public"
 command = "zola build"
 
 [build.environment]
-ZOLA_VERSION = "0.19.2"
+ZOLA_VERSION = "0.22.1"
 
 # 正式環境 - 使用 config.toml 中設定的 base_url
 [context.production]
