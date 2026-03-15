@@ -22,12 +22,12 @@ description = "探索以 Static Site Generator（Zola）打造的輕量網站，
 * [《文化地圖 The Culture Map》閱讀筆記：跨國合作的八大維度](/reading-notes/the-culture-map/) <span class="view-count">(1403)</span>
 * [《思考的框架 The Great Mental Models》閱讀筆記：建立多元思維模型](/reading-notes/the-great-mental-models/) <span class="view-count">(944)</span>
 * [我的 2023 個人知識管理系統 Personal Knowledge Management (PKM)](/blog/2023-personal-knowledge-management/) <span class="view-count">(791)</span>
-* [蘇格拉底式提問法 Socratic Questioning](/wisdom/methods/socratic-questioning/) <span class="view-count">(752)</span>
-* [淨脈呼吸法 Nadi Shodhana](/wisdom/methods/nadi-shodhana/) <span class="view-count">(701)</span>
-* [共振呼吸法 Resonant Frequency Breathing](/wisdom/methods/resonant-frequency-breathing/) <span class="view-count">(553)</span>
+* [蘇格拉底式提問法 Socratic Questioning](/wisdom/methods/socratic-questioning/) <span class="view-count">(754)</span>
+* [淨脈呼吸法 Nadi Shodhana](/wisdom/methods/nadi-shodhana/) <span class="view-count">(702)</span>
+* [共振呼吸法 Resonant Frequency Breathing](/wisdom/methods/resonant-frequency-breathing/) <span class="view-count">(554)</span>
+* [龍蝦（OpenClaw）的排程任務：Heartbeat Cron vs Isolated Cron 的差異與選擇](/blog/openclaw-heartbeat-vs-isolated-cron/) <span class="view-count">(534)</span>
 * [【零日攻擊 Zero Day】完整前導片](/wisdom/videos/zero-day-trailer/) <span class="view-count">(514)</span>
-* [龍蝦（OpenClaw）的排程任務：Heartbeat Cron vs Isolated Cron 的差異與選擇](/blog/openclaw-heartbeat-vs-isolated-cron/) <span class="view-count">(513)</span>
-* [查理蒙格 Charles T. Munger 的投資原則檢查清單](/wisdom/lists/charles-munger-investing-principle-checklist/) <span class="view-count">(420)</span>
+* [查理蒙格 Charles T. Munger 的投資原則檢查清單](/wisdom/lists/charles-munger-investing-principle-checklist/) <span class="view-count">(421)</span>
 
 
 # 其他頁面
