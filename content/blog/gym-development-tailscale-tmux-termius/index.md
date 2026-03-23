@@ -96,11 +96,30 @@ macOS 預設沒有開 SSH，需要手動啟用：
 brew install tmux
 ```
 
-### 4. 確認 Tailscale IP
+### 4. 設定 tmux（行動裝置優化）
+
+安裝完後建議加一份最小設定，讓 Termius 在手機上操作更順：
+
+```bash
+# ~/.tmux.conf
+set -g mouse on           # 觸控捲動與點選 pane（最重要）
+set -sg escape-time 0     # 減少輸入延遲
+set -g history-limit 10000  # 增加捲動記錄長度
+```
+
+其中 `mouse on` 是關鍵：沒有這行的話，在 Termius 上滑動畫面不會捲動輸出，而是會循環切換歷史指令，非常難用。
+
+設定完後執行一次讓設定生效：
+
+```bash
+tmux source-file ~/.tmux.conf
+```
+
+### 5. 確認 Tailscale IP
 
 可以在狀態列看到
 
-![](tailscale.png)
+![](tailscale.webp)
 
 在 Mac Mini 上執行：
 
