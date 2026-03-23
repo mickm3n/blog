@@ -119,7 +119,7 @@ tmux source-file ~/.tmux.conf
 
 可以在狀態列看到
 
-![](tailscale.png)
+![](tailscale.webp)
 
 在 Mac Mini 上執行：
 
