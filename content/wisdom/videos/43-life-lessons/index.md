@@ -1,11 +1,11 @@
 +++
-title = "43 個人生智慧"
+title = "Mark Manson 的人生智慧建議"
 date = 2026-04-03
 description = "43 條關於成長、關係、自律與自我的人生智慧，涵蓋恐懼管理、情緒成熟、真正的自由與療癒等核心議題。"
 
 [taxonomies]
 categories = ["閱讀筆記"]
-tags = ["life", "self-growth", "relationships", "wisdom"]
+tags = []
 
 +++
 
