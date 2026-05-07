@@ -18,16 +18,16 @@ description = "探索以 Static Site Generator（Zola）打造的輕量網站，
 另外在閱讀到很喜歡的網路資源時，會做簡單的整理和心得作推薦，可以從「[眾人的智慧](wistom/)」查看我精選的網路資源。
 
 # 熱門文章
-* [2023 溫布頓網球現場排票心得](/blog/2023-wimbledon-tennis/) <span class="view-count">(2742)</span>
-* [龍蝦（OpenClaw）的排程任務：Heartbeat Cron vs Isolated Cron 的差異與選擇](/blog/openclaw-heartbeat-vs-isolated-cron/) <span class="view-count">(1540)</span>
-* [《文化地圖 The Culture Map》閱讀筆記：跨國合作的八大維度](/reading-notes/the-culture-map/) <span class="view-count">(1523)</span>
-* [AI 負責寫 Code，工程師去重訓：用 Tailscale + tmux + Termius 實現健身房開發](/blog/gym-development-tailscale-tmux-termius/) <span class="view-count">(1247)</span>
-* [《思考的框架 The Great Mental Models》閱讀筆記：建立多元思維模型](/reading-notes/the-great-mental-models/) <span class="view-count">(1044)</span>
+* [2023 溫布頓網球現場排票心得](/blog/2023-wimbledon-tennis/) <span class="view-count">(2743)</span>
+* [龍蝦（OpenClaw）的排程任務：Heartbeat Cron vs Isolated Cron 的差異與選擇](/blog/openclaw-heartbeat-vs-isolated-cron/) <span class="view-count">(1547)</span>
+* [《文化地圖 The Culture Map》閱讀筆記：跨國合作的八大維度](/reading-notes/the-culture-map/) <span class="view-count">(1525)</span>
+* [AI 負責寫 Code，工程師去重訓：用 Tailscale + tmux + Termius 實現健身房開發](/blog/gym-development-tailscale-tmux-termius/) <span class="view-count">(1260)</span>
+* [《思考的框架 The Great Mental Models》閱讀筆記：建立多元思維模型](/reading-notes/the-great-mental-models/) <span class="view-count">(1045)</span>
 * [我的 2023 個人知識管理系統 Personal Knowledge Management (PKM)](/blog/2023-personal-knowledge-management/) <span class="view-count">(814)</span>
-* [蘇格拉底式提問法 Socratic Questioning](/wisdom/methods/socratic-questioning/) <span class="view-count">(813)</span>
-* [淨脈呼吸法 Nadi Shodhana](/wisdom/methods/nadi-shodhana/) <span class="view-count">(790)</span>
-* [共振呼吸法 Resonant Frequency Breathing](/wisdom/methods/resonant-frequency-breathing/) <span class="view-count">(594)</span>
-* [不讓 Claude Code 下班的 Ralph Wiggum Plugin](/blog/ralph-wiggum-plugin/) <span class="view-count">(529)</span>
+* [蘇格拉底式提問法 Socratic Questioning](/wisdom/methods/socratic-questioning/) <span class="view-count">(814)</span>
+* [淨脈呼吸法 Nadi Shodhana](/wisdom/methods/nadi-shodhana/) <span class="view-count">(792)</span>
+* [共振呼吸法 Resonant Frequency Breathing](/wisdom/methods/resonant-frequency-breathing/) <span class="view-count">(595)</span>
+* [不讓 Claude Code 下班的 Ralph Wiggum Plugin](/blog/ralph-wiggum-plugin/) <span class="view-count">(533)</span>
 
 
 # 其他頁面
