@@ -19,14 +19,14 @@ description = "探索以 Static Site Generator（Zola）打造的輕量網站，
 
 # 熱門文章
 * [2023 溫布頓網球現場排票心得](/blog/2023-wimbledon-tennis/) <span class="view-count">(2748)</span>
-* [龍蝦（OpenClaw）的排程任務：Heartbeat Cron vs Isolated Cron 的差異與選擇](/blog/openclaw-heartbeat-vs-isolated-cron/) <span class="view-count">(1582)</span>
-* [《文化地圖 The Culture Map》閱讀筆記：跨國合作的八大維度](/reading-notes/the-culture-map/) <span class="view-count">(1531)</span>
-* [AI 負責寫 Code，工程師去重訓：用 Tailscale + tmux + Termius 實現健身房開發](/blog/gym-development-tailscale-tmux-termius/) <span class="view-count">(1300)</span>
-* [《思考的框架 The Great Mental Models》閱讀筆記：建立多元思維模型](/reading-notes/the-great-mental-models/) <span class="view-count">(1053)</span>
-* [蘇格拉底式提問法 Socratic Questioning](/wisdom/methods/socratic-questioning/) <span class="view-count">(822)</span>
+* [龍蝦（OpenClaw）的排程任務：Heartbeat Cron vs Isolated Cron 的差異與選擇](/blog/openclaw-heartbeat-vs-isolated-cron/) <span class="view-count">(1587)</span>
+* [《文化地圖 The Culture Map》閱讀筆記：跨國合作的八大維度](/reading-notes/the-culture-map/) <span class="view-count">(1532)</span>
+* [AI 負責寫 Code，工程師去重訓：用 Tailscale + tmux + Termius 實現健身房開發](/blog/gym-development-tailscale-tmux-termius/) <span class="view-count">(1305)</span>
+* [《思考的框架 The Great Mental Models》閱讀筆記：建立多元思維模型](/reading-notes/the-great-mental-models/) <span class="view-count">(1054)</span>
+* [蘇格拉底式提問法 Socratic Questioning](/wisdom/methods/socratic-questioning/) <span class="view-count">(825)</span>
 * [我的 2023 個人知識管理系統 Personal Knowledge Management (PKM)](/blog/2023-personal-knowledge-management/) <span class="view-count">(816)</span>
-* [淨脈呼吸法 Nadi Shodhana](/wisdom/methods/nadi-shodhana/) <span class="view-count">(812)</span>
-* [共振呼吸法 Resonant Frequency Breathing](/wisdom/methods/resonant-frequency-breathing/) <span class="view-count">(605)</span>
+* [淨脈呼吸法 Nadi Shodhana](/wisdom/methods/nadi-shodhana/) <span class="view-count">(813)</span>
+* [共振呼吸法 Resonant Frequency Breathing](/wisdom/methods/resonant-frequency-breathing/) <span class="view-count">(607)</span>
 * [不讓 Claude Code 下班的 Ralph Wiggum Plugin](/blog/ralph-wiggum-plugin/) <span class="view-count">(560)</span>
 
 
