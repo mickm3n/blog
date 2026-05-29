@@ -19,15 +19,15 @@ description = "探索以 Static Site Generator（Zola）打造的輕量網站，
 
 # 熱門文章
 * [2023 溫布頓網球現場排票心得](/blog/2023-wimbledon-tennis/) <span class="view-count">(2752)</span>
-* [龍蝦（OpenClaw）的排程任務：Heartbeat Cron vs Isolated Cron 的差異與選擇](/blog/openclaw-heartbeat-vs-isolated-cron/) <span class="view-count">(1648)</span>
+* [龍蝦（OpenClaw）的排程任務：Heartbeat Cron vs Isolated Cron 的差異與選擇](/blog/openclaw-heartbeat-vs-isolated-cron/) <span class="view-count">(1652)</span>
 * [《文化地圖 The Culture Map》閱讀筆記：跨國合作的八大維度](/reading-notes/the-culture-map/) <span class="view-count">(1549)</span>
-* [AI 負責寫 Code，工程師去重訓：用 Tailscale + tmux + Termius 實現健身房開發](/blog/gym-development-tailscale-tmux-termius/) <span class="view-count">(1366)</span>
+* [AI 負責寫 Code，工程師去重訓：用 Tailscale + tmux + Termius 實現健身房開發](/blog/gym-development-tailscale-tmux-termius/) <span class="view-count">(1372)</span>
 * [《思考的框架 The Great Mental Models》閱讀筆記：建立多元思維模型](/reading-notes/the-great-mental-models/) <span class="view-count">(1067)</span>
-* [蘇格拉底式提問法 Socratic Questioning](/wisdom/methods/socratic-questioning/) <span class="view-count">(833)</span>
+* [蘇格拉底式提問法 Socratic Questioning](/wisdom/methods/socratic-questioning/) <span class="view-count">(835)</span>
 * [淨脈呼吸法 Nadi Shodhana](/wisdom/methods/nadi-shodhana/) <span class="view-count">(825)</span>
 * [我的 2023 個人知識管理系統 Personal Knowledge Management (PKM)](/blog/2023-personal-knowledge-management/) <span class="view-count">(819)</span>
-* [共振呼吸法 Resonant Frequency Breathing](/wisdom/methods/resonant-frequency-breathing/) <span class="view-count">(621)</span>
-* [如何在一台電腦上使用多個 Claude Code Profile](/blog/claude-code-multiple-profiles/) <span class="view-count">(606)</span>
+* [共振呼吸法 Resonant Frequency Breathing](/wisdom/methods/resonant-frequency-breathing/) <span class="view-count">(623)</span>
+* [如何在一台電腦上使用多個 Claude Code Profile](/blog/claude-code-multiple-profiles/) <span class="view-count">(612)</span>
 
 
 # 其他頁面
