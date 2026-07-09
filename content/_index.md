@@ -18,16 +18,16 @@ description = "探索以 Static Site Generator（Zola）打造的輕量網站，
 另外在閱讀到很喜歡的網路資源時，會做簡單的整理和心得作推薦，可以從「[眾人的智慧](wistom/)」查看我精選的網路資源。
 
 # 熱門文章
-* [2023 溫布頓網球現場排票心得](/blog/2023-wimbledon-tennis/) <span class="view-count">(2800)</span>
-* [龍蝦（OpenClaw）的排程任務：Heartbeat Cron vs Isolated Cron 的差異與選擇](/blog/openclaw-heartbeat-vs-isolated-cron/) <span class="view-count">(1764)</span>
+* [2023 溫布頓網球現場排票心得](/blog/2023-wimbledon-tennis/) <span class="view-count">(2803)</span>
+* [龍蝦（OpenClaw）的排程任務：Heartbeat Cron vs Isolated Cron 的差異與選擇](/blog/openclaw-heartbeat-vs-isolated-cron/) <span class="view-count">(1766)</span>
 * [《文化地圖 The Culture Map》閱讀筆記：跨國合作的八大維度](/reading-notes/the-culture-map/) <span class="view-count">(1670)</span>
-* [AI 負責寫 Code，工程師去重訓：用 Tailscale + tmux + Termius 實現健身房開發](/blog/gym-development-tailscale-tmux-termius/) <span class="view-count">(1604)</span>
-* [《思考的框架 The Great Mental Models》閱讀筆記：建立多元思維模型](/reading-notes/the-great-mental-models/) <span class="view-count">(1098)</span>
-* [如何在一台電腦上使用多個 Claude Code Profile](/blog/claude-code-multiple-profiles/) <span class="view-count">(910)</span>
-* [蘇格拉底式提問法 Socratic Questioning](/wisdom/methods/socratic-questioning/) <span class="view-count">(882)</span>
+* [AI 負責寫 Code，工程師去重訓：用 Tailscale + tmux + Termius 實現健身房開發](/blog/gym-development-tailscale-tmux-termius/) <span class="view-count">(1611)</span>
+* [《思考的框架 The Great Mental Models》閱讀筆記：建立多元思維模型](/reading-notes/the-great-mental-models/) <span class="view-count">(1100)</span>
+* [如何在一台電腦上使用多個 Claude Code Profile](/blog/claude-code-multiple-profiles/) <span class="view-count">(919)</span>
+* [蘇格拉底式提問法 Socratic Questioning](/wisdom/methods/socratic-questioning/) <span class="view-count">(883)</span>
 * [淨脈呼吸法 Nadi Shodhana](/wisdom/methods/nadi-shodhana/) <span class="view-count">(861)</span>
-* [我的 2023 個人知識管理系統 Personal Knowledge Management (PKM)](/blog/2023-personal-knowledge-management/) <span class="view-count">(845)</span>
-* [《斯多葛生活哲學 55 個練習 The Little Book Of Stoicism》閱讀筆記：幸福之路](/reading-notes/the-little-book-of-stoicism/) <span class="view-count">(677)</span>
+* [我的 2023 個人知識管理系統 Personal Knowledge Management (PKM)](/blog/2023-personal-knowledge-management/) <span class="view-count">(846)</span>
+* [《斯多葛生活哲學 55 個練習 The Little Book Of Stoicism》閱讀筆記：幸福之路](/reading-notes/the-little-book-of-stoicism/) <span class="view-count">(679)</span>
 
 
 # 其他頁面
