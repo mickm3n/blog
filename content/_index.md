@@ -20,14 +20,14 @@ description = "探索以 Static Site Generator（Zola）打造的輕量網站，
 # 熱門文章
 * [2023 溫布頓網球現場排票心得](/blog/2023-wimbledon-tennis/) <span class="view-count">(2807)</span>
 * [龍蝦（OpenClaw）的排程任務：Heartbeat Cron vs Isolated Cron 的差異與選擇](/blog/openclaw-heartbeat-vs-isolated-cron/) <span class="view-count">(1786)</span>
-* [AI 負責寫 Code，工程師去重訓：用 Tailscale + tmux + Termius 實現健身房開發](/blog/gym-development-tailscale-tmux-termius/) <span class="view-count">(1701)</span>
-* [《文化地圖 The Culture Map》閱讀筆記：跨國合作的八大維度](/reading-notes/the-culture-map/) <span class="view-count">(1676)</span>
-* [《思考的框架 The Great Mental Models》閱讀筆記：建立多元思維模型](/reading-notes/the-great-mental-models/) <span class="view-count">(1107)</span>
-* [如何在一台電腦上使用多個 Claude Code Profile](/blog/claude-code-multiple-profiles/) <span class="view-count">(982)</span>
+* [AI 負責寫 Code，工程師去重訓：用 Tailscale + tmux + Termius 實現健身房開發](/blog/gym-development-tailscale-tmux-termius/) <span class="view-count">(1703)</span>
+* [《文化地圖 The Culture Map》閱讀筆記：跨國合作的八大維度](/reading-notes/the-culture-map/) <span class="view-count">(1678)</span>
+* [《思考的框架 The Great Mental Models》閱讀筆記：建立多元思維模型](/reading-notes/the-great-mental-models/) <span class="view-count">(1110)</span>
+* [如何在一台電腦上使用多個 Claude Code Profile](/blog/claude-code-multiple-profiles/) <span class="view-count">(987)</span>
 * [蘇格拉底式提問法 Socratic Questioning](/wisdom/methods/socratic-questioning/) <span class="view-count">(893)</span>
-* [淨脈呼吸法 Nadi Shodhana](/wisdom/methods/nadi-shodhana/) <span class="view-count">(870)</span>
+* [淨脈呼吸法 Nadi Shodhana](/wisdom/methods/nadi-shodhana/) <span class="view-count">(873)</span>
 * [我的 2023 個人知識管理系統 Personal Knowledge Management (PKM)](/blog/2023-personal-knowledge-management/) <span class="view-count">(852)</span>
-* [《斯多葛生活哲學 55 個練習 The Little Book Of Stoicism》閱讀筆記：幸福之路](/reading-notes/the-little-book-of-stoicism/) <span class="view-count">(699)</span>
+* [《斯多葛生活哲學 55 個練習 The Little Book Of Stoicism》閱讀筆記：幸福之路](/reading-notes/the-little-book-of-stoicism/) <span class="view-count">(705)</span>
 
 
 # 其他頁面
